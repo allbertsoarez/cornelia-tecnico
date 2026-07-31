@@ -1,4 +1,4 @@
-### 2. Encapsulamento
+# Encapsulamento
 Protegendo os dados internos e expondo apenas o necessário através de métodos.
 
 ```text
