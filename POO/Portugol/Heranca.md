@@ -1,4 +1,4 @@
-# Herança
+# HERANÇA
 Reutilizando código de uma classe pai para uma classe filha.
 
 ```text
