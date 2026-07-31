@@ -1,6 +1,7 @@
 # Polimorfismo
 Diferentes objetos respondendo à mesma mensagem (método) de formas diferentes.
-```
+
+```text
 CLASSE Animal
     METODO emitirSom()
         // Implementação genérica ou vazia
@@ -24,11 +25,10 @@ listaDeAnimais = [NOVO Cachorro(), NOVO Gato()]
 
 PARA CADA animal EM listaDeAnimais FAÇA
     // A mesma chamada, mas comportamentos diferentes!
-    animal.emitirSom() 
+    animal.emitirSom()
 FIM PARA
 
 // Saída:
-```
 // Au au!
 // Miau!
 ```
