@@ -5,8 +5,8 @@ Todos os arquivos usados nas aulas estão armazenados nas pastas das disciplinas
 
 ## HORÁRIO DAS AULAS
 
-| Seg  | Ter | Qua | Qui | Sex |
-|---|---|---|---|---|
+|  Seg | Ter  | Qua  | Qui  | Sex  |
+|:-:|:-:|:-:|:-:|:-:|
 |   |   |   |   |   |
 |   |   |   |   |   |
 |   |   |   |   |   |
