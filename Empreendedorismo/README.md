@@ -4,8 +4,7 @@
 
 ## Links
 
-- Palestra David Pontes
-https://youtu.be/xrgE1NK1eeM
+- [Palestra David Pontes](https://youtu.be/xrgE1NK1eeM)
 
 
 
