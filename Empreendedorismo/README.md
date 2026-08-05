@@ -6,6 +6,9 @@
 
 - [Palestra David Pontes](https://youtu.be/xrgE1NK1eeM)
 
+**Sites para criar Currículo**
+- https://zety.com/br/blog/curriculo-primeiro-emprego
+- https://ocurriculo.com.br/
 
 
 
