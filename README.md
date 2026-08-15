@@ -7,10 +7,10 @@ Todos os arquivos usados nas aulas estão armazenados nas pastas das disciplinas
 
 |  Segunda | Terça  | Quarta  | Quinta  | Sexta  |
 |:-:|:-:|:-:|:-:|:-:|
-| Ling Orientada à Objetos | Prog WEB          | Análise de Sistemas  | Banco de Dados            | Banco de Dados      |
-| Ling Orientada à Objetos | Prog WEB          | Análise de Sistemas  | Ling Orientada à Objetos  | Banco de Dados      |
-| Projeto Integrador       | Empreendedorismo  | Prog WEB             | Ling Orientada à Objetos  | Análise de Sistemas |
-| Análise de Sistemas      | Banco de Dados    | Empreendedorismo     | Prog WEB                  | Projeto Integrador  |
-| Análise de Sistemas      | Banco de Dados    | Empreendedorismo     | Prog WEB                  |                     |
+| Linguagem Orientada à Objetos | Programação para Internet     | Análise de Sistemas    | Banco de Dados            | Banco de Dados      |
+| Linguagem Orientada à Objetos | Programação para Internet     | Análise de Sistemas    | Ling Orientada à Objetos  | Banco de Dados      |
+| Projeto Integrador            | Linguagem Orientada à Objetos | Programação para Internet | Ling Orientada à Objetos  | Análise de Sistemas |
+| Análise de Sistemas           | Banco de Dados                | Empreendedorismo     | Programação para Internet                  | Projeto Integrador  |
+| Análise de Sistemas           | Banco de Dados                | Empreendedorismo     | Programação para Internet                  |                     |
 
 
