@@ -21,8 +21,8 @@ Extensões úteis para VSCode
 
 - [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)
 - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
-  
-- https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula
+- [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula)
+
 - https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server
 - https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
