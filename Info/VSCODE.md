@@ -1,21 +1,19 @@
 # VS CODE
 Editor de código fonte, depurador e IDE
 
-Como fazer download do VS Code
+Como fazer download do Visual Studio Code
 - https://code.visualstudio.com/
 - https://code.visualstudio.com/download
+- https://visualstudio.microsoft.com/pt-br/downloads/
+- https://github.com/microsoft/vscode
+- https://pt.wikipedia.org/wiki/Visual_Studio_Code
 
+Versão web do VSCODE
+- https://code.visualstudio.com/docs/editor/vscode-web
 
 VSCodium - Versão livre de telemetria da Microsoft
 - https://vscodium.com/
 - https://github.com/VSCodium/vscodium
-
-
-- https://visualstudio.microsoft.com/pt-br/downloads/
-
-- https://code.visualstudio.com/docs/editor/vscode-web
-- https://pt.wikipedia.org/wiki/Visual_Studio_Code
-- https://github.com/microsoft/vscode
 
 ---
 
@@ -53,8 +51,7 @@ Algumas extensões para testar no VSCode
 • Continue
 • Cline
 
-
-
+****
 
 ## COMO RODAR LINGUAGEM C NO VS CODE
 
@@ -70,12 +67,3 @@ Para Linguagem C
 **C/C++**
 - https://code.visualstudio.com/docs/languages/cpp
 - https://youtu.be/OJTLMcjK8mQ
-
-****
-# Referências
-
-
-
-
-
-
