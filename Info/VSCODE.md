@@ -15,11 +15,8 @@ Editor de código fonte, depurador e IDE
 ## VSCodium - Versão livre de telemetria da Microsoft
 - https://vscodium.com/
 - https://github.com/VSCodium/vscodium
-
----
-
-### Extensões para VS CODE
-
+****
+## Extensões para VS CODE
 Extensões úteis para VSCode
 - https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color
 - https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
@@ -51,9 +48,7 @@ Algumas extensões para testar no VSCode
 • Settings Sync - Sincronização de configs
 • Continue
 • Cline
-
 ****
-
 ## COMO RODAR LINGUAGEM C NO VS CODE
 
 ### Baixar MinGW
