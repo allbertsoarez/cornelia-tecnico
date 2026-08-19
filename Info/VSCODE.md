@@ -11,8 +11,6 @@ Adicionar Variáveis de ambiente **C:\MinGW\Bin**
 
 ### Extensões para VS CODE
 
-OBS: Estale apenas uma das opções
-
 **C/C++ Compile Run**
 - https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run
 
