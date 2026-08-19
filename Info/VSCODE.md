@@ -23,8 +23,8 @@ Extensões úteis para VSCode
 - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula)
 - [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
+- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - 
-- https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
 - https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 - https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets
 - https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
