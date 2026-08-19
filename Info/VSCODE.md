@@ -10,7 +10,7 @@
 ****
 ### Versão web do VSCODE
 - [Ver WEB](https://vscode.dev/?vscode-lang=pt-br)
-- https://code.visualstudio.com/docs/editor/vscode-web
+- [Documentação](https://code.visualstudio.com/docs/editor/vscode-web)
 ****
 ### VSCodium - Versão livre de telemetria da Microsoft
 - https://vscodium.com/
