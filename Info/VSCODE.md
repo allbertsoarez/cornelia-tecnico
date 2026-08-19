@@ -7,10 +7,11 @@ Editor de código fonte, depurador e IDE
 - https://visualstudio.microsoft.com/pt-br/downloads/
 - https://github.com/microsoft/vscode
 - https://pt.wikipedia.org/wiki/Visual_Studio_Code
-
+****
 ## Versão web do VSCODE
 - https://code.visualstudio.com/docs/editor/vscode-web
-
+- https://vscode.dev/?vscode-lang=pt-br
+****
 ## VSCodium - Versão livre de telemetria da Microsoft
 - https://vscodium.com/
 - https://github.com/VSCodium/vscodium
