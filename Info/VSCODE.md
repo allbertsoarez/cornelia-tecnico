@@ -22,18 +22,15 @@ Extensões úteis para VSCode
 - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula)
 - [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
-- [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
-- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [GitLens - Visualização avançada de Git](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Prettier - Formatação automática](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
-- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
-- [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [GitHub Copilot - Pair programming com IA](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
+- [Material Icon Theme - Ícones personalizados](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
+- [Error Lens - Detecção de erros](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
 Algumas extensões para testar no VSCode
-
-- GitLens - Visualização avançada de Git
-- Prettier - Formatação automática
 - ESLint - Qualidade de código
 - Live Share - Colaboração em tempo real
 - Thunder Client - Teste de APIs
@@ -41,11 +38,8 @@ Algumas extensões para testar no VSCode
 - Auto Rename Tag - HTML/JSX helper
 - Color Highlight - Visualização de cores
 - Path Intellisense - Autocompletar caminhos
-- Material Icon Theme - Ícones personalizados
 - Better Comments - Comentários organizados
-- Error Lens - Detecção de erros
 - Tabnine AI - Autocomplete com IA
-- Github Copilot - Pair programming com IA
 - Settings Sync - Sincronização de configs
 - Continue
 - Cline
