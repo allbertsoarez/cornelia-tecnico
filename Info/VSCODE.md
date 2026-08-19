@@ -2,12 +2,12 @@
 
 ## COMO RODAR LINGUAGEM C NO VS CODE
 
-## Baixar MinGW
+### Baixar MinGW
 - https://www.mingw-w64.org/
 
 Adicionar Variáveis de ambiente **C:\MinGW\Bin**
 
-## Extensões para VS CODE
+### Extensões para VS CODE
 C/C++ Compile Run
 - https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run
 
