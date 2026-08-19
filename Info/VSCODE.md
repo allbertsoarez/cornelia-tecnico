@@ -28,8 +28,8 @@ Extensões úteis para VSCode
 - [Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+- [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
 - 
-- https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
 - https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
 
 Algumas extensões para testar no VSCode
