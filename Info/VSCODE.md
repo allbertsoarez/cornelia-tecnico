@@ -26,8 +26,8 @@ Extensões úteis para VSCode
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 - [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - [Pets](https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets)
+- [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - 
-- https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
 - https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 - https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
 - https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
