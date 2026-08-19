@@ -1,17 +1,17 @@
 # VS CODE
 Editor de código fonte, depurador e IDE
 
-Como fazer download do Visual Studio Code
+## Como fazer download do Visual Studio Code
 - https://code.visualstudio.com/
 - https://code.visualstudio.com/download
 - https://visualstudio.microsoft.com/pt-br/downloads/
 - https://github.com/microsoft/vscode
 - https://pt.wikipedia.org/wiki/Visual_Studio_Code
 
-Versão web do VSCODE
+## Versão web do VSCODE
 - https://code.visualstudio.com/docs/editor/vscode-web
 
-VSCodium - Versão livre de telemetria da Microsoft
+## VSCodium - Versão livre de telemetria da Microsoft
 - https://vscodium.com/
 - https://github.com/VSCodium/vscodium
 
