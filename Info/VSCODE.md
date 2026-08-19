@@ -18,8 +18,8 @@ Editor de código fonte, depurador e IDE
 ****
 ## Extensões para VS CODE
 Extensões úteis para VSCode
-**Color Picker**
-- https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color
+
+- [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)
 
 - https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
 - https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula
