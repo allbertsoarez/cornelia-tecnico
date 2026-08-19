@@ -18,7 +18,6 @@ Editor de código fonte, depurador e IDE
 ****
 ## Extensões para VS CODE
 Extensões úteis para VSCode
-
 - [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)
 - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula)
@@ -29,8 +28,7 @@ Extensões úteis para VSCode
 - [GitHub Copilot](https://marketplace.visualstudio.com/items?itemName=GitHub.copilot)
 - [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 - [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-- 
-- https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
+- [Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens)
 
 Algumas extensões para testar no VSCode
 
