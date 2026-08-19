@@ -1,33 +1,16 @@
 # VS CODE
-
-## COMO RODAR LINGUAGEM C NO VS CODE
-
-### Baixar MinGW
-- https://www.mingw-w64.org/
-
-Adicionar Variáveis de ambiente **C:\MinGW\Bin**
-
----
-
-### Extensões para VS CODE
-
-**C/C++ Compile Run**
-- https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run
-
-**C/C++**
-- https://code.visualstudio.com/docs/languages/cpp
-- https://youtu.be/OJTLMcjK8mQ
-
----
-
-# VSCode
 Editor de código fonte, depurador e IDE
 
-OBS:
+**OBS:**
 - Emmet já é padrão do VSCode
 
-****
-# Referências
+Como fazer download do VS Code
+
+
+VSCodium - Versão livre de telemetria da Microsoft
+- https://vscodium.com/
+- https://github.com/VSCodium/vscodium
+
 
 - https://visualstudio.microsoft.com/pt-br/downloads/
 - https://code.visualstudio.com/
@@ -36,9 +19,11 @@ OBS:
 - https://pt.wikipedia.org/wiki/Visual_Studio_Code
 - https://github.com/microsoft/vscode
 
+---
 
+### Extensões para VS CODE
 
-##### Extensões úteis para VSCode
+Extensões úteis para VSCode
 - https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color
 - https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers
 - https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula
@@ -51,12 +36,7 @@ OBS:
 - https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode
 - https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
 
-##### Versão livre de telemetria da Microsoft
-- https://vscodium.com/
-- https://github.com/VSCodium/vscodium
-
-#### Algumas extensões para testar no VSCode
-
+Algumas extensões para testar no VSCode
 • GitLens - Visualização avançada de Git
 • Prettier - Formatação automática
 • ESLint - Qualidade de código
@@ -74,3 +54,30 @@ OBS:
 • Settings Sync - Sincronização de configs
 • Continue
 • Cline
+
+
+
+
+## COMO RODAR LINGUAGEM C NO VS CODE
+
+### Baixar MinGW
+- https://www.mingw-w64.org/
+
+Adicionar Variáveis de ambiente **C:\MinGW\Bin**
+
+Para Linguagem C
+**C/C++ Compile Run**
+- https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run
+
+**C/C++**
+- https://code.visualstudio.com/docs/languages/cpp
+- https://youtu.be/OJTLMcjK8mQ
+
+****
+# Referências
+
+
+
+
+
+
