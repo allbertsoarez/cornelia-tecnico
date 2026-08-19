@@ -31,25 +31,26 @@ Extensões úteis para VSCode
 - https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens
 
 Algumas extensões para testar no VSCode
-• GitLens - Visualização avançada de Git
-• Prettier - Formatação automática
-• ESLint - Qualidade de código
-• Live Share - Colaboração em tempo real
-• Thunder Client - Teste de APIs
-• Code Spell Checker - Correção ortográfica
-• Auto Rename Tag - HTML/JSX helper
-• Color Highlight - Visualização de cores
-• Path Intellisense - Autocompletar caminhos
-• Material Icon Theme - Ícones personalizados
-• Better Comments - Comentários organizados
-• Error Lens - Detecção de erros
-• Tabnine AI - Autocomplete com IA
-• Github Copilot - Pair programming com IA
-• Settings Sync - Sincronização de configs
-• Continue
-• Cline
+
+- GitLens - Visualização avançada de Git
+- Prettier - Formatação automática
+- ESLint - Qualidade de código
+- Live Share - Colaboração em tempo real
+- Thunder Client - Teste de APIs
+- Code Spell Checker - Correção ortográfica
+- Auto Rename Tag - HTML/JSX helper
+- Color Highlight - Visualização de cores
+- Path Intellisense - Autocompletar caminhos
+- Material Icon Theme - Ícones personalizados
+- Better Comments - Comentários organizados
+- Error Lens - Detecção de erros
+- Tabnine AI - Autocomplete com IA
+- Github Copilot - Pair programming com IA
+- Settings Sync - Sincronização de configs
+- Continue
+- Cline
 ****
-## COMO RODAR LINGUAGEM C NO VS CODE
+# COMO RODAR LINGUAGEM C NO VS CODE
 
 ### Baixar MinGW
 - https://www.mingw-w64.org/
