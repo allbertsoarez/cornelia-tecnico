@@ -1,10 +1,9 @@
 # VS CODE
 Editor de código fonte, depurador e IDE
 
-**OBS:**
-- Emmet já é padrão do VSCode
-
 Como fazer download do VS Code
+- https://code.visualstudio.com/
+- https://code.visualstudio.com/download
 
 
 VSCodium - Versão livre de telemetria da Microsoft
@@ -13,8 +12,7 @@ VSCodium - Versão livre de telemetria da Microsoft
 
 
 - https://visualstudio.microsoft.com/pt-br/downloads/
-- https://code.visualstudio.com/
-- https://code.visualstudio.com/download
+
 - https://code.visualstudio.com/docs/editor/vscode-web
 - https://pt.wikipedia.org/wiki/Visual_Studio_Code
 - https://github.com/microsoft/vscode
