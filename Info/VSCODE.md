@@ -9,8 +9,8 @@
 - https://pt.wikipedia.org/wiki/Visual_Studio_Code
 ****
 ### Versão web do VSCODE
+- [Ver WEB](https://vscode.dev/?vscode-lang=pt-br)
 - https://code.visualstudio.com/docs/editor/vscode-web
-- https://vscode.dev/?vscode-lang=pt-br
 ****
 ### VSCodium - Versão livre de telemetria da Microsoft
 - https://vscodium.com/
