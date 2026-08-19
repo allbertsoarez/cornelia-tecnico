@@ -24,8 +24,8 @@ Extensões úteis para VSCode
 - [Dracula Official](https://marketplace.visualstudio.com/items?itemName=dracula-theme.dracula)
 - [Live Preview](https://marketplace.visualstudio.com/items?itemName=ms-vscode.live-server)
 - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+- [Prettier](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 - 
-- https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode
 - https://marketplace.visualstudio.com/items?itemName=tonybaloney.vscode-pets
 - https://marketplace.visualstudio.com/items?itemName=GitHub.copilot
 - https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
