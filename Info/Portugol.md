@@ -6,11 +6,11 @@
 - https://sites.google.com/site/cleytoncaetanodesouza/disciplinas/algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o-portugol?authuser=0
 ****
 # Softwares
-### Portugol Studio
+**Portugol Studio**
 - https://portugol.dev/
 - https://univali-lite.github.io/Portugol-Studio/
 - https://github.com/UNIVALI-LITE/Portugol-Studio
 ****
-### Visualg
+**Visualg**
 - https://sourceforge.net/projects/visualg30/
 - https://pt.wikipedia.org/wiki/Visualg
