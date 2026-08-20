@@ -9,7 +9,7 @@
 - https://portugol.dev/
 - https://univali-lite.github.io/Portugol-Studio/
 ****
-- https://portugol.dev/
+
 - https://univali-lite.github.io/Portugol-Studio/
 - https://github.com/UNIVALI-LITE/Portugol-Studio
 - https://sourceforge.net/projects/visualg30/
