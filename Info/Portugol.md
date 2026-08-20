@@ -5,7 +5,7 @@
 - https://tutorialdev.com.br/Linguagens/Aprendizado/Portugol/Introducao.aspx
 - https://sites.google.com/site/cleytoncaetanodesouza/disciplinas/algoritmos-e-l%C3%B3gica-de-programa%C3%A7%C3%A3o-portugol?authuser=0
 ****
-## Softwares
+# Softwares
 ### Portugol Studio
 - https://portugol.dev/
 - https://univali-lite.github.io/Portugol-Studio/
