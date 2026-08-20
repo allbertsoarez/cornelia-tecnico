@@ -14,3 +14,7 @@
 **Visualg**
 - https://sourceforge.net/projects/visualg30/
 - https://pt.wikipedia.org/wiki/Visualg
+
+# Cursos Youtube
+- https://www.youtube.com/watch?v=4IMr8PQa0WQ&list=PLucm8g_ezqNp_ubuH4XraJRwvUJogsyiF
+- https://youtu.be/XzkZO2qjgec
