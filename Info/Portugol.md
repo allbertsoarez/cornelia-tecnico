@@ -18,3 +18,6 @@
 ### Cursos Youtube
 - [Introdução à Lógica de Programação com Portugol Studio - 01](https://www.youtube.com/watch?v=4IMr8PQa0WQ&list=PLucm8g_ezqNp_ubuH4XraJRwvUJogsyiF)
 - [Curso Completo de Lógica de Programação com Português Estruturado do Zero ao Avançado](https://youtu.be/XzkZO2qjgec)
+- Curso Completo de Lógica de Programação com Português Estruturado do Zero ao Avançado
+https://youtu.be/XzkZO2qjgec
+
