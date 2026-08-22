@@ -9,13 +9,6 @@
 **Documentação**
 - https://docs.python.org/pt-br/3/
 - https://docs.python.org/pt-br/3.13/
-- https://docs.python.org/pt-br/3.13/library/functions.html
-- https://docs.python.org/pt-br/3.13/library/functions.html#print
-- https://docs.python.org/3/library/functions.html#print
-- https://docs.python.org/pt-br/3.13/library/stdtypes.html#text-sequence-type-str
-- https://docs.python.org/pt-br/3.13/library/functions.html#round
-- https://docs.python.org/3/library/stdtypes.html#string-methods
-- https://docs.python.org/pt-br/3.13/library/stdtypes.html#string-methods
 
 ## IDE para Python
 - https://codewith.mu/en/
