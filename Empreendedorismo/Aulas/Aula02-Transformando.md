@@ -48,7 +48,7 @@ Marcas que transformam consumidores em clientes fanáticos vendem um estilo de v
 **A lição:** Quais são os valores da sua empresa? Compartilhe os bastidores, mostre a equipe, conte as dificuldades e as vitórias. Humanize a sua marca. Pessoas se conectam com pessoas, não com logotipos.
 
 ---
-## CONCLUSÃO
+## 6. CONCLUSÃO
 
 A matemática do empreendedorismo é clara: custa de 5 a 25 vezes mais caro adquirir um novo consumidor do que manter um cliente atual. 
 
