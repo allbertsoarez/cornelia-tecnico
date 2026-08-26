@@ -1,4 +1,4 @@
-# 1. DADOS, INFORMAÇÃO, METADADO E CONHECIMENTO
+# 1. FUNDAMENTOS
 
 No estudo de bancos de dados, é muito comum ouvir os termos **dado**, **informação** e **metadado** como se fossem a mesma coisa. Porém, cada um possui um significado específico. Compreender essa diferença é essencial para quem está iniciando na área de informática, especialmente em cursos técnicos, pois esses conceitos são a base para entender como os sistemas armazenam, organizam e utilizam os registros.
 
