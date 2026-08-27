@@ -1,6 +1,8 @@
 # ANATOMIA DE UM COLAPSO
+
 > Contexto
 > Para ilustrar o impacto real de uma falha de **Procedimentos**, vamos analisar um cenário de alta pressão em um banco fictício durante um dia de grande movimento, como a *Black Friday*.
+
 ### 🟢 O CENÁRIO DE SUCESSO (O SBD FUNCIONANDO EM HARMONIA)
 
 Em um dia normal, o **SBD|Sistema de Banco de Dados (SBD)** opera com seus cinco elementos integrados: 
@@ -30,9 +32,10 @@ Entre os procedimentos padrão, destacam-se a realização de *backups* automát
 - **O Caos nos Dados:** Sem o *rollback* do SGBD e sem um backup íntegro da madrugada para restaurar as contas ao estado seguro das 02h00, o banco perde sua consistência matemática. O dinheiro é debitado da conta de origem de vários clientes, mas nunca chega ao destino, gerando uma quebra grave de **integridade dos dados**.
 
 ---
+
 ### 💡 A Lição Prática
 
-> [!summary] Resumo
+> **Resumo:**
 > O banco possuía um SGBD de última geração capaz de garantir transações seguras (software) e servidores redundantes de alta tecnologia (hardware). No entanto, a falha em um **único componente — os Procedimentos** (negligência na verificação de backups e falta de testes de recuperação) — quebrou a confiança e o funcionamento de todo o Sistema de Banco de Dados.
 
 **Conclusão:** Sem regras de trabalho bem definidas e rigidamente seguidas, o ecossistema tecnológico colapsa.
