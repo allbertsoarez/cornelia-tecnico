@@ -1,6 +1,6 @@
 # RESUMO - POR ONDE COMEÇAR
 
-## 🔴 NÍVEL 1 — Fundamentais (Sem elas, nada se sustenta)
+## 🔴 NÍVEL 1 — FUNDAMENTO (Sem elas, nada se sustenta), *(quem você é)*
 
 | Nº  | Habilidade                 | Resumo rápido                                                                                                             |
 | --- | -------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
@@ -9,7 +9,7 @@
 | 3   | **Autodisciplina**         | Organizar-se, priorizar e manter constância sem ninguém cobrando. Paixão inicia; disciplina sustenta.                     |
 | 4   | **Tolerância à incerteza** | Tomar decisões mesmo sem ter todas as informações. Conviver com o risco sem paralisar.                                    |
 
-## 🟡 NÍVEL 2 — Essenciais para crescer (Transformam ideia em negócio)
+## 🟡 NÍVEL 2 — Essenciais para crescer (Transformam ideia em negócio), *(o que você faz)*
 
 | Nº  | Habilidade                | Resumo rápido                                                                                                     |
 | --- | ------------------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -18,7 +18,7 @@
 | 7   | **Gestão e planejamento** | Saber organizar recursos, finanças, tempo e equipe. Transformar a ideia em algo executável.                       |
 | 8   | **Comunicação clara**     | Saber expressar sua ideia, vender seu projeto e fazer-se entender por clientes, sócios e investidores.            |
 
-## 🟢 NÍVEL 3 — Potencializadoras (Diferenciam quem escala)
+## 🟢 NÍVEL 3 — Potencializadoras (Diferenciam quem escala), *(como você cresce)*
 
 | Nº  | Habilidade                        | Resumo rápido                                                                                             |
 | --- | --------------------------------- | --------------------------------------------------------------------------------------------------------- |
