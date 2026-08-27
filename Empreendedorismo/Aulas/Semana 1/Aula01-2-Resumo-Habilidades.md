@@ -9,7 +9,7 @@
 | 3   | **Autodisciplina**         | Organizar-se, priorizar e manter constância sem ninguém cobrando. Paixão inicia; disciplina sustenta.                     |
 | 4   | **Tolerância à incerteza** | Tomar decisões mesmo sem ter todas as informações. Conviver com o risco sem paralisar.                                    |
 
-## 🟡 NÍVEL 2 — Essenciais para crescer (Transformam ideia em negócio), *(o que você faz)*
+## 🟡 NÍVEL 2 — EXECUÇÃO (Transformam ideia em negócio), *(o que você faz)*
 
 | Nº  | Habilidade                | Resumo rápido                                                                                                     |
 | --- | ------------------------- | ----------------------------------------------------------------------------------------------------------------- |
@@ -18,7 +18,7 @@
 | 7   | **Gestão e planejamento** | Saber organizar recursos, finanças, tempo e equipe. Transformar a ideia em algo executável.                       |
 | 8   | **Comunicação clara**     | Saber expressar sua ideia, vender seu projeto e fazer-se entender por clientes, sócios e investidores.            |
 
-## 🟢 NÍVEL 3 — Potencializadoras (Diferenciam quem escala), *(como você cresce)*
+## 🟢 NÍVEL 3 — DIFERENCIAL (Diferenciam quem escala), *(como você cresce)*
 
 | Nº  | Habilidade                        | Resumo rápido                                                                                             |
 | --- | --------------------------------- | --------------------------------------------------------------------------------------------------------- |
