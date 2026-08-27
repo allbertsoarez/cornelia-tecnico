@@ -1,14 +1,5 @@
-# EMPREENDEDORISMO
+# SEMANA 1
 
-<sub>Aqui você terá informações, dicas e sugestões sobre empreendedorismo e mais informações para ajudar no seu desenvolvimento profissional</sub> 
+#### ATIVIDADES
 
-## Links
-
-- [Palestra David Pontes](https://youtu.be/xrgE1NK1eeM)
-
-**Sites para criar Currículo**
-- https://zety.com/br/blog/curriculo-primeiro-emprego
-- https://ocurriculo.com.br/
-
-
-
+- [Empreendedorismo](https://docs.google.com/forms/d/e/1FAIpQLSfe-WfvtwMNwMrPPcMNgfHti0a_k9CRR4vSHwwCoqEA9zl4jw/viewform?usp=dialog)
