@@ -7,4 +7,12 @@
 #### SLIDES
 
 - [Slide 1 - O que é ser um empreendedor](https://docs.google.com/presentation/d/16_xVlRsXAW1VcUuaTG5suIFpC3w9M9d_48ljp5SXfM4/edit?usp=sharing)
-- 
+
+--- 
+
+# SEMANA 2
+
+#### 📖 ATIVIDADES
+
+- [Lista de exercícios 1 - Aula 2]
+- [Lista de exercícios 2 - Aula 2]
