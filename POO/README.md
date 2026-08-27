@@ -15,7 +15,9 @@
 
 ### ATIVIDADES
 
-- [Lista de Exercícios1 - Aula 2](https://docs.google.com/forms/d/e/1FAIpQLSd9-XONQHVRIORF6YT_cwqYzUeNnhO_nQKmaikV7uGH14wB0g/viewform?usp=header)
+- [Lista de Exercícios 1 - Aula 2](https://docs.google.com/forms/d/e/1FAIpQLSd9-XONQHVRIORF6YT_cwqYzUeNnhO_nQKmaikV7uGH14wB0g/viewform?usp=header)
+- [Lista de Exercícios 2 - Aula 2](https://docs.google.com/forms/d/e/1FAIpQLSefDvfYOyZ7Xd8JpGFvVDVqTlO9STVPzhx0p1nx7dyLRiJQDg/viewform?usp=header)
+- [Lista de Exercícios 3 - Aula 2](https://docs.google.com/forms/d/e/1FAIpQLSdbgIBz8yiqJPtNEboa96wfgFxulws-gHmQCgrR_dhl-djQKQ/viewform?usp=header)
 - 
 
 ### COLAB NOTEBOOKS
