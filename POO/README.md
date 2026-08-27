@@ -13,6 +13,11 @@
 
 # SEMANA 2
 
+### ATIVIDADES
+
+- [Lista de Exercícios1 - Aula 2](https://docs.google.com/forms/d/e/1FAIpQLSd9-XONQHVRIORF6YT_cwqYzUeNnhO_nQKmaikV7uGH14wB0g/viewform?usp=header)
+- 
+
 ### COLAB NOTEBOOKS
 - [Fundamentos](https://colab.research.google.com/drive/1sPrZ-UmILHaA8lj2xhxIw3IwIDLV3Z8E?usp=sharing)
 - [Objetos, Atributos e Métodos](https://colab.research.google.com/drive/12OMIavJiclxPuQGYDQlTxpOeKxPC53Nf?usp=sharing)
