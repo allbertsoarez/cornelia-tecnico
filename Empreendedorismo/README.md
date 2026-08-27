@@ -1,14 +1,18 @@
-# EMPREENDEDORISMO
+# SEMANA 1
 
-<sub>Aqui você terá informações, dicas e sugestões sobre empreendedorismo e mais informações para ajudar no seu desenvolvimento profissional</sub> 
+#### 📖 ATIVIDADES
 
-## Links
+- [Lista de exercícios 1 - Aula 1](https://docs.google.com/forms/d/e/1FAIpQLSfe-WfvtwMNwMrPPcMNgfHti0a_k9CRR4vSHwwCoqEA9zl4jw/viewform?usp=dialog)
 
-- [Palestra David Pontes](https://youtu.be/xrgE1NK1eeM)
+#### SLIDES
 
-**Sites para criar Currículo**
-- https://zety.com/br/blog/curriculo-primeiro-emprego
-- https://ocurriculo.com.br/
+- [Slide 1 - O que é ser um empreendedor](https://docs.google.com/presentation/d/16_xVlRsXAW1VcUuaTG5suIFpC3w9M9d_48ljp5SXfM4/edit?usp=sharing)
 
+--- 
 
+# SEMANA 2
 
+#### 📖 ATIVIDADES
+
+- [Lista de exercícios 1 - Aula 2]
+- [Lista de exercícios 2 - Aula 2]
