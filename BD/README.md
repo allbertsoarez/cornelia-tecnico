@@ -12,6 +12,8 @@
 
 # SEMANA 2
 
+#### ATIVIDADES
+
 - [Lista de exercícios 1](https://docs.google.com/forms/d/e/1FAIpQLSf3dFlgWxlF5PbEnSZvxbxfwNjUNOKfnch_8p2IwwfUaWXQ1g/viewform?usp=dialog)
 - [Lista de exercícios 2](https://docs.google.com/forms/d/e/1FAIpQLSdvdzj5U0qhbvTbqqhze2vyDbWtCeHzXVrFxH0dM6_AqPh0MA/viewform?usp=header)
   
