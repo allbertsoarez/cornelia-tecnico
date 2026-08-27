@@ -8,7 +8,9 @@
 - [Slide 2](https://docs.google.com/presentation/d/1LQMvN5KJPGPLnSVE2OyQxPt1vITSEeSP_--s9cUT3qg/edit?usp=sharing)
 - [Slide 3](https://docs.google.com/presentation/d/1yiO-QOv0fNWJwqhgl6ncSyrGxhqqaoZzIezBv6lDLLs/edit?usp=sharing)
 
-
+### COLAB NOTEBOOKS
+- [Introdução à POO, algoritmos em Portugol e Python](https://colab.research.google.com/drive/1jMTQIDfhTYLMSxu5YOJG3WPmT7rjOA5n?usp=sharing)
+- 
 
 ---
 
