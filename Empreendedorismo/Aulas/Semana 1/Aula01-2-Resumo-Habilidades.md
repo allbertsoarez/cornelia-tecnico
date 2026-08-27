@@ -26,3 +26,5 @@
 | 10  | **Networking (Rede de relações)** | Construir e manter conexões estratégicas. Nenhum negócio cresce no isolamento.                            |
 | 11  | **Negociação**                    | Chegar a acordos vantajosos com fornecedores, clientes, parceiros e equipe.                               |
 | 12  | **Adaptabilidade**                | Ajustar a rota quando o mercado muda, quando a tecnologia avança ou quando o plano original não funciona. |
+
+> 💬 *"Nenhuma dessas habilidades é um dom. Todas podem ser aprendidas e treinadas. Comece pela que você mais precisa hoje."*
