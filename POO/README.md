@@ -10,7 +10,7 @@
 
 ### COLAB NOTEBOOKS
 - [Introdução à POO, algoritmos em Portugol e Python](https://colab.research.google.com/drive/1jMTQIDfhTYLMSxu5YOJG3WPmT7rjOA5n?usp=sharing)
-- 
+- [Explicando POO com Python](https://colab.research.google.com/drive/1yyjfTD7EM70BI0hv--6kOiAL9gVwRyjD?usp=sharing) 
 
 ---
 
