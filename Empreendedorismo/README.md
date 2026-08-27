@@ -14,5 +14,5 @@
 
 #### 📖 ATIVIDADES
 
-- [Lista de exercícios 1 - Aula 2]
-- [Lista de exercícios 2 - Aula 2]
+- [Lista de exercícios 1 - Aula 2](https://docs.google.com/forms/d/e/1FAIpQLScJjAwmDJ6mi1KY7h_B4LaEp-4em82xuuyhPW15mnZ4Las9WQ/viewform?usp=header)
+- [Lista de exercícios 2 - Aula 2 - Palestra David Pontes](https://docs.google.com/forms/d/e/1FAIpQLScJjAwmDJ6mi1KY7h_B4LaEp-4em82xuuyhPW15mnZ4Las9WQ/viewform?usp=header)
