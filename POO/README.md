@@ -19,6 +19,12 @@
 - [Lista de Exercícios 2 - Aula 2](https://docs.google.com/forms/d/e/1FAIpQLSefDvfYOyZ7Xd8JpGFvVDVqTlO9STVPzhx0p1nx7dyLRiJQDg/viewform?usp=header)
 - [Lista de Exercícios 3 - Aula 2](https://docs.google.com/forms/d/e/1FAIpQLSdbgIBz8yiqJPtNEboa96wfgFxulws-gHmQCgrR_dhl-djQKQ/viewform?usp=header)
 
+#### SLIDES
+
+- [Do molde a realidade](https://docs.google.com/presentation/d/1iySks-yJcqlp1LRaVJw-mC-scWtp_3pqAxzQMkO7E3s/edit?usp=sharing)
+- [A lógica da percepção humana](https://docs.google.com/presentation/d/1rrToEkZPlR6S8dOVDi-iCrG04ZgZoX2_Z5VaPPao-Vw/edit?usp=sharing)
+
+
 #### COLAB NOTEBOOKS
 - [Fundamentos](https://colab.research.google.com/drive/1sPrZ-UmILHaA8lj2xhxIw3IwIDLV3Z8E?usp=sharing)
 - [Objetos, Atributos e Métodos](https://colab.research.google.com/drive/12OMIavJiclxPuQGYDQlTxpOeKxPC53Nf?usp=sharing)
