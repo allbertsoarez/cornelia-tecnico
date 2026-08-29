@@ -5,5 +5,3 @@ cursos, mentorias, oportunidades profissionais assim como diversas informações
 **Links**
 
 - https://www.tablesgenerator.com/
-- https://colab.research.google.com/
-
