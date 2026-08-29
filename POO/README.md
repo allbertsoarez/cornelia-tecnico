@@ -38,5 +38,7 @@
  ---
 
 # RECOMENDAÇÕES
+
+#### SOFTWARES
 - [VS CODE - Ver WEB](https://vscode.dev/?vscode-lang=pt-br)  
  
