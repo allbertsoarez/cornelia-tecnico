@@ -40,5 +40,6 @@
 # RECOMENDAÇÕES
 
 #### SOFTWARES
-- [VS CODE - Ver WEB](https://vscode.dev/?vscode-lang=pt-br)  
+- [VS CODE - Ver WEB](https://vscode.dev/?vscode-lang=pt-br)
+- [Google Colab - Para rodar scripts Python](https://colab.research.google.com/)
  
