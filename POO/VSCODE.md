@@ -7,15 +7,21 @@
 - https://visualstudio.microsoft.com/pt-br/downloads/
 - https://github.com/microsoft/vscode
 - https://pt.wikipedia.org/wiki/Visual_Studio_Code
-****
+
+---
+
 ### Versão web do VSCODE
 - [Ver WEB](https://vscode.dev/?vscode-lang=pt-br)
 - [Documentação](https://code.visualstudio.com/docs/editor/vscode-web)
-****
+
+---
+
 ### VSCodium - Versão livre de telemetria da Microsoft
 - https://vscodium.com/
 - https://github.com/VSCodium/vscodium
-****
+
+---
+
 # Extensões para VS CODE
 - [Color Picker](https://marketplace.visualstudio.com/items?itemName=anseki.vscode-color)
 - [Dev Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
@@ -42,18 +48,15 @@ Algumas extensões para testar no VSCode
 - Settings Sync - Sincronização de configs
 - Continue
 - Cline
-****
+
+---
+
 # COMO RODAR LINGUAGEM C NO VS CODE
 
-### Baixar MinGW
-- https://www.mingw-w64.org/
+**[Baixar MinGW](https://www.mingw-w64.org/)**
+- Adicionar Variáveis de ambiente **C:\MinGW\Bin**
 
-Adicionar Variáveis de ambiente **C:\MinGW\Bin**
-
-Para Linguagem C
-**C/C++ Compile Run**
-- https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run
-
-**C/C++**
-- https://code.visualstudio.com/docs/languages/cpp
+**Extensão VS CODE**
+- [C/C++ Compile Run](https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run)
+- [C/C++](https://code.visualstudio.com/docs/languages/cpp)
 - https://youtu.be/OJTLMcjK8mQ
