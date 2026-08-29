@@ -22,3 +22,11 @@
 - [Slide 1 - Fundamentos dos Bancos de Dados](https://docs.google.com/presentation/d/1SmcA6ytuCe-DOIKmzJLziZf_DMhrRA6eJzEKoZZ-HUo/edit?usp=sharing)
 - [Slide 2 - Registro, Tabela e Arquivo](https://docs.google.com/presentation/d/1715siCrf5mwnBZ7QTQHxQBk2EoREnPK6SliSvXB-2lc/edit?usp=sharing)
 - [Slide 3 - Arquitetura da Informação](https://docs.google.com/presentation/d/1NO3vDrkcw0SWq2T6GVxOgqxrRwuWoP8MqF4Wd-3rMCM/edit?usp=sharing)
+
+---
+
+# RECOMENDAÇÕES
+
+- [XAMPP](https://www.apachefriends.org/pt_br/index.html)
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
+- [Draw IO](https://www.drawio.com/)
