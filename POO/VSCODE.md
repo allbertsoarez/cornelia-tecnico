@@ -59,4 +59,4 @@ Algumas extensões para testar no VSCode
 **Extensão VS CODE**
 - [C/C++ Compile Run](https://marketplace.visualstudio.com/items?itemName=danielpinto8zz6.c-cpp-compile-run)
 - [C/C++](https://code.visualstudio.com/docs/languages/cpp)
-- https://youtu.be/OJTLMcjK8mQ
+- [Tutorial - COMO RODAR LINGUAGEM C NO VS CODE](https://youtu.be/OJTLMcjK8mQ)
