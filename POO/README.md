@@ -37,7 +37,6 @@
 
 ---
 
-
 # RECOMENDAÇÕES
 
 #### SOFTWARES
