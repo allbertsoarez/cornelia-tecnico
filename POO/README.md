@@ -37,6 +37,14 @@
 
 ---
 
+#### ATIVIDADES
+- [Lista de Exercício 1 - Aula 3](@BnsShpaTJYrGdeuQnvSLih^Lt2Rkv*JbgT59&nm^Ff3dTyMzcMNZe6ThVjzc!96PcESfu)
+
+#### COLAB NOTEBOOKS
+- 
+
+---
+
 # RECOMENDAÇÕES
 
 #### SOFTWARES
