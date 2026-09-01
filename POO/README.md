@@ -33,6 +33,10 @@
 #### ATIVIDADES
 - [Lista de Exercício 1 - Aula 3](@BnsShpaTJYrGdeuQnvSLih^Lt2Rkv*JbgT59&nm^Ff3dTyMzcMNZe6ThVjzc!96PcESfu)
 
+#### SLIDES
+- [Slide 1 - Aula 3 - Classes, Instancia, Abstração](https://docs.google.com/presentation/d/1tj_XlMgPGlGz4jdLgup3Q89NCIPq2cya10xgvZypPRs/edit?usp=sharing)
+
+
 #### COLAB NOTEBOOKS
 - 
 
