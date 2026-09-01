@@ -47,4 +47,5 @@
 #### SOFTWARES
 - [VS CODE - Ver WEB](https://vscode.dev/?vscode-lang=pt-br)
 - [Google Colab - Para rodar scripts Python](https://colab.research.google.com/)
+- [Coddy Tech](https://coddy.tech/playground/pt/c)
  
