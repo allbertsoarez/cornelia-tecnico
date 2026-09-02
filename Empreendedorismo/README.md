@@ -14,8 +14,10 @@
 
 #### 📖 ATIVIDADES
 
-- [Lista de exercícios 1 - Aula 2](https://docs.google.com/forms/d/e/1FAIpQLScJjAwmDJ6mi1KY7h_B4LaEp-4em82xuuyhPW15mnZ4Las9WQ/viewform?usp=header)
-- [Lista de exercícios 2 - Aula 2 - Palestra David Pontes](https://docs.google.com/forms/d/e/1FAIpQLScJjAwmDJ6mi1KY7h_B4LaEp-4em82xuuyhPW15mnZ4Las9WQ/viewform?usp=header)
+- [Lista de exercícios 1 - Aula 2](https://docs.google.com/forms/d/e/1FAIpQLSezv-_f2xcRXoQFJsEnYblzUpnb7PmaCPjXs2sD8A4jpfGRwA/viewform?usp=header)
+- [Lista de exercícios 2 - Aula 2](https://docs.google.com/forms/d/e/1FAIpQLSf9-Eyl14wFJQKUW4mnxSZJ3g9xgtI1C4w799xK3iIeCqUhEA/viewform?usp=header)
+- [Lista de exercícios 3 - Aula 2 - Palestra David Pontes](https://docs.google.com/forms/d/e/1FAIpQLSeISHbMQpkWHnqVag7gSCq9D6kOVeoRQCHmPcizPoeRjTG0tQ/viewform?usp=dialog)
+- [Lista de exercícios 4 - Aula 2](https://docs.google.com/forms/d/e/1FAIpQLScJjAwmDJ6mi1KY7h_B4LaEp-4em82xuuyhPW15mnZ4Las9WQ/viewform?usp=header) 
 
 ---
 
