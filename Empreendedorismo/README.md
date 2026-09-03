@@ -1,4 +1,4 @@
-# SEMANA 1
+# 📖 SEMANA 1
 
 #### 📖 ATIVIDADES
 
@@ -10,7 +10,7 @@
 
 --- 
 
-# SEMANA 2
+# 📖 SEMANA 2
 
 #### 📖 ATIVIDADES
 
@@ -18,6 +18,12 @@
 - [Lista de exercícios 2 - PROCESSO DE DECISÃO DE COMPRA](https://docs.google.com/forms/d/e/1FAIpQLSf9-Eyl14wFJQKUW4mnxSZJ3g9xgtI1C4w799xK3iIeCqUhEA/viewform?usp=header)
 - [Lista de exercícios 3 - Palestra David Pontes](https://docs.google.com/forms/d/e/1FAIpQLSeISHbMQpkWHnqVag7gSCq9D6kOVeoRQCHmPcizPoeRjTG0tQ/viewform?usp=dialog)
 - [Lista de exercícios 4 - BÔNUS](https://docs.google.com/forms/d/e/1FAIpQLScJjAwmDJ6mi1KY7h_B4LaEp-4em82xuuyhPW15mnZ4Las9WQ/viewform?usp=header) 
+
+---
+
+# SEMANA 3
+
+#### 📖 ATIVIDADES
 
 ---
 
