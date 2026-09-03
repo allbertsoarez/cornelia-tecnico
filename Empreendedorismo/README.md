@@ -21,6 +21,12 @@
 
 ---
 
+# SEMANA 3
+
+#### 📖 ATIVIDADES
+
+---
+
 # RECOMENDAÇÕES
 
 #### PALESTRAS
