@@ -1,4 +1,4 @@
-# SEMANA 1
+# 📖 SEMANA 1
 
 #### 📖 ATIVIDADES
 
@@ -10,7 +10,7 @@
 
 --- 
 
-# SEMANA 2
+# 📖 SEMANA 2
 
 #### 📖 ATIVIDADES
 
