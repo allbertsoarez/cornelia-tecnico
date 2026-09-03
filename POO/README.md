@@ -1,5 +1,5 @@
 # SEMANA 1
-#### ATIVIDADES
+#### 📖 ATIVIDADES
 - [Lista de Exercícios - Aula 1](https://docs.google.com/forms/d/e/1FAIpQLSdnFpzgdQIs1de1Br8LQutuQHC0UzoGdfS0RhM8h7Yw_SND6g/viewform?usp=dialog)
 #### SLIDES
 - [Slide 1 - Introdução a POO](https://docs.google.com/presentation/d/1olzUcprzTvNhBGMIrnUIdwRL0bk03WytnBVvl3Epwrg/edit?usp=sharing)
@@ -10,7 +10,7 @@
 - [Explicando POO com Python](https://colab.research.google.com/drive/1yyjfTD7EM70BI0hv--6kOiAL9gVwRyjD?usp=sharing) 
 ---
 # SEMANA 2
-#### ATIVIDADES
+#### 📖 ATIVIDADES
 - [Lista de Exercícios 1 - Aula 2](https://docs.google.com/forms/d/e/1FAIpQLSd9-XONQHVRIORF6YT_cwqYzUeNnhO_nQKmaikV7uGH14wB0g/viewform?usp=header)
 - [Lista de Exercícios 2 - Aula 2](https://docs.google.com/forms/d/e/1FAIpQLSefDvfYOyZ7Xd8JpGFvVDVqTlO9STVPzhx0p1nx7dyLRiJQDg/viewform?usp=header)
 - [Lista de Exercícios 3 - Aula 2](https://docs.google.com/forms/d/e/1FAIpQLSdbgIBz8yiqJPtNEboa96wfgFxulws-gHmQCgrR_dhl-djQKQ/viewform?usp=header)
@@ -30,7 +30,7 @@
 
 # SEMANA 3
 
-#### ATIVIDADES
+#### 📖 ATIVIDADES
 - [Lista de Exercício 1 - Aula 3](@BnsShpaTJYrGdeuQnvSLih^Lt2Rkv*JbgT59&nm^Ff3dTyMzcMNZe6ThVjzc!96PcESfu)
 
 #### SLIDES
