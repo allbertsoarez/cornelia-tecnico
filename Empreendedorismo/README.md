@@ -1,6 +1,6 @@
 # 📖 SEMANA 1
 
-#### 📖 ATIVIDADES
+#### ATIVIDADES
 
 - [Lista de exercícios 1 - INTRODUÇÃO](https://docs.google.com/forms/d/e/1FAIpQLSfe-WfvtwMNwMrPPcMNgfHti0a_k9CRR4vSHwwCoqEA9zl4jw/viewform?usp=dialog)
 
@@ -12,7 +12,7 @@
 
 # 📖 SEMANA 2
 
-#### 📖 ATIVIDADES
+#### ATIVIDADES
 
 - [Lista de exercícios 1 - COMO TRANSFORMAR UM CONSUMIDOR EM CLIENTE](https://docs.google.com/forms/d/e/1FAIpQLSezv-_f2xcRXoQFJsEnYblzUpnb7PmaCPjXs2sD8A4jpfGRwA/viewform?usp=header)
 - [Lista de exercícios 2 - PROCESSO DE DECISÃO DE COMPRA](https://docs.google.com/forms/d/e/1FAIpQLSf9-Eyl14wFJQKUW4mnxSZJ3g9xgtI1C4w799xK3iIeCqUhEA/viewform?usp=header)
@@ -23,7 +23,7 @@
 
 # 📖 SEMANA 3
 
-#### 📖 ATIVIDADES
+#### ATIVIDADES
 - [Lista de exercícios 1 - PERFIL PROFISSIONAL DO EMPREENDEDOR](https://docs.google.com/forms/d/e/1FAIpQLSf25JiRiPnF0PCoCSRvzOg9xYF3aaf7TFdtC5BN8x21bPeY8g/viewform?usp=header)
 - [Lista de exercícios 2 - A IMPORTÂNCIA DA QUALIDADE](https://docs.google.com/forms/d/e/1FAIpQLScrrrxtqqxF-VE8wfLCkLSlg5E6xL8HZVZaiiw2qKRv40h3ow/viewform?usp=header)
 
