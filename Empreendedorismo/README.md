@@ -24,6 +24,12 @@
 # SEMANA 3
 
 #### 📖 ATIVIDADES
+- [Lista de exercícios 1 - PERFIL PROFISSIONAL DO EMPREENDEDOR](https://docs.google.com/forms/d/e/1FAIpQLSf25JiRiPnF0PCoCSRvzOg9xYF3aaf7TFdtC5BN8x21bPeY8g/viewform?usp=header)
+- [Lista de exercícios 2 - A IMPORTÂNCIA DA QUALIDADE](https://docs.google.com/forms/d/e/1FAIpQLScrrrxtqqxF-VE8wfLCkLSlg5E6xL8HZVZaiiw2qKRv40h3ow/viewform?usp=header)
+
+#### SLIDES
+- [Slide 1 - A CIÊNCIA CONTRA O MITO DO DOM](https://docs.google.com/presentation/d/1LPe71X8bH74Xoy-MWs38BuXDRGxfsdr_ijPIhB5xheM/edit?usp=sharing)   
+- [Slide 2 - A ARQUITETURA DA QUALIDADE](https://docs.google.com/presentation/d/1ZOTITm900Yqw6N7er8t_JQHHH-GV1ml4-bcUDQA4gDw/edit?usp=sharing)
 
 ---
 
