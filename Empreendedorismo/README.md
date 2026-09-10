@@ -21,7 +21,7 @@
 
 ---
 
-# SEMANA 3
+# 📖 SEMANA 3
 
 #### 📖 ATIVIDADES
 - [Lista de exercícios 1 - PERFIL PROFISSIONAL DO EMPREENDEDOR](https://docs.google.com/forms/d/e/1FAIpQLSf25JiRiPnF0PCoCSRvzOg9xYF3aaf7TFdtC5BN8x21bPeY8g/viewform?usp=header)
