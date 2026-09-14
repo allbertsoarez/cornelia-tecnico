@@ -27,7 +27,6 @@
 - [Pilar 3 - HERANÇA](https://colab.research.google.com/drive/1R8CYie5i20uMp5dbfO2MXZevAgynlJ1I?usp=sharing)
 - [Pilar 4 - POLIFORMISMO](https://colab.research.google.com/drive/1NBO8MSXugg_EH3_dx5nQApt9QWLpQf1P?usp=sharing)
 ---
-
 # SEMANA 3
 
 #### 📖 ATIVIDADES
@@ -54,11 +53,8 @@
   - Finalize com: `print("✅ Subclasses criadas")`
 
   📂 **Célula 3: Programa Principal (`main.py`)**
-
 #### SLIDES
 - [Slide 1 - Aula 3 - Classes, Instancia, Abstração](https://docs.google.com/presentation/d/1tj_XlMgPGlGz4jdLgup3Q89NCIPq2cya10xgvZypPRs/edit?usp=sharing)
-
-
 #### COLAB NOTEBOOKS
 - [PARTE 1 - ESTRUTURA BÁSCIA DA CLASSES](https://colab.research.google.com/drive/1amowC1V-ug9A06DaQcU5r5OmADIKWfQw?usp=sharing)
 - [PARTE 2 - O QUE É INSTANCIAÇÃO](https://colab.research.google.com/drive/1XMX55NQGviKNX3L_uRpaInohaEZDdVTz?usp=sharing)
