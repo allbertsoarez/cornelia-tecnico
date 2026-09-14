@@ -59,6 +59,7 @@
 - [PARTE 1 - ESTRUTURA BÁSCIA DA CLASSES](https://colab.research.google.com/drive/1amowC1V-ug9A06DaQcU5r5OmADIKWfQw?usp=sharing)
 - [PARTE 2 - O QUE É INSTANCIAÇÃO](https://colab.research.google.com/drive/1XMX55NQGviKNX3L_uRpaInohaEZDdVTz?usp=sharing)
 - [PARTE 3 - CLASSE ABSTRATA](https://colab.research.google.com/drive/1lCIo2UcCb9c72sOshPoYIKihFtkXE8Mo?usp=sharing)
+- [O MUNDO DAS LOTERIAS NA POO](https://colab.research.google.com/drive/1m_sI-p4bQCmA8jPU0Pzyyo0p2Ezu40ld?usp=sharing)
 
 ---
 
