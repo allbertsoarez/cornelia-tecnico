@@ -27,6 +27,14 @@ flowchart TB
     style E2 fill:#ffecb3,stroke:#ef6c00,stroke-width:3px
 ```
 
+| Critério                      | Entidade **Forte**       | Entidade **Fraca**                     |
+| ----------------------------- | ------------------------ | -------------------------------------- |
+| **Existência**                | Existe independentemente | Depende de outra entidade para existir |
+| **Chave primária**            | Possui a sua própria     | Não possui — usa **chave parcial**     |
+| **Se a forte for apagada...** | Nada acontece            | A fraca **deixa de fazer sentido**     |
+| **Exemplo**                   | EDITORA                  | LIVRO, ITEM_PEDIDO, ESTOQUE            |
+
+
 **Características:**
 - Representada por um **retângulo** no DER
 - Nomeada no **singular** e em **letras maiúsculas**
