@@ -60,6 +60,15 @@ erDiagram
 | **PEDIDO**  | ❌ Fraca       | Não existe pedido sem cliente e sem livro                       |
 | **ESTOQUE** | ❌ Fraca       | Refere-se sempre a um livro; não existe "estoque de nada"       |
 
+---
+
+### 3.3 ATIVIDADE
+Classifique como forte ou fraca, justificando:
+1. `MEDICO` e `ESPECIALIDADE` em um hospital
+2. `CONTA_BANCARIA` e `TRANSACAO` em um banco
+3. `ALUNO` e `HISTORICO_ESCOLAR` em uma escola
+
+---
 
 > 💡 **Dica1:** Pense em entidade como um **conjunto** na matemática. "ALUNO" é o conjunto de todos os alunos da escola.
 
