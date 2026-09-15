@@ -1,9 +1,19 @@
-## 2. Conceitos Fundamentais
-
-### 2.1 Mini-Mundo (Universo de Discurso)
+## 2. CONCEITOS FUNDAMENTAIS
+### 2.1 Mini-Mundo
 
 O **mini-mundo** é um recorte da realidade que queremos representar no sistema. Não precisamos modelar o mundo todo, apenas o que interessa ao negócio.
-
+```mermaid
+flowchart LR
+    A["🌍 MUNDO REAL<br>(infinitas informações)"] -->|Recorte| B["📦 MINI-MUNDO<br>(a livraria)"]
+    B -->|Abstração| C["📋 MODELO CONCEITUAL<br>(o que importa guardar?)"]
+    C -->|Refinamento| D["🗂️ MODELO LÓGICO"]
+    D -->|Implementação| E["💾 BANCO DE DADOS REAL"]
+    style A fill:#fff3e0,stroke:#ef6c00
+    style B fill:#e3f2fd,stroke:#1565c0
+    style C fill:#c8e6c9,stroke:#2e7d32
+    style D fill:#b3e5fc,stroke:#0277bd
+    style E fill:#d1c4e9,stroke:#4527a0
+```
 **Exemplo:** Em um sistema escolar, nosso mini-mundo inclui alunos, professores, disciplinas e notas. Não inclui o clima, o preço do pão na padaria ou o trânsito da cidade.
 
 ---
