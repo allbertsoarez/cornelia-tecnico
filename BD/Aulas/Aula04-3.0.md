@@ -1,4 +1,4 @@
-## 3. Entidades e Atributos
+## 3. ENTIDADES E ATRIBUTOS
 
 ### 3.1 Entidade ▢
 
@@ -46,6 +46,20 @@ erDiagram
     PROFESSOR
     DISCIPLINA
 ```
+
+### 3.2 Analisando o caso da livraria
+
+| Entidade    | Classificação | Justificativa                                                   |
+| ----------- | ------------- | --------------------------------------------------------------- |
+| **CLIENTE** | ✅ Forte       | Clientes podem se cadastrar e nunca comprar (receber novidades) |
+| **EDITORA** | ✅ Forte       | Existe e opera independentemente de ter livros catalogados      |
+| **LIVRO**   | ❌ Fraca       | Precisa de uma editora para existir no catálogo                 |
+| **PEDIDO**  | ❌ Fraca       | Não existe pedido sem cliente e sem livro                       |
+| **ESTOQUE** | ❌ Fraca       | Refere-se sempre a um livro; não existe "estoque de nada"       |
+
+
+
+
 
 > 💡 **Dica:** Pense em entidade como um **conjunto** na matemática. "ALUNO" é o conjunto de todos os alunos da escola.
 
@@ -111,7 +125,10 @@ erDiagram
     }
 ```
 
+
 > 💡 **Exemplo prático:** Uma pessoa pode ter telefone residencial, celular e comercial. Por isso, "telefone" é multivalorado.
+
+---
 
 #### Atributo Derivado
 Seu valor é calculado a partir de outro atributo.
