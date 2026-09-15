@@ -3,6 +3,18 @@
 ### 3.1 Entidade ▢
 
 A **entidade** representa um conjunto de objetos do mundo real (pessoas, coisas, conceitos) sobre os quais queremos armazenar informações.
+Representam objetos, pessoas, conceitos ou eventos do mini-mundo que possuem existência própria e sobre os quais queremos guardar dados.
+
+- **Entidade Forte:** Possui existência independente e tem sua própria **Chave Primária** (identificador único).  
+  *Exemplo:* `ALUNO`, `PROFESSOR`.
+
+- **Entidade Fraca:** Não possui existência independente ou não tem uma chave primária própria. Ela depende de uma entidade forte para ser identificada.  
+  *Exemplo:* `DEPENDENTE` (depende do `FUNCIONARIO`), `ITEM_PEDIDO` (depende do `PEDIDO`).
+
+
+
+
+
 
 **Características:**
 - Representada por um **retângulo** no DER
