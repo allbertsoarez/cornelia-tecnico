@@ -4,6 +4,9 @@
 
 A **entidade** representa um conjunto de objetos do mundo real (pessoas, coisas, conceitos) sobre os quais queremos armazenar informações.
 Representam objetos, pessoas, conceitos ou eventos do mini-mundo que possuem existência própria e sobre os quais queremos guardar dados.
+Sua representação é um **retângulo**.
+
+**Exemplos**: `CLIENTE`, `LIVRO`, `EDITORA`, `PEDIDO`, `DISCIPLINA`.
 
 - **Entidade Forte:** Possui existência independente e tem sua própria **Chave Primária** (identificador único).  
   *Exemplo:* `ALUNO`, `PROFESSOR`.
