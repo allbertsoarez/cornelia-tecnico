@@ -40,7 +40,7 @@ flowchart TB
 
 **Características:**
 - Representada por um **retângulo** no DER
-- Nomeada no **singular** e em **letras maiúsculas**
+- Nomeada no **singular** e em **LETRAS MAIÚSCULAS**
 - Pode ser **Forte** (existência independente) ou **Fraca** (depende de outra entidade)
 
 ```mermaid
