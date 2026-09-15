@@ -1,4 +1,4 @@
-### SLIDE 8 - PILAR 4 - CARDINALIDADE (N:N)
+### SLIDE 8 - CARDINALIDADE (N:N)
 ```mermaid
 flowchart LR
     A["N para N Muitos para Muitos"]
