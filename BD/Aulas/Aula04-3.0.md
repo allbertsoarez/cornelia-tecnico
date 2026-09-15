@@ -72,9 +72,11 @@ Classifique como forte ou fraca, justificando:
 
 > 💡 **Dica:** Pense em uma entidade como um **Conjunto**. A entidade `ALUNO` é o conjunto de todos os alunos. "João da Silva" é apenas um *elemento* (instância ou tupla) desse conjunto.
 
-
-
 > 💡 **Dica do Professor**: Essa classificação **depende das regras de negócio**! Em outro sistema, PEDIDO poderia ser forte (se puder existir como "carrinho abandonado"). Sempre pergunte ao cliente — conceitos podem mudar conforme regras externas.
+
+
+> ⚠️ **Atenção:** Essa classificação depende das **regras de negócio**! Em outro sistema, `PEDIDO` poderia ser forte (se puder existir como "carrinho abandonado"). Sempre valide com o cliente.
+
 
 ---
 
