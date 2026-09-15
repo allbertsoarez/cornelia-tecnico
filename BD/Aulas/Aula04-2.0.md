@@ -47,3 +47,12 @@ flowchart TD
 
 > 📌 O **modelo conceitual** é de alto nível — próximo da linguagem humana. O **modelo físico** é de baixo nível — próximo da linguagem da máquina, escrito em **SQL**. Entre eles, quem gerencia tudo é o **SGBD** (Sistema Gerenciador de Banco de Dados), como MySQL, PostgreSQL e Oracle 【turn0fetch0】.
 
+
+## 1.4 MER e DER — Qual a diferença?
+
+| Sigla   | Nome                             | O que é                                                    |
+| ------- | -------------------------------- | ---------------------------------------------------------- |
+| **MER** | Modelo Entidade-Relacionamento   | O **modelo** — conjunto de conceitos e regras              |
+| **DER** | Diagrama Entidade-Relacionamento | O **desenho** — representação gráfica do MER 【turn0fetch0】 |
+
+> 🎓 **Analogia**: MER é o "projeto" e DER é o "desenho do projeto no papel". Na prática usamos os termos de forma próxima, mas em prova essa diferença cai!
