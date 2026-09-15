@@ -47,7 +47,7 @@ erDiagram
     DISCIPLINA
 ```
 
-### 3.2 Analisando o caso da livraria
+### 3.2 ANALISANDO O CASO DE UMA LIVRARIA
 
 | Entidade    | Classificação | Justificativa                                                   |
 | ----------- | ------------- | --------------------------------------------------------------- |
@@ -58,10 +58,9 @@ erDiagram
 | **ESTOQUE** | ❌ Fraca       | Refere-se sempre a um livro; não existe "estoque de nada"       |
 
 
+> 💡 **Dica1:** Pense em entidade como um **conjunto** na matemática. "ALUNO" é o conjunto de todos os alunos da escola.
 
-
-
-> 💡 **Dica:** Pense em entidade como um **conjunto** na matemática. "ALUNO" é o conjunto de todos os alunos da escola.
+> 💡 **Dica do Professor**: Essa classificação **depende das regras de negócio**! Em outro sistema, PEDIDO poderia ser forte (se puder existir como "carrinho abandonado"). Sempre pergunte ao cliente — conceitos podem mudar conforme regras externas.
 
 ---
 
