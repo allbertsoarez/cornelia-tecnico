@@ -11,6 +11,21 @@ Representam objetos, pessoas, conceitos ou eventos do mini-mundo que possuem exi
 - **Entidade Fraca:** Não possui existência independente ou não tem uma chave primária própria. Ela depende de uma entidade forte para ser identificada.  
   *Exemplo:* `DEPENDENTE` (depende do `FUNCIONARIO`), `ITEM_PEDIDO` (depende do `PEDIDO`).
 
+```mermaid
+flowchart TB
+    subgraph FORTE["ENTIDADE FORTE ✔"]
+        E1["▢ EDITORA<br>Existe sozinha ✋"]
+    end
+    
+    subgraph FRACA["ENTIDADE FRACA ✘"]
+        E2["▢ LIVRO<br>Só existe com a editora 🤝"]
+    end
+    
+    E1 ---|"publica (1:N)"| E2
+    
+    style E1 fill:#c8e6c9,stroke:#2e7d32,stroke-width:3px
+    style E2 fill:#ffecb3,stroke:#ef6c00,stroke-width:3px
+```
 
 
 
