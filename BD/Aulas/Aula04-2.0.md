@@ -24,7 +24,15 @@ flowchart LR
 
 > 💡 **Pense assim:** Um mapa de metrô não mostra cada árvore ou prédio da cidade. Ele abstrai a realidade para mostrar apenas estações e linhas. O modelo de dados faz o mesmo!
 
+---
+
 ### 2.3 Os Três Níveis de Modelagem
+| Nível                       | Pergunta que responde                 | Quem entende            | Linguagem               |
+| --------------------------- | ------------------------------------- | ----------------------- | ----------------------- |
+| **Conceitual** (alto nível) | *"O QUE o sistema guarda?"*           | Cliente, analista, você | Diagramas, português    |
+| **Lógico** (intermediário)  | *"COMO os dados estão estruturados?"* | Analista, desenvolvedor | Tabelas, chaves, regras |
+| **Físico** (baixo nível)    | *"COMO fica no computador?"*          | SGBD, DBA               | **SQL**                 |
+
 
 ```mermaid
 flowchart TD
