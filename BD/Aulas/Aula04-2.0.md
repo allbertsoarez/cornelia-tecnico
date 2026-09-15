@@ -2,12 +2,14 @@
 ## 2.1 Mini-Mundo
 
 O **mini-mundo** é um recorte da realidade que queremos representar no sistema. Não precisamos modelar o mundo todo, apenas o que interessa ao negócio.
+
 ```mermaid
 flowchart LR
     A["🌍 MUNDO REAL<br>(infinitas informações)"] -->|Recorte| B["📦 MINI-MUNDO<br>(a livraria)"]
     B -->|Abstração| C["📋 MODELO CONCEITUAL<br>(o que importa guardar?)"]
     C -->|Refinamento| D["🗂️ MODELO LÓGICO"]
     D -->|Implementação| E["💾 BANCO DE DADOS REAL"]
+
     style A fill:#fff3e0,stroke:#ef6c00
     style B fill:#e3f2fd,stroke:#1565c0
     style C fill:#c8e6c9,stroke:#2e7d32
@@ -48,7 +50,7 @@ flowchart TD
 > 📌 O **modelo conceitual** é de alto nível — próximo da linguagem humana. O **modelo físico** é de baixo nível — próximo da linguagem da máquina, escrito em **SQL**. Entre eles, quem gerencia tudo é o **SGBD** (Sistema Gerenciador de Banco de Dados), como MySQL, PostgreSQL e Oracle 【turn0fetch0】.
 
 
-## 2.4 MER e DER — Qual a diferença?
+## 2.4 MER e DER — QUAL A DIFERENÇA?
 
 | Sigla   | Nome                             | O que é                                                    |
 | ------- | -------------------------------- | ---------------------------------------------------------- |
@@ -57,9 +59,9 @@ flowchart TD
 
 > 🎓 **Analogia**: MER é o "projeto" e DER é o "desenho do projeto no papel". Na prática usamos os termos de forma próxima, mas em prova essa diferença cai!
 
+---
 
-
-## 2.5 Notações de Diagrama ER 🎨
+## 2.5 NOTAÇÕES DE DIAGRAMAS ER 🎨
 
 O mesmo modelo pode ser **desenhado** de formas diferentes — o que muda é a **notação**, nunca os conceitos:
 
@@ -79,6 +81,7 @@ O mesmo modelo pode ser **desenhado** de formas diferentes — o que muda é a *
 |   𐤏    | Oval               | Atributo                                                         |
 |    △    | Triângulo          | Atributo multivalorado **ou** generalização (ver Unidades 3 e 8) |
 |    ●    | Círculo preenchido | Chave primária                                                   |
+
 
 > 💡 **Dica do Professor**: nesta apostila usamos as duas principais! Os diagramas de fluxo seguem a lógica de **Chen** (boa para provas) e os `erDiagram` do Mermaid seguem o **Pé de Galinha** (boa para o mercado). Os conceitos são os mesmos — aprenda a "traduzir" entre elas.
 
