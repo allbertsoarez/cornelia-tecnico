@@ -1,4 +1,4 @@
-### SLIDE 9
+### SLIDE 9 - O PODER DA ENTIDADE ASSOCIATIVA
 ```mermaid
 flowchart LR
     A["Resolve relacionamentos N para N"]
