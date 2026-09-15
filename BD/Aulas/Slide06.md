@@ -1,4 +1,4 @@
-# SLIDE 6
+# SLIDE 6 - RELACIONAMENTOS
 ```mermaid
 flowchart LR
     A["Associacao semantica entre entidades"]
