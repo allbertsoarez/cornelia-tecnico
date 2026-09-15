@@ -1,16 +1,15 @@
 # 📚 1. INTRODUÇÃO À MODELAGEM DE DADOS
 
-## 🎯 Por que modelar dados?
+🎯 Por que modelar dados?
 Imagine que você precisa construir uma casa. Você começaria a levantar paredes sem uma planta baixa? Provavelmente não! Com bancos de dados é a mesma coisa: **a modelagem é a planta baixa do seu sistema**.
 
 > 💡 **Analogia:** Assim como um arquiteto desenha a casa antes de construí-la, nós desenhamos o banco de dados antes de implementá-lo.
 
 ---
 
-## 🏫 Introdução: Do Código à Persistência
-Sejam bem-vindos, turma do terceiro módulo! Até aqui, vocês dominaram a lógica de programação e entenderam como os dados transitam na memória volátil do computador. Agora, damos um passo fundamental e definitivo na nossa formação: a **persistência de dados**. 
+## 🏫 DO CÓDIGO À PERSISTÊNCIA
 
-Mas atenção a um princípio básico da engenharia de software: *ninguém constrói um arranha-céu sem uma planta baixa detalhada*. Tentar criar um banco de dados diretamente no software, sem planejamento, é como erguer paredes sem alicerce; o resultado será instável, redundante e propenso a desmoronar diante de novas regras de negócio.
+Atenção a um princípio básico da engenharia de software: *ninguém constrói um arranha-céu sem uma planta baixa detalhada*. Tentar criar um banco de dados diretamente no software, sem planejamento, é como erguer paredes sem alicerce; o resultado será instável, redundante e propenso a desmoronar diante de novas regras de negócio.
 
 ### O que é o MER?
 No universo dos bancos de dados, essa planta baixa essencial é o **Modelo Entidade-Relacionamento**, carinhosamente chamado de **MER**. 
@@ -25,33 +24,45 @@ Diferente do modelo físico, que lida diretamente com tabelas, colunas e a lingu
 
 ---
 
-## 🛠️ Desenvolvimento: Os 4 Pilares do MER
+## 🛠️ OS 4 PILARES DO do MER
 Para construir um MER robusto, precisamos dominar quatro conceitos estruturais, que aplicaremos ao nosso caso da livraria online. A identificação desses elementos nasce de uma investigação cuidadosa, onde extraímos as regras do "mini-mundo" do cliente.
 
 ### 1. Entidades
 Uma entidade representa um objeto único e distinguível no mundo real, que pode ser uma pessoa, um lugar, um objeto físico ou até um evento conceitual. No nosso cenário, *"Cliente"*, *"Editora"*, *"Livro"* e *"Pedido"* são entidades clássicas. 
 
 O MER nos ensina uma distinção crucial:
+
 * **Entidades Fortes:** Existem de forma independente, possuindo sua própria chave de identificação primária. *(Ex: A "Editora" é forte, pois existe independentemente de ter livros cadastrados).*
+
 * **Entidades Fracas:** Sua existência e identificação dependem intrinsecamente de outra entidade. *(Ex: O "Livro" é fraco, pois depende da "Editora" que o publicou. O "Pedido de Compra" é fraco, pois depende da existência prévia de um Cliente e de Livros).*
 
 ### 2. Atributos
 São as características que descrevem as entidades. Eles se classificam de maneiras específicas:
+
 * **Simples:** Atômico e indivisível (ex: *"CPF"* do cliente).
+
 * **Composto:** Pode ser subdividido em partes menores (ex: *"Endereço"*, que se quebra em Rua, Cidade e CEP).
+
 * **Multivalorado:** Aceita múltiplos valores para uma mesma instância (ex: *"Telefones"* de contato).
+
 * **Derivado:** Não precisa ser armazenado, pois pode ser calculado a partir de outro atributo (ex: *"Idade"*, derivada da *"Data de Nascimento"*).
+
 * **Chave (Identificador):** Garante a unicidade absoluta de cada registro (ex: *"Código ISBN"* do Livro).
 
 ### 3. Relacionamentos
 Define a associação semântica entre as entidades. São os **"verbos"** do nosso modelo.
+
 * *Exemplos:* A Editora **publica** o Livro. O Cliente **realiza** o Pedido.
+
 * *Representação no Diagrama (DER):* Entidades são **retângulos**, atributos são **elipses** (ou listados dentro do retângulo) e relacionamentos são **losangos**.
 
 ### 4. Cardinalidade
 O pilar mais crítico. Ela define a quantidade mínima e máxima de ocorrências de uma entidade associadas a outra. Existem três tipos principais:
+
 1. **Um para Um (1:1):** Um cliente possui um único perfil de fidelidade ativo, e esse perfil pertence a apenas um cliente.
+
 2. **Um para Muitos (1:N):** Uma editora publica muitos livros, mas cada livro específico tem apenas uma editora responsável.
+
 3. **Muitos para Muitos (N:N):** Um pedido de compra pode conter vários livros, e um mesmo livro pode estar presente em vários pedidos diferentes.
 
 #### 🔗 A Entidade Associativa
