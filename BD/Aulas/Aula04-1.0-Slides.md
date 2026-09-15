@@ -1,5 +1,4 @@
 ### Estrutura de Slides
-
 ```mermaid
 graph TD
     subgraph Introdução
