@@ -18,6 +18,8 @@ erDiagram
 
 > 💡 **Dica:** Pense em entidade como um **conjunto** na matemática. "ALUNO" é o conjunto de todos os alunos da escola.
 
+---
+
 ### 3.2 Atributos 𐤏
 
 Os **atributos** são as características que descrevem uma entidade. No banco de dados, eles se tornam as **colunas** das tabelas.
