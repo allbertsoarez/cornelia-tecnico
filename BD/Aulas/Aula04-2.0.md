@@ -55,7 +55,7 @@ flowchart TD
 | Sigla   | Nome                             | O que é                                                    |
 | ------- | -------------------------------- | ---------------------------------------------------------- |
 | **MER** | Modelo Entidade-Relacionamento   | O **modelo** — conjunto de conceitos e regras              |
-| **DER** | Diagrama Entidade-Relacionamento | O **desenho** — representação gráfica do MER 【turn0fetch0】 |
+| **DER** | Diagrama Entidade-Relacionamento | O **desenho** — representação gráfica do MER  |
 
 > 🎓 **Analogia**: MER é o "projeto" e DER é o "desenho do projeto no papel". Na prática usamos os termos de forma próxima, mas em prova essa diferença cai!
 
