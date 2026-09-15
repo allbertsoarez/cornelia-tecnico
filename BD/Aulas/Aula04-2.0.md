@@ -6,6 +6,8 @@ O **mini-mundo** é um recorte da realidade que queremos representar no sistema.
 
 **Exemplo:** Em um sistema escolar, nosso mini-mundo inclui alunos, professores, disciplinas e notas. Não inclui o clima, o preço do pão na padaria ou o trânsito da cidade.
 
+---
+
 ### 2.2 Abstração
 
 **Abstração** é o processo de ignorar detalhes irrelevantes e focar nas características essenciais dos objetos.
