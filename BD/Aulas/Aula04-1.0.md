@@ -87,4 +87,34 @@ A excelência na modelagem de dados é conquistada através da prática constant
 > *A qualidade do banco de dados final é diretamente proporcional à qualidade do MER que o originou.*
 > Um modelo conceitual mal elaborado inevitavelmente levará a um sistema com dados duplicados, inconsistências, anomalias de atualização e lentidão severa nas consultas. O MER valida as regras de negócio antes de escrever uma única linha de código SQL, economizando tempo e recursos.
 >
-> 
+ 
+---
+
+## MAPA MENTAL MER
+
+```mermaid
+mindmap
+  root((MER))
+    Entidades
+      Objetos do mundo real
+      Forte: Independente
+      Fraca: Dependente
+    Atributos
+      Simples e Composto
+      Multivalorado
+      Derivado e Armazenado
+      Chave: Identificador único
+    Relacionamentos
+      Associação entre entidades
+      Verbos do modelo
+      Binários, Terciários, N-ários
+    Cardinalidade
+      1:1 Um para Um
+      1:N Um para Muitos
+      N:N Muitos para Muitos
+    Entidade Associativa
+      Resolve cardinalidade N:N
+      Ganha atributos próprios
+```
+
+
