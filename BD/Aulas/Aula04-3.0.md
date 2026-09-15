@@ -30,6 +30,8 @@ flowchart TB
     style E2 fill:#ffecb3,stroke:#ef6c00,stroke-width:3px
 ```
 
+**Entidade Forte vs. Entidade Fraca**
+
 | Critério                      | Entidade **Forte**       | Entidade **Fraca**                     |
 | ----------------------------- | ------------------------ | -------------------------------------- |
 | **Existência**                | Existe independentemente | Depende de outra entidade para existir |
