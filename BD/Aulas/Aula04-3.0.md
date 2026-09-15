@@ -36,6 +36,13 @@ erDiagram
 
 Os **atributos** são as características que descrevem uma entidade. No banco de dados, eles se tornam as **colunas** das tabelas.
 
+- **Simples (Atômico):** Não pode ser dividido (ex: `CPF`, `Número de Série`).
+- **Composto:** Pode ser dividido em partes menores (ex: `Endereço` → `Rua`, `Cidade`, `CEP`).
+- **Multivalorado:** Pode ter zero, um ou vários valores para uma mesma entidade (ex: `Telefones`, `E-mails`). *No DER, representado por um elipse com linha dupla.*
+- **Derivado:** Seu valor é calculado a partir de outro atributo (ex: `Idade` é derivada da `Data de Nascimento`). *No DER, representado por elipse tracejada.*
+- **Chave (Primária):** O atributo (ou conjunto de atributos) que identifica **unicamente** cada instância da entidade. *No DER, sublinhado.*
+
+
 ```mermaid
 erDiagram
     ALUNO {
