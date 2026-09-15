@@ -76,6 +76,15 @@ Chegamos ao final da nossa exploração sobre os conceitos básicos do Modelo En
 ### Próximos Passos
 Ao concluir a modelagem conceitual com o MER, vocês deram o primeiro e mais crucial passo para a construção de um banco de dados robusto, íntegro e escalável. O próximo passo, que exploraremos em nossas próximas aulas, será a transformação desse diagrama conceitual no **modelo lógico**. Nessa etapa, as entidades virarão tabelas, e os relacionamentos se tornarão chaves estrangeiras, seguindo rigorosamente as regras de integridade referencial.
 
+### 🏋️ Exercício Prático
+Portanto, exercitem essa visão sistêmica diariamente. Peguem cenários do dia a dia, como o controle de uma biblioteca municipal ou o aplicativo de delivery de comida, e tentem rascunhar o MER no papel. Identifiquem as entidades, classifiquem os atributos, mapeiem os relacionamentos e debatam as cardinalidades com seus colegas. 
+
+A excelência na modelagem de dados é conquistada através da prática constante e do refinamento contínuo do olhar analítico. Continuem curiosos, questionem sempre as regras de negócio e nunca aceitem o caos onde pode haver estrutura. 
+
+**Até a nossa próxima aula!**
+
 > 🧠 **O Mantra da Modelagem:**
 > *A qualidade do banco de dados final é diretamente proporcional à qualidade do MER que o originou.*
 > Um modelo conceitual mal elaborado inevitavelmente levará a um sistema com dados duplicados, inconsistências, anomalias de atualização e lentidão severa nas consultas. O MER valida as regras de negócio antes de escrever uma única linha de código SQL, economizando tempo e recursos.
+>
+> 
