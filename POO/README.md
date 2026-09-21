@@ -62,11 +62,6 @@
 - [O MUNDO DAS LOTERIAS NA POO](https://colab.research.google.com/drive/1m_sI-p4bQCmA8jPU0Pzyyo0p2Ezu40ld?usp=sharing)
 - [ATIVIDADE - LOTERIA - TODAS AS CÉLULAS](https://colab.research.google.com/drive/1Zya_2KQQv6gdWVQEY1fichW7McLL-5wR?usp=sharing)
 
-
-
-
-- 
-
 ---
 
 # RECOMENDAÇÕES
