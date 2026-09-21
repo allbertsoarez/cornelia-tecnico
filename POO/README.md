@@ -60,6 +60,9 @@
 - [PARTE 2 - O QUE É INSTANCIAÇÃO](https://colab.research.google.com/drive/1XMX55NQGviKNX3L_uRpaInohaEZDdVTz?usp=sharing)
 - [PARTE 3 - CLASSE ABSTRATA](https://colab.research.google.com/drive/1lCIo2UcCb9c72sOshPoYIKihFtkXE8Mo?usp=sharing)
 - [O MUNDO DAS LOTERIAS NA POO](https://colab.research.google.com/drive/1m_sI-p4bQCmA8jPU0Pzyyo0p2Ezu40ld?usp=sharing)
+- [ATIVIDADE - LOTERIA - TODAS AS CÉLULAS](https://colab.research.google.com/drive/1Zya_2KQQv6gdWVQEY1fichW7McLL-5wR?usp=sharing)
+- ATIVIDADE - LOTERIA - Explicando a o arquivo loteria.py - CÉLULA 1](https://colab.research.google.com/drive/1BRjmOg5CJ-Dm8N_CfpPoQYdEvc00dvDc?usp=sharing)
+- 
 
 ---
 
