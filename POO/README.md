@@ -61,7 +61,8 @@
 - [PARTE 3 - CLASSE ABSTRATA](https://colab.research.google.com/drive/1lCIo2UcCb9c72sOshPoYIKihFtkXE8Mo?usp=sharing)
 - [O MUNDO DAS LOTERIAS NA POO](https://colab.research.google.com/drive/1m_sI-p4bQCmA8jPU0Pzyyo0p2Ezu40ld?usp=sharing)
 - [ATIVIDADE - LOTERIA - TODAS AS CÉLULAS](https://colab.research.google.com/drive/1Zya_2KQQv6gdWVQEY1fichW7McLL-5wR?usp=sharing)
-- [ATIVIDADE - LOTERIA - Explicando a o arquivo loteria.py - CÉLULA 1](https://colab.research.google.com/drive/1BRjmOg5CJ-Dm8N_CfpPoQYdEvc00dvDc?usp=sharing)
+- [ATIVIDADE - LOTERIA - Explicando a o arquivo loteria.py - CÉLULA 1](https://colab.research.google.com/drive/1oRFaZtU8Ux8BS8aAxYhBXTktqd7o5dNY?usp=sharing)
+- [ATIVIDADE - LOTERIA - Explicando a o arquivo jogos.py - CÉLULA 2](https://colab.research.google.com/drive/10FM1EnMOHUHo3lzdogLULboZPdKbHLXj?usp=sharing)
 - 
 
 ---
