@@ -44,7 +44,7 @@
     - Atributos: `self.nome` e `self.total_dezenas`
     - Finalize com: `print("✅ Classe Loteria criada")`
     
-  📂 **Célula 2: Subclasses (`jogos.py`)**
+  📂 [**Célula 2: Subclasses (`jogos.py`)**](https://colab.research.google.com/drive/10FM1EnMOHUHo3lzdogLULboZPdKbHLXj?usp=sharing)
   - Crie duas classes que herdam de `Loteria`:
     - **Classe `Quina`:**
       - No `__init__`, use `super().__init__(nome="Quina", total_dezenas=5)`
@@ -64,7 +64,7 @@
 
 
 
-- [ATIVIDADE - LOTERIA - CÉLULA 2 - Explicando o arquivo jogos.py](https://colab.research.google.com/drive/10FM1EnMOHUHo3lzdogLULboZPdKbHLXj?usp=sharing)
+
 - 
 
 ---
