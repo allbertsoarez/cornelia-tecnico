@@ -1,4 +1,4 @@
-# Slide 1: BEM VINDOS A MODELAGEM DE DADOS
+# BEM VINDOS A MODELAGEM DE DADOS
 
 ```mermaid
 flowchart LR
