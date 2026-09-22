@@ -1,4 +1,4 @@
-# SLIDE 2 - O QUE É O MODELO CONCEITUAL MER
+# O QUE É O MODELO CONCEITUAL MER
 ```mermaid
 flowchart LR
     A["Abstracao do mini mundo"]
