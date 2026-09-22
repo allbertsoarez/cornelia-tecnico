@@ -1,4 +1,4 @@
-## MAPA MENTAL MER
+## MAPA MENTAL - MER
 
 ```mermaid
 mindmap
