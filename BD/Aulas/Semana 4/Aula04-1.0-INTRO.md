@@ -7,11 +7,11 @@ Imagine que você precisa construir uma casa. Você começaria a levantar parede
 
 ---
 
-## 🏫 DO CÓDIGO À PERSISTÊNCIA
+## 🏫1.1. DO CÓDIGO À PERSISTÊNCIA
 
 Atenção a um princípio básico da engenharia de software: *ninguém constrói um arranha-céu sem uma planta baixa detalhada*. Tentar criar um banco de dados diretamente no software, sem planejamento, é como erguer paredes sem alicerce; o resultado será instável, redundante e propenso a desmoronar diante de novas regras de negócio.
 
-### O que é o MER?
+### 1.2. O que é o MER?
 No universo dos bancos de dados, essa planta baixa essencial é o **Modelo Entidade-Relacionamento**, carinhosamente chamado de **MER**. 
 * O MER é a representação conceitual, de alto nível, do que chamamos de "mini-mundo" ou universo de discurso. 
 * Ele atua como a ponte de tradução mais importante do projeto, conectando as necessidades e regras de negócio, expressas em linguagem humana pelos clientes, à estrutura técnica e lógica que o computador processará posteriormente.
@@ -24,10 +24,10 @@ Diferente do modelo físico, que lida diretamente com tabelas, colunas e a lingu
 
 ---
 
-## 🛠️ OS 4 PILARES DO do MER
+## 🛠️ 1.3. OS 4 PILARES DO do MER
 Para construir um MER robusto, precisamos dominar quatro conceitos estruturais, que aplicaremos ao nosso caso da livraria online. A identificação desses elementos nasce de uma investigação cuidadosa, onde extraímos as regras do "mini-mundo" do cliente.
 
-### 1. Entidades
+### 1.3.1. Entidades
 Uma entidade representa um objeto único e distinguível no mundo real, que pode ser uma pessoa, um lugar, um objeto físico ou até um evento conceitual. No nosso cenário, *"Cliente"*, *"Editora"*, *"Livro"* e *"Pedido"* são entidades clássicas. 
 
 O MER nos ensina uma distinção crucial:
@@ -36,7 +36,7 @@ O MER nos ensina uma distinção crucial:
 
 * **Entidades Fracas:** Sua existência e identificação dependem intrinsecamente de outra entidade. *(Ex: O "Livro" é fraco, pois depende da "Editora" que o publicou. O "Pedido de Compra" é fraco, pois depende da existência prévia de um Cliente e de Livros).*
 
-### 2. Atributos
+### 1.3.2. Atributos
 São as características que descrevem as entidades. Eles se classificam de maneiras específicas:
 
 * **Simples:** Atômico e indivisível (ex: *"CPF"* do cliente).
@@ -49,14 +49,14 @@ São as características que descrevem as entidades. Eles se classificam de mane
 
 * **Chave (Identificador):** Garante a unicidade absoluta de cada registro (ex: *"Código ISBN"* do Livro).
 
-### 3. Relacionamentos
+### 1.3.3. Relacionamentos
 Define a associação semântica entre as entidades. São os **"verbos"** do nosso modelo.
 
 * *Exemplos:* A Editora **publica** o Livro. O Cliente **realiza** o Pedido.
 
 * *Representação no Diagrama (DER):* Entidades são **retângulos**, atributos são **elipses** (ou listados dentro do retângulo) e relacionamentos são **losangos**.
 
-### 4. Cardinalidade
+### 1.3.4. Cardinalidade
 O pilar mais crítico. Ela define a quantidade mínima e máxima de ocorrências de uma entidade associadas a outra. Existem três tipos principais:
 
 1. **Um para Um (1:1):** Um cliente possui um único perfil de fidelidade ativo, e esse perfil pertence a apenas um cliente.
@@ -70,7 +70,7 @@ Quando nos deparamos com um relacionamento **N:N**, o MER nos apresenta um recur
 
 ---
 
-## 🏁 Conclusão
+## 🏁 1.4. Conclusão
 Chegamos ao final da nossa exploração sobre os conceitos básicos do Modelo Entidade-Relacionamento. Como pudemos observar detalhadamente, o MER é muito mais do que um simples conjunto de formas geométricas conectadas por linhas; ele é a materialização fiel do entendimento profundo que temos sobre o negócio que estamos informatizando. Modelar dados é, antes de tudo, um exercício rigoroso de comunicação, abstração e lógica aplicada.
 
 ### Próximos Passos
