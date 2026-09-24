@@ -38,6 +38,9 @@
 - [Lista de exercícios 1 - Ser Empreendedor](https://docs.google.com/forms/d/e/1FAIpQLSeMiS80TY2ECiGAF7p7uVf9-x-l9sUVZx-5rJg1gt24OWbrIA/viewform?usp=header)
 - [Lista de exercícios 2 - Perfil do Empreendedor](https://docs.google.com/forms/d/e/1FAIpQLScVZGSVhFvRP2zldUwNcXGQcW4zVOqe9jvm64UD9ZDTdSExGw/viewform?usp=header)
 
+#### SLIDES
+- [Slide 1 - Blueprint da Inovação](https://docs.google.com/presentation/d/1Ec0Doi0Smq09ZIBFbHh3_4E-I-oWaL6uxbCIaILFsxI/edit?usp=sharing)
+- [Slide 2 - A Arquitetura Empreendedora](https://docs.google.com/presentation/d/1UsSDWUG0aTesbOCTmx0VZiAe81MrYdJuweSJsEmwnpo/edit?usp=sharing)
 ---
 
 # RECOMENDAÇÕES
