@@ -43,6 +43,12 @@
 - [Slide 2 - A Arquitetura Empreendedora](https://docs.google.com/presentation/d/1UsSDWUG0aTesbOCTmx0VZiAe81MrYdJuweSJsEmwnpo/edit?usp=sharing)
 ---
 
+# 📖 SEMANA 5
+#### ATIVIDADES
+
+- [Lista de exercícios - Os Pilares da Inovação](https://docs.google.com/forms/d/e/1FAIpQLSeheJWdDJ3kvKPvLKCM6oA_U6QZ7AIjb3jcp-TJq2Dh5aX7Eg/viewform?usp=header)
+---
+
 # RECOMENDAÇÕES
 
 #### PALESTRAS
