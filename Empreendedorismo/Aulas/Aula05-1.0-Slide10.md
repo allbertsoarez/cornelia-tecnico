@@ -1,5 +1,4 @@
-# SLIDE 10
-**A COMBINAÇÃO DE TIPOS**
+# A COMBINAÇÃO DE TIPOS
 ```mermaid
 flowchart TD
     A[Novo Produto] --> B[Exige Novo Processo]
