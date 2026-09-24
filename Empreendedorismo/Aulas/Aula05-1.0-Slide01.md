@@ -1,5 +1,4 @@
-# SLIDE 1
-**BEM VINDOS AO EMPREENDEDORISMO**
+# BEM VINDOS AO EMPREENDEDORISMO
 ```mermaid
 mindmap
   root((Tipos de<br/>Inovação))
