@@ -1,5 +1,4 @@
-# SLIDE 6
-**INOVAÇÃO EM PROCESSOS**
+# INOVAÇÃO EM PROCESSOS
 ```mermaid
 flowchart LR
     subgraph ANTES
