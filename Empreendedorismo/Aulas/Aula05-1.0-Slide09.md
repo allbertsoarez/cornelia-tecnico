@@ -1,5 +1,4 @@
-# SLIDE 9
-**GRAU DE INOVAÇÃO**
+# GRAU DE INOVAÇÃO
 ```mermaid
 flowchart LR
     subgraph Incremental
