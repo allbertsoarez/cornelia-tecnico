@@ -1,4 +1,5 @@
-# Slide 1: Bem-vindos à Empreendedorismo
+# Slide 1
+**Bem-vindos ao Empreendedorismo**
 ```mermaid
 mindmap
   root((Tipos de<br/>Inovação))
@@ -8,7 +9,8 @@ mindmap
 ```
 ---
 
-# Slide 2: Invenção vs. Inovação
+# Slide 2
+**Invenção vs. Inovação**
 ```mermaid
 flowchart LR
     A[Ideia Nova] -->|Fica no papel| B(INVENÇÃO)
@@ -17,7 +19,8 @@ flowchart LR
 ```
 ---
 
-# Slide 3: Por que Inovar?
+# Slide 3
+**Por que Inovar?**
 ```mermaid
 flowchart TD
     A[Mercado Dinâmico] --> B[Consumidores mudam]
@@ -29,7 +32,8 @@ flowchart TD
 
 ---
 
-# Slide 4: Os 4 Pilares da Inovação
+# Slide 4
+**Os 4 Pilares da Inovação**
 ```mermaid
 mindmap
   root((Inovação))
@@ -41,7 +45,8 @@ mindmap
 
 ---
 
-# Slide 5: Inovação em Produto/Serviço
+# Slide 5
+**Inovação em Produto/Serviço**
 ```mermaid
 flowchart LR
     A[Produto Atual] --> B{Mudança}
@@ -52,7 +57,8 @@ flowchart LR
 
 ---
 
-# Slide 6: Inovação em Processo
+# Slide 6
+**Inovação em Processo**
 ```mermaid
 flowchart LR
     subgraph ANTES
@@ -66,7 +72,8 @@ flowchart LR
 
 ---
 
-# Slide 7: Inovação em Marketing
+# Slide 7
+**Inovação em Marketing**
 ```mermaid
 flowchart TD
     A[Produto: Água Mineral] --> B{Como vender?}
@@ -76,7 +83,8 @@ flowchart TD
 
 ---
 
-# Slide 8: Inovação Organizacional
+# Slide 8
+**Inovação Organizacional**
 ```mermaid
 flowchart TD
     A[Estrutura Tradicional] -->|Hierarquia rígida| B[Chefes e subordinados]
@@ -85,7 +93,8 @@ flowchart TD
 
 ---
 
-# Slide 9: Grau de Inovação
+# Slide 9
+**Grau de Inovação**
 ```mermaid
 flowchart LR
     subgraph Incremental
@@ -100,7 +109,8 @@ flowchart LR
 
 ---
 
-# Slide 10: A Combinação dos Tipos
+# Slide 10
+**A Combinação dos Tipos**
 ```mermaid
 flowchart TD
     A[Novo Produto] --> B[Exige Novo Processo]
@@ -112,7 +122,8 @@ flowchart TD
 
 ---
 
-# Slide 11: Conclusão e Próximos Passos
+# Slide 11
+**Conclusão e Próximos Passos**
 ```mermaid
 mindmap
   root((Próximos<br/>Passos))
