@@ -1,5 +1,4 @@
-# SLIDE 2
-**INVENÇÃO VS INOVAÇÃO**
+# INVENÇÃO VS INOVAÇÃO
 ```mermaid
 flowchart LR
     A[Ideia Nova] -->|Fica no papel| B(INVENÇÃO)
