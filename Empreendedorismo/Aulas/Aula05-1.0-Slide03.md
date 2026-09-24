@@ -1,5 +1,4 @@
-# SLIDE 3 
-**POR QUE INOVAR?**
+# POR QUE INOVAR?
 ```mermaid
 flowchart TD
     A[Mercado Dinâmico] --> B[Consumidores mudam]
