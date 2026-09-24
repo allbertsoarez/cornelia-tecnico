@@ -1,5 +1,4 @@
-# SLIDE 4
-**OS 4 PILARES DA INOVAÇÃO**
+# OS 4 PILARES DA INOVAÇÃO
 ```mermaid
 mindmap
   root((Inovação))
