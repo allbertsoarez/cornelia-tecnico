@@ -1,5 +1,4 @@
-# SLIDE 11
-**CONCLUSÃO E PRÓXIMOS PASSOS**
+# CONCLUSÃO E PRÓXIMOS PASSOS
 ```mermaid
 mindmap
   root((Próximos<br/>Passos))
