@@ -1,5 +1,4 @@
-# SLIDE 8
-**INOVAÇÃO ORGANIZACIONAL**
+# INOVAÇÃO ORGANIZACIONAL
 ```mermaid
 flowchart TD
     A[Estrutura Tradicional] -->|Hierarquia rígida| B[Chefes e subordinados]
