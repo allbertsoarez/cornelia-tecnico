@@ -34,8 +34,8 @@
 ---
 
 # 📖 SEMANA 4
-- [Lista de exercícios 1](https://docs.google.com/forms/d/e/1FAIpQLSeMiS80TY2ECiGAF7p7uVf9-x-l9sUVZx-5rJg1gt24OWbrIA/viewform?usp=header)
-- [Lista de exercícios 2]
+- [Lista de exercícios 1 - Ser Empreendedor](https://docs.google.com/forms/d/e/1FAIpQLSeMiS80TY2ECiGAF7p7uVf9-x-l9sUVZx-5rJg1gt24OWbrIA/viewform?usp=header)
+- [Lista de exercícios 2 - Perfil do Empreendedor](https://docs.google.com/forms/d/e/1FAIpQLScVZGSVhFvRP2zldUwNcXGQcW4zVOqe9jvm64UD9ZDTdSExGw/viewform?usp=header)
 
 ---
 
