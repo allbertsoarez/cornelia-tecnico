@@ -1,5 +1,4 @@
-# SLIDE 5
-**INOVAÇÃO EM PRODUTO/SERVIÇO**
+# INOVAÇÃO EM PRODUTO/SERVIÇO
 ```mermaid
 flowchart LR
     A[Produto Atual] --> B{Mudança}
