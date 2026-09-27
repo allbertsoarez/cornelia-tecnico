@@ -1,8 +1,7 @@
-# [VS CODE](https://code.visualstudio.com/)
+# [VSCODE](https://code.visualstudio.com/)
 **Editor de código fonte, depurador e IDE**
 
 ### Como fazer download do Visual Studio Code
-- 
 - https://code.visualstudio.com/download
 - https://visualstudio.microsoft.com/pt-br/downloads/
 - https://github.com/microsoft/vscode
