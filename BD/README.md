@@ -2,8 +2,6 @@
 #### 📖 ATIVIDADES
 - [Lista de exercícios 1](https://docs.google.com/forms/d/e/1FAIpQLSeh2a4mv3JIobtMe5v3irgLGZJJ7xXJGlSQuwG7q3pdlylzaw/viewform?usp=dialog)
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSeh2a4mv3JIobtMe5v3irgLGZJJ7xXJGlSQuwG7q3pdlylzaw/viewform?embedded=true" width="640" height="4097" frameborder="0" marginheight="0" marginwidth="0">Carregando…</iframe>
-
 #### SLIDES
 
 - [Slide 1 - Arquitetura dos Dados](https://docs.google.com/presentation/d/1fe0oqdrmQL1pyZj6TiM41cK1737g_UP_ZzLY0c92wcA/edit?usp=sharing)
