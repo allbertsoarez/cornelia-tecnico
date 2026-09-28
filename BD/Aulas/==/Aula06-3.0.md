@@ -82,7 +82,7 @@ Classifique como forte ou fraca, justificando:
 
 ---
 
-### 3.2 Atributos 𐤏
+### 4.1 Atributos 𐤏
 
 Os **atributos** são as características que descrevem uma entidade. No banco de dados, eles se tornam as **colunas** das tabelas.
 
@@ -104,7 +104,7 @@ erDiagram
     }
 ```
 
-### 3.3 Tipos de Atributos
+### 4.2 Tipos de Atributos
 
 #### Atributo Simples
 Não pode ser dividido em partes menores.
@@ -116,7 +116,7 @@ erDiagram
     }
 ```
 
-#### Atributo Composto
+#### 4.3 Atributo Composto
 Pode ser dividido em partes menores.
 
 ```mermaid
@@ -129,8 +129,21 @@ erDiagram
     }
 ```
 
-#### Atributo Multivalorado △
-Pode ter vários valores para uma mesma entidade.
+#### 4.4 Atributo Multivalorado △ (Elipse Dupla)
+São atributos que podem ter **mais de um valor** para uma mesma entidade. Por exemplo, um cliente pode ter dois telefones ou três e-mails. Na prática (modelo físico), isso geralmente se resolve criando uma **tabela secundária** ou separando os dados.
+
+No Mermaid, representamos atributos multivalorados com colchetes `[]` ao lado do tipo, indicando um array/lista.
+
+```mermaid
+erDiagram
+    ALUNO {
+        int matricula PK
+        string nome
+        string telefones[] "Multivalorado"
+        string emails[] "Multivalorado"
+    }
+```
+
 
 ```mermaid
 erDiagram
@@ -147,7 +160,7 @@ erDiagram
 
 ---
 
-#### Atributo Derivado
+#### 4.5 Atributo Derivado
 Seu valor é calculado a partir de outro atributo.
 
 ```mermaid
@@ -158,7 +171,7 @@ erDiagram
     }
 ```
 
-### 3.4 Chave Primária ●
+### 4.6 Chave Primária ●
 
 A **chave primária** (Primary Key - PK) é o atributo que identifica **exclusivamente** cada instância da entidade.
 
@@ -176,5 +189,14 @@ erDiagram
         float preco
     }
 ```
+
+
+
+
+### 📊 No Mermaid:
+
+### 💡 Dica para a Sala:
+> "Quando vocês veem esse símbolo de elipse dupla (ou `[]` no código), pensem: 'Esse dado não cabe em uma única caixa, ele precisa de várias gavetas'. Exemplo clássico: 'Telefones'. Ninguém tem um só número hoje em dia!"
+
 
 > 💡 **Regra de Ouro:** Toda entidade forte PRECISA de uma chave primária. Ela é como o CPF da entidade - não pode ser nula e deve ser única!
