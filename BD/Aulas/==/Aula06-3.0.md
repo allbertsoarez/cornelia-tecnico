@@ -190,13 +190,7 @@ erDiagram
     }
 ```
 
-
-
-
-### 📊 No Mermaid:
-
-### 💡 Dica para a Sala:
-> "Quando vocês veem esse símbolo de elipse dupla (ou `[]` no código), pensem: 'Esse dado não cabe em uma única caixa, ele precisa de várias gavetas'. Exemplo clássico: 'Telefones'. Ninguém tem um só número hoje em dia!"
-
-
 > 💡 **Regra de Ouro:** Toda entidade forte PRECISA de uma chave primária. Ela é como o CPF da entidade - não pode ser nula e deve ser única!
+
+
+
