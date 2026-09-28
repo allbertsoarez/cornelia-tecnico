@@ -1,4 +1,4 @@
-# 📚 1. INTRODUÇÃO À MODELAGEM DE DADOS E O MER
+# 📚 INTRODUÇÃO À MODELAGEM DE DADOS E O MER
 
 🎯 **Por que modelar dados?**
 Ninguém constrói um sistema robusto começando a digitar comandos de criação de tabelas diretamente no banco de dados. Tentar fazer isso sem planejamento é como organizar uma biblioteca gigante jogando os livros nas prateleiras sem categoria: o resultado será caos e dados duplicados. 
