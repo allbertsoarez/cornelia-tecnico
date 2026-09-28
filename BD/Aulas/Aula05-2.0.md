@@ -1,4 +1,4 @@
-# 2. CONCEITOS FUNDAMENTAIS
+## 2. CONCEITOS FUNDAMENTAIS
 
 ### 2.1 Mini-Mundo
 
@@ -17,6 +17,7 @@ flowchart LR
     style D fill:#b3e5fc,stroke:#0277bd
     style E fill:#d1c4e9,stroke:#4527a0
 ```
+
 **Exemplo:** Em um sistema escolar, nosso mini-mundo inclui alunos, professores, disciplinas e notas. Não inclui o clima, o preço do pão na padaria ou o trânsito da cidade.
 
 ---
@@ -76,71 +77,84 @@ flowchart TD
 
 Para construir o MER, precisamos entender seus três componentes fundamentais. Pense neles como as partes de uma frase: **Substantivo, Adjetivo e Verbo**.
 
-#### 1. Entidade (O Substantivo)
-É qualquer objeto, pessoa, lugar ou conceito do mini-mundo sobre o qual queremos guardar dados. No DER (notação Chen), é representada por um **retângulo**.
-*Exemplo:* `ALUNO`, `LIVRO`, `CLIENTE`.
-
-#### 2. Atributo (O Adjetivo/Característica)
-É uma propriedade ou característica de uma entidade (ou de um relacionamento). Na notação Chen, é representado por um **oval**.
-*Exemplo:* O aluno tem `Nome`, `CPF`, `Data_Nascimento`.
-
-#### 3. Relacionamento (O Verbo)
-É uma associação lógica ou ligação entre duas ou mais entidades. Na notação Chen, é representado por um **losango**.
-*Exemplo:* Um ALUNO *MATRICULA-SE* em uma DISCIPLINA.
+Abaixo, veja a "anatomia" de um modelo conceitual simples. Observe como cada peça tem uma cor e uma função específica, mas todas dependem umas das outras para fazer sentido:
 
 ```mermaid
 flowchart TD
-    subgraph "Conceitos Básicos (Notação Chen)"
-        E1[ENTIDADE 1<br/>Ex: ALUNO]
-        E2[ENTIDADE 2<br/>Ex: DISCIPLINA]
-        
-        R{RELACIONAMENTO<br/>Ex: CURSA}
-        
-        A1((Atributo<br/>Ex: Nome))
-        A2((Atributo<br/>Ex: Código))
+    %% Definição de Estilos para criar a "Anatomia Visual"
+    classDef entidade fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
+    classDef atributo fill:#fff3e0,stroke:#ef6c00,stroke-width:2px
+    classDef relacionamento fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
+
+    %% Estrutura do Diagrama (Notação Chen)
+    subgraph "🏛️ 1. ENTIDADES (O Substantivo / O Objeto)"
+        E1[👤 ALUNO]:::entidade
+        E2[📚 DISCIPLINA]:::entidade
     end
 
+    subgraph "🏷️ 2. ATRIBUTOS (O Adjetivo / A Característica)"
+        A1((Nome)):::atributo
+        A2((Código)):::atributo
+    end
+
+    subgraph "🔗 3. RELACIONAMENTO (O Verbo / A Associação)"
+        R{MATRICULA}:::relacionamento
+    end
+
+    %% Ligações
     E1 --- A1
     E2 --- A2
-    E1 --> R
-    E2 --> R
+    E1 ==> R
+    E2 ==> R
 
-    style E1 fill:#bbdefb,stroke:#1565c0
-    style E2 fill:#bbdefb,stroke:#1565c0
-    style R fill:#c8e6c9,stroke:#2e7d32
-    style A1 fill:#fff3e0,stroke:#ef6c00
-    style A2 fill:#fff3e0,stroke:#ef6c00
+    %% Legenda visual no próprio gráfico
+    L1["🔵 Entidade: Coisa que existe"]
+    L2["🟠 Atributo: Dado sobre a coisa"]
+    L3["🟢 Relacionamento: Ligação entre coisas"]
+    
+    L1 ~~~ L2 ~~~ L3
 ```
+
+**Entendendo a Anatomia:**
+1. **Entidade (Azul):** É o objeto principal (Ex: `ALUNO`). É sobre ela que guardamos dados.
+2. **Atributo (Laranja):** É uma característica da entidade (Ex: `Nome` do aluno). *Note que ele está fisicamente ligado à entidade, pois não existe "Nome" sem saber de quem é.*
+3. **Relacionamento (Verde):** É a ponte que conecta duas entidades (Ex: O aluno `MATRICULA` a disciplina).
 
 ---
 
-### 2.6 CHAVES E CARDINALIDADE (O CORAÇÃO DO MER)
+### 2.6 DO CONCEITO À PRÁTICA: CHAVES E CARDINALIDADE
 
-Saber quem são as entidades não basta. Precisamos definir **como elas se identificam** e **como elas se conectam**.
+Saber desenhar os pilares é o primeiro passo. Agora, precisamos dar **regras** a esse desenho. É aqui que o modelo ganha inteligência.
 
-#### 1. Chave Primária (PK - Primary Key)
-É o atributo (ou conjunto de atributos) que identifica uma instância da entidade de forma **única e inequívoca**. 
-*Exemplo:* O `CPF` no Cliente ou o `ID_LIVRO` no Livro. Na notação Chen, sublinhamos o atributo.
+#### 1. Chave Primária (PK)
+É o atributo que identifica uma instância da entidade de forma **única**. No diagrama abaixo, o `CPF` e o `Codigo` são marcados como `PK` (Primary Key), o que automaticamente os sublinha no gráfico.
 
-#### 2. Cardinalidade
-Define a **quantidade mínima e máxima** de ocorrências de uma entidade que podem (ou devem) se associar a uma ocorrência da outra entidade. É a regra de negócio pura!
+#### 2. Cardinalidade (A Regra de Negócio)
+Define a **quantidade** de ligações permitidas entre as entidades. É a resposta para: *"Um aluno pode cursar quantas disciplinas?"*
 
-*   **1:1 (Um para Um):** Uma instância de A se associa a no máximo uma de B, e vice-versa.
-*   **1:N (Um para Muitos):** Uma instância de A se associa a muitas de B, mas uma de B se associa a no máximo uma de A. *(O mais comum!)*
-*   **N:M (Muitos para Muitos):** Uma instância de A se associa a muitas de B, e vice-versa.
+Veja como essa mesma "anatomia" é traduzida para a notação **Pé de Galinha (Crow's Foot)**, que é o padrão absoluto do mercado de trabalho e de ferramentas como MySQL Workbench e Mermaid:
 
 ```mermaid
 erDiagram
-    %% Exemplo 1:1 (Um CPF para um Passaporte)
-    PESSOA ||--|| PASSAPORTE : "possui"
+    ALUNO {
+        string CPF PK
+        string Nome
+    }
     
-    %% Exemplo 1:N (Um departamento tem vários funcionários)
-    DEPARTAMENTO ||--|{ FUNCIONARIO : "emprega"
-    
-    %% Exemplo N:M (Alunos cursam várias disciplinas, disciplinas têm vários alunos)
-    ALUNO }|--|{ DISCIPLINA : "cursa"
+    DISCIPLINA {
+        string Codigo PK
+        string Nome_Disciplina
+    }
+
+    ALUNO }o--o{ DISCIPLINA : "MATRICULA"
 ```
-> 💡 **Dica de Ouro:** O diagrama acima usa a notação **Pé de Galinha** (padrão do Mermaid e do mercado). Os símbolos `||` significam "um", `|{` ou `}|` significam "muitos". O lado com `||` é o "1", o lado com `{` ou `}` é o "N".
+
+> 💡 **Como ler o diagrama acima:** 
+> * **Entidades e Atributos:** As caixas `ALUNO` e `DISCIPLINA` contêm seus atributos. O `PK` ao lado de `CPF` e `Codigo` indica que são as Chaves Primárias.
+> * **A Linha de Relacionamento (`}o--o{`):** 
+>   * O lado do `ALUNO` tem `}o` (zero ou muitos).
+>   * O lado da `DISCIPLINA` tem `o{` (zero ou muitos).
+>   * **Tradução da Regra:** "Um **ALUNO** pode se matricular em **zero ou muitas** **DISCIPLINAS**. E uma **DISCIPLINA** pode ter **zero ou muitos** **ALUNOS** matriculados." (Um clássico relacionamento N:M / Muitos para Muitos).
 
 ---
 
