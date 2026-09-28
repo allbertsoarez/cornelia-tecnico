@@ -1,6 +1,6 @@
 ## 2. CONCEITOS FUNDAMENTAIS
 
-### 2.1 Mini-Mundo
+### 2.1 MINI-MUNDO
 
 O **mini-mundo** é um recorte da realidade que queremos representar no sistema. Não precisamos modelar o mundo todo, apenas o que interessa ao negócio.
 
@@ -22,7 +22,7 @@ flowchart LR
 
 ---
 
-### 2.2 Abstração
+### 2.2 ABSTRAÇÃO
 
 **Abstração** é o processo de ignorar detalhes irrelevantes e focar nas características essenciais dos objetos.
 
@@ -38,7 +38,7 @@ flowchart TD
 
 ---
 
-### 2.3 Os Três Níveis de Modelagem
+### 2.3 OS TRÊS NÍVEIS DE MODELAGEM
 
 | Nível                       | Pergunta que responde                 | Quem entende            | Linguagem               |
 | --------------------------- | ------------------------------------- | ----------------------- | ----------------------- |
@@ -62,7 +62,7 @@ flowchart TD
 
 ---
 
-### 2.4 MER e DER — QUAL A DIFERENÇA?
+### 2.4 MER E DER — QUAL A DIFERENÇA?
 
 | Sigla   | Nome                             | O que é                                                    |
 | ------- | -------------------------------- | ---------------------------------------------------------- |
@@ -81,12 +81,10 @@ Abaixo, veja a "anatomia" de um modelo conceitual simples. Observe como cada pe�
 
 ```mermaid
 flowchart TD
-    %% Definição de Estilos para criar a "Anatomia Visual"
     classDef entidade fill:#e3f2fd,stroke:#1565c0,stroke-width:2px
     classDef atributo fill:#fff3e0,stroke:#ef6c00,stroke-width:2px
     classDef relacionamento fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
 
-    %% Estrutura do Diagrama (Notação Chen)
     subgraph "🏛️ 1. ENTIDADES (O Substantivo / O Objeto)"
         E1[👤 ALUNO]:::entidade
         E2[📚 DISCIPLINA]:::entidade
@@ -101,13 +99,11 @@ flowchart TD
         R{MATRICULA}:::relacionamento
     end
 
-    %% Ligações
     E1 --- A1
     E2 --- A2
     E1 ==> R
     E2 ==> R
 
-    %% Legenda visual no próprio gráfico
     L1["🔵 Entidade: Coisa que existe"]
     L2["🟠 Atributo: Dado sobre a coisa"]
     L3["🟢 Relacionamento: Ligação entre coisas"]
@@ -122,17 +118,17 @@ flowchart TD
 
 ---
 
-### 2.6 DO CONCEITO À PRÁTICA: CHAVES E CARDINALIDADE
+### 2.6 CHAVES E CARDINALIDADE (O CORAÇÃO DO MER)
 
-Saber desenhar os pilares é o primeiro passo. Agora, precisamos dar **regras** a esse desenho. É aqui que o modelo ganha inteligência.
+Saber quem são as entidades não basta. Precisamos definir **como elas se identificam** e **como elas se conectam**.
 
-#### 1. Chave Primária (PK)
-É o atributo que identifica uma instância da entidade de forma **única**. No diagrama abaixo, o `CPF` e o `Codigo` são marcados como `PK` (Primary Key), o que automaticamente os sublinha no gráfico.
+#### 1. CHAVE PRIMÁRIA (PK - PRIMARY KEY)
 
-#### 2. Cardinalidade (A Regra de Negócio)
-Define a **quantidade** de ligações permitidas entre as entidades. É a resposta para: *"Um aluno pode cursar quantas disciplinas?"*
+É o atributo (ou conjunto de atributos) que identifica uma instância da entidade de forma **única e inequívoca**. 
+* **Exemplo:** O `CPF` no Cliente ou o `ID_LIVRO` no Livro. 
+* **No diagrama:** Na notação Chen, sublinhamos o atributo. No Mermaid (Pé de Galinha), basta adicionar a tag `PK` ao lado do atributo, e ele será sublinhado automaticamente.
 
-Veja como essa mesma "anatomia" é traduzida para a notação **Pé de Galinha (Crow's Foot)**, que é o padrão absoluto do mercado de trabalho e de ferramentas como MySQL Workbench e Mermaid:
+Veja como isso fica na prática, observando as entidades, seus atributos e a chave primária destacada:
 
 ```mermaid
 erDiagram
@@ -149,12 +145,35 @@ erDiagram
     ALUNO }o--o{ DISCIPLINA : "MATRICULA"
 ```
 
-> 💡 **Como ler o diagrama acima:** 
-> * **Entidades e Atributos:** As caixas `ALUNO` e `DISCIPLINA` contêm seus atributos. O `PK` ao lado de `CPF` e `Codigo` indica que são as Chaves Primárias.
-> * **A Linha de Relacionamento (`}o--o{`):** 
->   * O lado do `ALUNO` tem `}o` (zero ou muitos).
->   * O lado da `DISCIPLINA` tem `o{` (zero ou muitos).
->   * **Tradução da Regra:** "Um **ALUNO** pode se matricular em **zero ou muitas** **DISCIPLINAS**. E uma **DISCIPLINA** pode ter **zero ou muitos** **ALUNOS** matriculados." (Um clássico relacionamento N:M / Muitos para Muitos).
+#### 2. CARDINALIDADE
+
+Define a **quantidade mínima e máxima** de ocorrências de uma entidade que podem (ou devem) se associar a uma ocorrência da outra entidade. É a regra de negócio pura!
+
+* **1:1 (Um para Um):** Uma instância de A se associa a no máximo uma de B, e vice-versa.
+* **1:N (Um para Muitos):** Uma instância de A se associa a muitas de B, mas uma de B se associa a no máximo uma de A. *(O mais comum!)*
+* **N:M (Muitos para Muitos):** Uma instância de A se associa a muitas de B, e vice-versa.
+
+Observe os três tipos de cardinalidade lado a lado:
+
+```mermaid
+erDiagram
+    PESSOA ||--|| PASSAPORTE : "possui"
+    DEPARTAMENTO ||--|{ FUNCIONARIO : "emprega"
+    ALUNO }o--o{ DISCIPLINA : "cursa"
+```
+
+#### 📊 DECODIFICADOR DE CARDINALIDADE (PÉ DE GALINHA)
+
+Para ler os diagramas acima, use esta tabela como guia. Os símbolos nas pontas das linhas ditam a regra:
+
+| Símbolo na Ponta | Nome Visual | Significado na Regra de Negócio | Exemplo Prático no Diagrama |
+| :---: | :--- | :--- | :--- |
+| `||` | **Uma e apenas uma** | Obrigatório e único. | Uma `PESSOA` possui **uma e apenas uma** `PASSAPORTE`. |
+| `|{` ou `}|` | **Um ou muitos** | Obrigatório, mas pode se repetir. | Um `DEPARTAMENTO` emprega **um ou muitos** `FUNCIONARIO`. |
+| `}o` ou `o{` | **Zero ou muitos** | Opcional e pode se repetir. | Um `ALUNO` cursa **zero ou muitas** `DISCIPLINA`. |
+
+> 💡 **Dica de Ouro para Leitura:** Sempre leia o diagrama **da esquerda para a direita** e depois **da direita para a esquerda**. 
+> *Exemplo (linha de baixo):* "Um **ALUNO** (`}o`) pode cursar **zero ou muitas** **DISCIPLINAS**. E uma **DISCIPLINA** (`o{`) pode ter **zero ou muitos** **ALUNOS**."
 
 ---
 
