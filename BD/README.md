@@ -25,6 +25,12 @@
 
 ---
 
+# SEMANA 4
+
+#### 📖 ATIVIDADES
+- [Lista de exercícios - Modelo Entidade-Relacionamento](https://docs.google.com/forms/d/1d0ztOBcPVqLjKs20Nqbtpiqtps4qLZ8dIiaKdTNvCWc/edit)
+---
+
 # RECOMENDAÇÕES
 
 #### SOFTWARES
