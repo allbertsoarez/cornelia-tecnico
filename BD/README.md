@@ -44,7 +44,8 @@
 #### SOFTWARES
 - [Draw IO](https://www.drawio.com/)
 - [MySQL Workbench](https://www.mysql.com/products/workbench/)
-- [SQL Online](ttps://sqliteonline.com/)
+- [SQLite](https://www.sqlite.org/)
+- [SQL Online](https://sqliteonline.com/)
 - [XAMPP](https://www.apachefriends.org/pt_br/index.html)
 
 
