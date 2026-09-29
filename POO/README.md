@@ -64,6 +64,14 @@ Criar uma estrutura de classes para modelar jogos de loteria (Quina e Mega-Sena)
 
 ---
 
+# SEMANA 4
+
+#### 📖 ATIVIDADES
+- [Lista de Exercício - REVISÂO - Modelando Classe Loterias](https://docs.google.com/forms/d/e/1FAIpQLSc_ja5kAtUq5I7itneY-Ipj8PhI-u2nttW0Nvm434BksLvToQ/viewform?usp=header)
+
+
+---
+
 # RECOMENDAÇÕES
 
 #### SOFTWARES
