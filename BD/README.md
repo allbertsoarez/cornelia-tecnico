@@ -30,6 +30,7 @@
 #### 📖 ATIVIDADES
 - [Lista de exercícios - Ciclo de Vida e Fases de um Projeto de Banco de Dados](https://docs.google.com/forms/d/e/1FAIpQLSeDdolSsV8LSagjzPi3ktRQBKbRvCsqvjMcY7usIFumzjZ_vQ/viewform?usp=header)
 - [Lista de exercícios - 5 componentes fundamentais de um Sistema de Banco de Dados](https://docs.google.com/forms/d/e/1FAIpQLSfflwCr7HidDh01464Tw0TBfCcU_Oe0L1-OSbbOfzUFCdnR-Q/viewform?usp=header)
+- [Lista de exercícios - Anatomia de um colapso](https://docs.google.com/forms/d/e/1FAIpQLSef0SVCqyXXE51NL1eDkSFVGbgboen8qPvll70CfoXdRtw9Hg/viewform?usp=header)
 
 ---
 # SEMANA 4
