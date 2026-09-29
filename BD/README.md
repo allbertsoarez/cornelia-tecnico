@@ -42,6 +42,12 @@
 # RECOMENDAÇÕES
 
 #### SOFTWARES
-- [XAMPP](https://www.apachefriends.org/pt_br/index.html)
-- [MySQL Workbench](https://www.mysql.com/products/workbench/)
 - [Draw IO](https://www.drawio.com/)
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
+- [SQLite](https://www.sqlite.org/)
+- [SQL Online](https://sqliteonline.com/)
+- [XAMPP](https://www.apachefriends.org/pt_br/index.html)
+
+
+
+
