@@ -30,8 +30,7 @@
 # SEMANA 3
 
 #### 📖 ATIVIDADES
-- [Lista de Exercício 1 - Aula 3](@BnsShpaTJYrGdeuQnvSLih^Lt2Rkv*JbgT59&nm^Ff3dTyMzcMNZe6ThVjzc!96PcESfu)
-
+- [Lista de Exercício - Classes, Instanciação e Classes Abstratas](https://docs.google.com/forms/d/e/1FAIpQLScawne-GUR4msesxzHxzxB3RPO2wfkeDkwyXd6bZpHIRyRSbA/viewform?usp=header)
 - [**Atividade em sala - Projeto: Modelagem de Jogos de Loteria**](https://colab.research.google.com/drive/1Zya_2KQQv6gdWVQEY1fichW7McLL-5wR?usp=sharing)<br>
 Criar uma estrutura de classes para modelar jogos de loteria (Quina e Mega-Sena), utilizando herança e instanciação de objetos
 
