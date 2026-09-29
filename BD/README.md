@@ -25,6 +25,12 @@
 
 ---
 
+# SEMANA 3
+
+#### 📖 ATIVIDADES
+
+
+---
 # SEMANA 4
 
 #### 📖 ATIVIDADES
