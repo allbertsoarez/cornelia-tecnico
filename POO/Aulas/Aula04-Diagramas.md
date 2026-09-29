@@ -1,4 +1,4 @@
-# 1. Diagrama de Classes
+# 1. DIAGRAMA DE CLASSES
 ```mermaid
 classDiagram
   class Loteria {
