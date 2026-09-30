@@ -85,7 +85,7 @@ Usados para comparar dois valores. O resultado de qualquer comparação é sempr
 
 ---
 
-### 7. FUNÇÕES INTEGRADAS (built-in)
+### 7. [FUNÇÕES INTEGRADAS (built-in)](https://docs.python.org/pt-br/3.14/builtins/functions.html)
 Ferramentas que o Python já traz prontas para uso, sem precisar importar nada:
   
   - 7.1 [`abs()`](https://docs.python.org/pt-br/3.14/builtins/functions.html#abs): Retorna o valor absoluto (módulo) de um número.
