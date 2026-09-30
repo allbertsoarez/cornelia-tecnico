@@ -122,7 +122,7 @@ Uma coleção ordenada e mutável de itens. Permitem guardar múltiplos valores 
 ### 11. COLEÇÕES (str, lst, tuple, dict, set)
 Uma visão geral das principais estruturas para agrupar dados:
   
-  - **11.1 str (String)**: Sequência imutável de caracteres (textos).
+  - **11.1 [str (String)](https://docs.python.org/pt-br/3/builtins/stdtypes.html#str)**: Sequência imutável de caracteres (textos).
   
   - **11.2 lst (List / Lista)**: Sequência ordenada e mutável (permite alterar, adicionar e remover itens).
   
