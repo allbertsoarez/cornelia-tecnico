@@ -114,7 +114,7 @@ Diferente do `while`, o `for` é usado para iterar (percorrer) sequências de fo
 
 ---
 
-### 10. LISTAS
+### 10. [LISTAS](https://docs.python.org/pt-br/3/tutorial/datastructures.html#more-on-lists)
 Uma coleção ordenada e mutável de itens. Permitem guardar múltiplos valores em uma única variável (ex: `[10, 20, 30]`). Os itens são acessados por **índices**, e no Python a contagem começa sempre em **0**. Possuem métodos úteis como `.append()` (adicionar ao final) e `.pop()` (remover).
 
 ---
