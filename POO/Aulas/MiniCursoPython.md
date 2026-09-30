@@ -113,12 +113,12 @@ Diferente do `while`, o `for` é usado para iterar (percorrer) sequências de fo
 
 ---
 
-### - LISTAS
+### LISTAS
 Uma coleção ordenada e mutável de itens. Permitem guardar múltiplos valores em uma única variável (ex: `[10, 20, 30]`). Os itens são acessados por **índices**, e no Python a contagem começa sempre em **0**. Possuem métodos úteis como `.append()` (adicionar ao final) e `.pop()` (remover).
 
 ---
 
-### - COLEÇÕES (str, lst, tuple, dict, set)
+### COLEÇÕES (str, lst, tuple, dict, set)
 Uma visão geral das principais estruturas para agrupar dados:
   
   - **str (String)**: Sequência imutável de caracteres (textos).
