@@ -10,11 +10,11 @@ Lembre-se: programação se aprende lendo a teoria, mas se consolida digitando, 
 ### 1. ENTRADA/SAÍDA
 É a forma como o programa "conversa" com o mundo exterior. Os tópicos centrais desta seção são:
 
-1.1 **Função `input()`**: Recebe dados digitados pelo usuário. *Atenção: no Python, o `input` sempre retorna um texto (`str`), mesmo que o usuário digite um número.*
+1.1 **Função [input()](https://docs.python.org/pt-br/3/builtins/functions.html#input)**: Recebe dados digitados pelo usuário. *Atenção: no Python, o `input` sempre retorna um texto (`str`), mesmo que o usuário digite um número.*
 
-1.2 **Função `print()`**: Exibe informações, variáveis e resultados na tela do console.
+1.2 **Função [print()](https://docs.python.org/pt-br/3/builtins/functions.html#print)**: Exibe informações, variáveis e resultados na tela do console.
 
-1.3 **f-strings**: A forma moderna e recomendada de formatar a saída, permitindo inserir variáveis e expressões diretamente dentro do texto de forma limpa (ex: `f"Olá, {nome}"`).
+1.3 **[f-strings](https://docs.python.org/pt-br/3/tutorial/inputoutput.html#tut-f-strings)**: A forma moderna e recomendada de formatar a saída, permitindo inserir variáveis e expressões diretamente dentro do texto de forma limpa (ex: `f"Olá, {nome}"`).
 
 ---
 
