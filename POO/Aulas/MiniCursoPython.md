@@ -72,7 +72,7 @@ Usados para combinar múltiplas condições booleanas:
 
 ---
 
-### 6. OPERADORES COMPARATIVOS (<, <=, >, >=, ==, !=)
+### 6. [OPERADORES COMPARATIVOS (<, <=, >, >=, ==, !=)](https://docs.python.org/pt-br/3/builtins/stdtypes.html#comparisons)
 Usados para comparar dois valores. O resultado de qualquer comparação é sempre um booleano (`True` ou `False`):
   
   - 6.1 `<` (Menor que), `<=` (Menor ou igual a)
