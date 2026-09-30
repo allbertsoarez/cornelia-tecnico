@@ -88,13 +88,13 @@ Usados para comparar dois valores. O resultado de qualquer comparação é sempr
 ### 7. FUNÇÕES INTEGRADAS (built-in)
 Ferramentas que o Python já traz prontas para uso, sem precisar importar nada:
   
-  - 7.1 `abs()`: Retorna o valor absoluto (módulo) de um número.
+  - 7.1 [`abs()`](https://docs.python.org/pt-br/3.14/builtins/functions.html#abs): Retorna o valor absoluto (módulo) de um número.
   
-  - 7.2 `max()` e `min()`: Retornam o maior e o menor valor de uma sequência, respectivamente.
+  - 7.2 [`max()`](https://docs.python.org/pt-br/3.14/builtins/functions.html#max) e [`min()`](https://docs.python.org/pt-br/3.14/builtins/functions.html#min): Retornam o maior e o menor valor de uma sequência, respectivamente.
   
-  - 7.3 `sum()`: Retorna a soma de todos os itens de uma sequência numérica.
+  - 7.3 [`sum()`](https://docs.python.org/pt-br/3.14/builtins/functions.html#sum): Retorna a soma de todos os itens de uma sequência numérica.
   
-  - 7.4 `type()`: Revela qual é o tipo de dado de uma variável (ex: `<class 'int'>`).
+  - 7.4 [`type()`](https://docs.python.org/pt-br/3.14/builtins/functions.html#type)(: Revela qual é o tipo de dado de uma variável (ex: `<class 'int'>`).
 
 ---
 
