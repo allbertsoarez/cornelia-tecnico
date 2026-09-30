@@ -34,11 +34,11 @@ São como "caixas com rótulos" na memória do computador onde guardamos informa
 ### 3. TIPOS DE DADOS PRIMITIVOS
 São os blocos de construção mais básicos da linguagem:
   
-  - **3.1 int**: Números inteiros, positivos ou negativos, sem casas decimais (ex: `10`, `-5`).
+  - **3.1 [int](https://docs.python.org/pt-br/3/builtins/functions.html#int)**: Números inteiros, positivos ou negativos, sem casas decimais (ex: `10`, `-5`).
   
-  - **3.2 float**: Números de ponto flutuante (decimais). *Atenção: em Python, usa-se ponto (`.`) e não vírgula (`,`) para separar as casas decimais* (ex: `3.14`, `9.5`).
+  - **3.2 [float](https://docs.python.org/pt-br/3/builtins/functions.html#float)**: Números de ponto flutuante (decimais). *Atenção: em Python, usa-se ponto (`.`) e não vírgula (`,`) para separar as casas decimais* (ex: `3.14`, `9.5`).
   
-  - **3.3 bool**: Tipo lógico que representa apenas dois estados: `True` (Verdadeiro) ou `False` (Falso). Fundamental para tomadas de decisão.
+  - **3.3 [bool](https://docs.python.org/pt-br/3/builtins/functions.html#bool)**: Tipo lógico que representa apenas dois estados: `True` (Verdadeiro) ou `False` (Falso). Fundamental para tomadas de decisão.
 
 ---
 
@@ -61,7 +61,7 @@ Utilizados para realizar operações matemáticas:
 
 ---
 
-### 5. OPERADORES LÓGICOS (and, or, not)
+### 5. [OPERADORES LÓGICOS (and, or, not)](https://docs.python.org/pt-br/3/builtins/stdtypes.html#boolean-operations-and-or-not)
 Usados para combinar múltiplas condições booleanas:
   
   - **5.1 and**: Retorna `True` apenas se **todas** as condições forem verdadeiras.
