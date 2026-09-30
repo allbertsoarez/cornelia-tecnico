@@ -1,4 +1,4 @@
-# 📘 Sumário Teórico: Mini Curso de Python
+# 📘 MINI CURSO DE PYTHON
 
 Bem-vindo ao guia de estudos teóricos do nosso Mini Curso! 
 Este documento foi criado para ser sua bússola conceitual. Aqui você encontrará explicações claras e diretas sobre cada tópico. A recomendação é: **leia o conceito aqui** para entender a lógica e, em seguida, **abra o Notebook correspondente no Google Colab** para praticar.
@@ -7,7 +7,7 @@ Lembre-se: programação se aprende lendo a teoria, mas se consolida digitando, 
 
 ---
 
-### ENTRADA/SAÍDA
+### 1. ENTRADA/SAÍDA
 É a forma como o programa "conversa" com o mundo exterior. Os tópicos centrais desta seção são:
 
 1. **Função `input()`**: Recebe dados digitados pelo usuário. *Atenção: no Python, o `input` sempre retorna um texto (`str`), mesmo que o usuário digite um número.*
@@ -18,7 +18,7 @@ Lembre-se: programação se aprende lendo a teoria, mas se consolida digitando, 
 
 ---
 
-### VARIÁVEIS
+### 2. VARIÁVEIS
 São como "caixas com rótulos" na memória do computador onde guardamos informações para usar depois. Os tópicos centrais desta seção são:
 
 1. **Atribuição**: O uso do sinal de igual (`=`) para guardar um valor dentro da variável (ex: `idade = 20`).
@@ -30,7 +30,7 @@ São como "caixas com rótulos" na memória do computador onde guardamos informa
 
 ---
 
-### TIPOS DE DADOS PRIMITIVOS
+### 3. TIPOS DE DADOS PRIMITIVOS
 São os blocos de construção mais básicos da linguagem:
   
   - **int**: Números inteiros, positivos ou negativos, sem casas decimais (ex: `10`, `-5`).
@@ -41,7 +41,7 @@ São os blocos de construção mais básicos da linguagem:
 
 ---
 
-### OPERADORES ARITMÉTICOS
+### 4. OPERADORES ARITMÉTICOS
 Utilizados para realizar operações matemáticas:
   
   - **SOMA (+)**: Adiciona dois valores. Também concatena (junta) textos.
@@ -60,7 +60,7 @@ Utilizados para realizar operações matemáticas:
 
 ---
 
-### OPERADORES LÓGICOS (and, or, not)
+### 5. OPERADORES LÓGICOS (and, or, not)
 Usados para combinar múltiplas condições booleanas:
   
   - **and**: Retorna `True` apenas se **todas** as condições forem verdadeiras.
@@ -71,7 +71,7 @@ Usados para combinar múltiplas condições booleanas:
 
 ---
 
-### OPERADORES COMPARATIVOS (<, <=, >, >=, ==, !=)
+### 6. OPERADORES COMPARATIVOS (<, <=, >, >=, ==, !=)
 Usados para comparar dois valores. O resultado de qualquer comparação é sempre um booleano (`True` ou `False`):
   
   - `<` (Menor que), `<=` (Menor ou igual a)
@@ -84,7 +84,7 @@ Usados para comparar dois valores. O resultado de qualquer comparação é sempr
 
 ---
 
-### FUNÇÕES INTEGRADAS (built-in)
+### 7. FUNÇÕES INTEGRADAS (built-in)
 Ferramentas que o Python já traz prontas para uso, sem precisar importar nada:
   
   - `abs()`: Retorna o valor absoluto (módulo) de um número.
@@ -97,7 +97,7 @@ Ferramentas que o Python já traz prontas para uso, sem precisar importar nada:
 
 ---
 
-### FLUXO DE CONTROLE (if, elif, else, while)
+### 8. FLUXO DE CONTROLE (if, elif, else, while)
 Permite que o programa tome decisões e repita ações.
   
   - **if / elif / else**: Estruturas condicionais. O código executa blocos diferentes dependendo se uma condição é verdadeira ou falsa.
@@ -108,17 +108,17 @@ Permite que o programa tome decisões e repita ações.
 
 ---
 
-### - LAÇO For
+### 9. LAÇO For
 Diferente do `while`, o `for` é usado para iterar (percorrer) sequências de forma definitiva. É ideal quando sabemos quantas vezes queremos repetir algo ou quando queremos passar por cada item de uma coleção. Frequentemente usamos a função `range(inicio, fim, passo)` para gerar sequências numéricas para o `for` percorrer.
 
 ---
 
-### LISTAS
+### 10. LISTAS
 Uma coleção ordenada e mutável de itens. Permitem guardar múltiplos valores em uma única variável (ex: `[10, 20, 30]`). Os itens são acessados por **índices**, e no Python a contagem começa sempre em **0**. Possuem métodos úteis como `.append()` (adicionar ao final) e `.pop()` (remover).
 
 ---
 
-### COLEÇÕES (str, lst, tuple, dict, set)
+### 11. COLEÇÕES (str, lst, tuple, dict, set)
 Uma visão geral das principais estruturas para agrupar dados:
   
   - **str (String)**: Sequência imutável de caracteres (textos).
