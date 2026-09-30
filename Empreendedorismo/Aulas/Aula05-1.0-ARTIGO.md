@@ -10,7 +10,7 @@ Para o empreendedor iniciante, compreender a inovação é o primeiro passo para
 Nesta aula, vamos explorar os Tipos de Inovação. Muitos acreditam que só é possível inovar no produto final que chega às mãos do consumidor. No entanto, a inovação pode acontecer em diversas frentes de uma organização. Podemos inovar na forma como produzimos, na maneira como nos comunicamos com o mercado ou até na estrutura interna da nossa equipe. Compreender essas diferentes categorias permitirá a vocês, futuros empreendedores, identificar oportunidades de melhoria em qualquer área do seu negócio, independentemente do seu tamanho ou setor de atuação. Vamos mergulhar nesse conceito e descobrir como a inovação pode ser a principal alavanca do seu futuro empreendimento.
 
 ---
-# 1.1 PENSAMENTO INOVADOR
+## 1.1 PENSAMENTO INOVADOR
 
 Para estruturar o pensamento inovador, a teoria consolidada divide a inovação em quatro grandes categorias ou tipos principais. Cada uma delas atua em uma frente diferente do negócio, mas todas compartilham o mesmo objetivo: gerar valor e vantagem competitiva.
 
@@ -27,7 +27,7 @@ Além dessas quatro categorias, é crucial compreender o Grau de Inovação. As 
 Dominar esses conceitos permite ao empreendedor mapear onde sua empresa pode atuar. Muitas vezes, uma pequena empresa não tem recursos para uma inovação radical de produto, mas pode se destacar no mercado através de uma brilhante inovação de marketing ou de processo. A habilidade do empreendedor não está apenas em escolher um tipo, mas em orquestrar a combinação deles. Um novo produto exigirá novas formas de fabricação e uma nova narrativa de vendas. Entender essa interdependência é o que separa os amadores dos verdadeiros arquitetos de negócios.
 
 ---
-# 1.2 CONCLUSÃO
+## 1.2 CONCLUSÃO
 
 Em síntese, a inovação é um ecossistema multifacetado que vai muito além da simples criação de uma nova tecnologia. Como vimos ao longo desta aula, ela se manifesta através de quatro pilares fundamentais: produto ou serviço, processo, marketing e organização. Cada um desses pilares oferece um caminho distinto para a geração de valor, e a escolha de onde inovar deve estar alinhada com a estratégia geral do seu empreendimento e com as reais dores do seu público-alvo.
 
