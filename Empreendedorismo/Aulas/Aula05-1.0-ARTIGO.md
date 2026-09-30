@@ -1,4 +1,4 @@
-# 1. INTRODUÇÃO  
+# 1. TIPOS DE INOVAÇÃO
   
 
 A inovação, em sua essência, é a espinha dorsal de qualquer empreendimento de sucesso. Mas o que é, de fato, inovar?
