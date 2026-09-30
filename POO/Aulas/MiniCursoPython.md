@@ -124,13 +124,13 @@ Uma visão geral das principais estruturas para agrupar dados:
   
   - **11.1 [str (String)](https://docs.python.org/pt-br/3/builtins/stdtypes.html#str)**: Sequência imutável de caracteres (textos).
   
-  - **11.2 lst (List / Lista)**: Sequência ordenada e mutável (permite alterar, adicionar e remover itens).
+  - **11.2 [lst (List / Lista)](https://docs.python.org/pt-br/3/builtins/stdtypes.html#lists)**: Sequência ordenada e mutável (permite alterar, adicionar e remover itens).
   
-  - **11.3 tuple (Tupla)**: Semelhante à lista, mas é **imutável** (não pode ser alterada após a criação). Usa parênteses `()`. Ótima para dados que não devem mudar.
+  - **11.3 [tuple (Tupla)](https://docs.python.org/pt-br/3/builtins/stdtypes.html#tuples)**: Semelhante à lista, mas é **imutável** (não pode ser alterada após a criação). Usa parênteses `()`. Ótima para dados que não devem mudar.
   
-  - **11.4 dict (Dicionário)**: Coleção de pares **Chave-Valor** (ex: `{"nome": "Ana", "idade": 20}`). A busca é feita pela chave, não por índice. É a base para entender Objetos no futuro.
+  - **11.4 [dict (Dicionário)](https://docs.python.org/pt-br/3/tutorial/datastructures.html#dictionaries)**: Coleção de pares **Chave-Valor** (ex: `{"nome": "Ana", "idade": 20}`). A busca é feita pela chave, não por índice. É a base para entender Objetos no futuro.
   
-  - **11.5 set (Conjunto)**: Coleção **não ordenada** e que **não permite elementos duplicados**. Excelente para remover duplicatas de uma lista ou fazer operações matemáticas de conjuntos (união, interseção).
+  - **11.5 [set (Conjunto)](https://docs.python.org/pt-br/3/tutorial/datastructures.html#sets)**: Coleção **não ordenada** e que **não permite elementos duplicados**. Excelente para remover duplicatas de uma lista ou fazer operações matemáticas de conjuntos (união, interseção).
 
 ---
 
