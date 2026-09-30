@@ -7,7 +7,7 @@ Lembre-se: programação se aprende lendo a teoria, mas se consolida digitando, 
 
 ---
 
-### 1. ENTRADA/SAÍDA
+### 1. [ENTRADA/SAÍDA](https://docs.python.org/pt-br/3/tutorial/inputoutput.html#)
 É a forma como o programa "conversa" com o mundo exterior. Os tópicos centrais desta seção são:
 
 1.1 **Função [input()](https://docs.python.org/pt-br/3/builtins/functions.html#input)**: Recebe dados digitados pelo usuário. *Atenção: no Python, o `input` sempre retorna um texto (`str`), mesmo que o usuário digite um número.*
