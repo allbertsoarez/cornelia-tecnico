@@ -7,11 +7,28 @@ Lembre-se: programação se aprende lendo a teoria, mas se consolida digitando, 
 
 ---
 
-### - Entrada/Saída
-É a forma como o programa "conversa" com o mundo exterior. Usamos `input()` para receber dados do usuário (que sempre chegam como texto) e `print()` para exibir informações na tela. Aprenderemos a usar **f-strings** (`f"texto {variavel}"`) para formatar essa saída de maneira limpa e profissional.
+### Entrada/Saída
+É a forma como o programa "conversa" com o mundo exterior. Os tópicos centrais desta seção são:
 
-### - Variáveis
-São como "caixas com rótulos" na memória do computador onde guardamos informações. No Python, não precisamos declarar o tipo da variável antes; ele é inferido automaticamente. A boa prática é usar **nomes semânticos** (ex: `nota_do_aluno` em vez de `x`) para que o código seja legível como um texto em português.
+1. **Função `input()`**: Recebe dados digitados pelo usuário. *Atenção: no Python, o `input` sempre retorna um texto (`str`), mesmo que o usuário digite um número.*
+
+2. **Função `print()`**: Exibe informações, variáveis e resultados na tela do console.
+
+3. **f-strings**: A forma moderna e recomendada de formatar a saída, permitindo inserir variáveis e expressões diretamente dentro do texto de forma limpa (ex: `f"Olá, {nome}"`).
+
+---
+
+### Variáveis
+São como "caixas com rótulos" na memória do computador onde guardamos informações para usar depois. Os tópicos centrais desta seção são:
+
+1. **Atribuição**: O uso do sinal de igual (`=`) para guardar um valor dentro da variável (ex: `idade = 20`).
+
+2. **Tipagem Dinâmica**: O Python descobre automaticamente o tipo de dado da variável, não sendo necessário declará-lo explicitamente antes de usá-la.
+
+3. **Nomes Semânticos**: A boa prática de usar nomes que expliquem o conteúdo da variável (ex: `nota_do_aluno` em vez de apenas `x` ou `n`), tornando o código legível.
+4. **Regras de Nomeação**: Nomes de variáveis devem começar com letra ou underline (`_`), não podem conter espaços, e não podem ser palavras reservadas da linguagem (como `if`, `for`, `class`).
+
+---
 
 ### - Tipos de dados primitivos
 São os blocos de construção mais básicos da linguagem:
@@ -39,7 +56,7 @@ Usados para combinar múltiplas condições booleanas:
 Usados para comparar dois valores. O resultado de qualquer comparação é sempre um booleano (`True` ou `False`):
   - `<` (Menor que), `<=` (Menor ou igual a)
   - `>` (Maior que), `>=` (Maior ou igual a)
-  - `==` (Igual a) → *Cuidado: não confundir com `=`, que é atribuição!*
+  - `==` (Igual a) → *Cuidado: não confundir com `=`, que é usado para atribuição!*
   - `!=` (Diferente de)
 
 ### - Funções integradas (built-in)
@@ -52,7 +69,7 @@ Ferramentas que o Python já traz prontas para uso, sem precisar importar nada:
 ### - Fluxo de controle (if, elif, else, while)
 Permite que o programa tome decisões e repita ações.
   - **if / elif / else**: Estruturas condicionais. O código executa blocos diferentes dependendo se uma condição é verdadeira ou falsa.
-  - **while**: Repete um bloco de código **enquanto** uma condição for verdadeira. Essencial saber definir uma "condição de parada" para evitar loops infinitos.
+  - **while**: Repete um bloco de código **enquanto** uma condição for verdadeira. É essencial saber definir uma "condição de parada" para evitar loops infinitos.
   - *Nota*: O Python usa **indentação** (espaços no início da linha) para definir o que está dentro desses blocos. A indentação é obrigatória e faz parte da sintaxe!
 
 ### - Laços For
