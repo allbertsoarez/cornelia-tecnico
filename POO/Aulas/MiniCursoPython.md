@@ -98,10 +98,10 @@ Ferramentas que o Python já traz prontas para uso, sem precisar importar nada:
 
 ---
 
-### 8. FLUXO DE CONTROLE (if, elif, else, while)
+### 8. [FLUXO DE CONTROLE (if, elif, else, while)](https://docs.python.org/pt-br/3/tutorial/controlflow.html)
 Permite que o programa tome decisões e repita ações.
   
-  - **8.1 if / elif / else**: Estruturas condicionais. O código executa blocos diferentes dependendo se uma condição é verdadeira ou falsa.
+  - **8.1 [if](https://docs.python.org/pt-br/3/tutorial/controlflow.html#if-statements) / elif / else**: Estruturas condicionais. O código executa blocos diferentes dependendo se uma condição é verdadeira ou falsa.
   
   - **8.2 while**: Repete um bloco de código **enquanto** uma condição for verdadeira. É essencial saber definir uma "condição de parada" para evitar loops infinitos.
   
