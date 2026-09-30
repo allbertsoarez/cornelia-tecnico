@@ -103,7 +103,7 @@ Permite que o programa tome decisões e repita ações.
   
   - **8.1 [if](https://docs.python.org/pt-br/3/tutorial/controlflow.html#if-statements) / elif / else**: Estruturas condicionais. O código executa blocos diferentes dependendo se uma condição é verdadeira ou falsa.
   
-  - **8.2 while**: Repete um bloco de código **enquanto** uma condição for verdadeira. É essencial saber definir uma "condição de parada" para evitar loops infinitos.
+  - **8.2 [while](https://docs.python.org/pt-br/3/reference/compound_stmts.html#the-while-statement)**: Repete um bloco de código **enquanto** uma condição for verdadeira. É essencial saber definir uma "condição de parada" para evitar loops infinitos.
   
   - *Nota*: O Python usa **indentação** (espaços no início da linha) para definir o que está dentro desses blocos. A indentação é obrigatória e faz parte da sintaxe!
 
