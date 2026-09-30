@@ -109,7 +109,7 @@ Permite que o programa tome decisões e repita ações.
 
 ---
 
-### 9. LAÇO For
+### 9. LAÇO [For](https://docs.python.org/pt-br/3/reference/compound_stmts.html#the-for-statement)
 Diferente do `while`, o `for` é usado para iterar (percorrer) sequências de forma definitiva. É ideal quando sabemos quantas vezes queremos repetir algo ou quando queremos passar por cada item de uma coleção. Frequentemente usamos a função `range(inicio, fim, passo)` para gerar sequências numéricas para o `for` percorrer.
 
 ---
