@@ -131,8 +131,3 @@ Uma visão geral das principais estruturas para agrupar dados:
   - **11.4 [dict (Dicionário)](https://docs.python.org/pt-br/3/tutorial/datastructures.html#dictionaries)**: Coleção de pares **Chave-Valor** (ex: `{"nome": "Ana", "idade": 20}`). A busca é feita pela chave, não por índice. É a base para entender Objetos no futuro.
   
   - **11.5 [set (Conjunto)](https://docs.python.org/pt-br/3/tutorial/datastructures.html#sets)**: Coleção **não ordenada** e que **não permite elementos duplicados**. Excelente para remover duplicatas de uma lista ou fazer operações matemáticas de conjuntos (união, interseção).
-
----
-
-### 🚀 PRÓXIMOS PASSOS
-Agora que você revisou os conceitos teóricos, é hora de praticar! Acesse a pasta de Notebooks do Google Colab neste repositório e comece pelo **Módulo 0**. Boa jornada!
