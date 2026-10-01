@@ -1,4 +1,4 @@
-## 🟢 A FUNDAÇÃO (Lógica, História e Sintaxe Básica)
+## 🟢 A FUNDAÇÃO
 
 ### 1. O Universo Python (História, Filosofia e Cultura)
 Antes de escrevermos a primeira linha de código, precisamos entender de onde veio essa linguagem, por que ela domina o mundo hoje e qual é a "alma" (a filosofia) que dita como os programadores Python pensam e escrevem software.
