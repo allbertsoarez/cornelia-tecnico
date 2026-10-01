@@ -7,12 +7,12 @@ Lembre-se: programação se aprende lendo a teoria, mas se consolida digitando, 
 
 ---
 
-### 1. [ENTRADA/SAÍDA](https://docs.python.org/pt-br/3/tutorial/inputoutput.html#)
+### 1. [ENTRADA/SAÍDA](https://docs.python.org/pt-br/3/tutorial/inputoutput.html)
 É a forma como o programa "conversa" com o mundo exterior. Os tópicos centrais desta seção são:
 
-1.1 **Função [input()](https://docs.python.org/pt-br/3/builtins/functions.html#input)**: Recebe dados digitados pelo usuário. *Atenção: no Python, o `input` sempre retorna um texto (`str`), mesmo que o usuário digite um número.*
+1.1 **Função [input()](https://docs.python.org/pt-br/3/library/functions.html#input)**: Recebe dados digitados pelo usuário. *Atenção: no Python, o `input` sempre retorna um texto (`str`), mesmo que o usuário digite um número.*
 
-1.2 **Função [print()](https://docs.python.org/pt-br/3/builtins/functions.html#print)**: Exibe informações, variáveis e resultados na tela do console.
+1.2 **Função [print()](https://docs.python.org/pt-br/3/library/functions.html#print)**: Exibe informações, variáveis e resultados na tela do console.
 
 1.3 **[f-strings](https://docs.python.org/pt-br/3/tutorial/inputoutput.html#tut-f-strings)**: A forma moderna e recomendada de formatar a saída, permitindo inserir variáveis e expressões diretamente dentro do texto de forma limpa (ex: `f"Olá, {nome}"`).
 
@@ -34,11 +34,11 @@ São como "caixas com rótulos" na memória do computador onde guardamos informa
 ### 3. TIPOS DE DADOS PRIMITIVOS
 São os blocos de construção mais básicos da linguagem:
   
-  - **3.1 [int](https://docs.python.org/pt-br/3/builtins/functions.html#int)**: Números inteiros, positivos ou negativos, sem casas decimais (ex: `10`, `-5`).
+  - **3.1 [int](https://docs.python.org/pt-br/3/library/functions.html#int)**: Números inteiros, positivos ou negativos, sem casas decimais (ex: `10`, `-5`).
   
-  - **3.2 [float](https://docs.python.org/pt-br/3/builtins/functions.html#float)**: Números de ponto flutuante (decimais). *Atenção: em Python, usa-se ponto (`.`) e não vírgula (`,`) para separar as casas decimais* (ex: `3.14`, `9.5`).
+  - **3.2 [float](https://docs.python.org/pt-br/3/library/functions.html#float)**: Números de ponto flutuante (decimais). *Atenção: em Python, usa-se ponto (`.`) e não vírgula (`,`) para separar as casas decimais* (ex: `3.14`, `9.5`).
   
-  - **3.3 [bool](https://docs.python.org/pt-br/3/builtins/functions.html#bool)**: Tipo lógico que representa apenas dois estados: `True` (Verdadeiro) ou `False` (Falso). Fundamental para tomadas de decisão.
+  - **3.3 [bool](https://docs.python.org/pt-br/3/library/stdtypes.html#boolean-values)**: Tipo lógico que representa apenas dois estados: `True` (Verdadeiro) ou `False` (Falso). Fundamental para tomadas de decisão.
 
 ---
 
@@ -51,7 +51,7 @@ Utilizados para realizar operações matemáticas:
   
   - **4.3 MULTIPLICAÇÃO (*)**: Multiplica dois valores. Também repete textos (ex: `"A" * 3` vira `"AAA"`).
   
-  - **4. DIVISÃO (/)**: Divide dois valores e sempre retorna um `float` (ex: `4 / 2` resulta em `2.0`).
+  - **4.4 DIVISÃO (/)**: Divide dois valores e sempre retorna um `float` (ex: `4 / 2` resulta em `2.0`).
   
   - **4.5 RESTO DA DIVISÃO / MÓDULO (%)**: Retorna o resto da divisão inteira (ex: `5 % 2` resulta em `1`). Muito útil para saber se um número é par ou ímpar.
   
@@ -61,7 +61,7 @@ Utilizados para realizar operações matemáticas:
 
 ---
 
-### 5. [OPERADORES LÓGICOS (and, or, not)](https://docs.python.org/pt-br/3/builtins/stdtypes.html#boolean-operations-and-or-not)
+### 5. [OPERADORES LÓGICOS (and, or, not)](https://docs.python.org/pt-br/3/library/stdtypes.html#boolean-operations-and-or-not)
 Usados para combinar múltiplas condições booleanas:
   
   - **5.1 and**: Retorna `True` apenas se **todas** as condições forem verdadeiras.
@@ -72,7 +72,7 @@ Usados para combinar múltiplas condições booleanas:
 
 ---
 
-### 6. [OPERADORES COMPARATIVOS (<, <=, >, >=, ==, !=)](https://docs.python.org/pt-br/3/builtins/stdtypes.html#comparisons)
+### 6. [OPERADORES COMPARATIVOS (<, <=, >, >=, ==, !=)](https://docs.python.org/pt-br/3/library/stdtypes.html#comparisons)
 Usados para comparar dois valores. O resultado de qualquer comparação é sempre um booleano (`True` ou `False`):
   
   - 6.1 `<` (Menor que), `<=` (Menor ou igual a)
@@ -85,16 +85,16 @@ Usados para comparar dois valores. O resultado de qualquer comparação é sempr
 
 ---
 
-### 7. [FUNÇÕES INTEGRADAS (built-in)](https://docs.python.org/pt-br/3.14/builtins/functions.html)
+### 7. [FUNÇÕES INTEGRADAS (built-in)](https://docs.python.org/pt-br/3/library/functions.html)
 Ferramentas que o Python já traz prontas para uso, sem precisar importar nada:
   
-  - 7.1 [`abs()`](https://docs.python.org/pt-br/3.14/builtins/functions.html#abs): Retorna o valor absoluto (módulo) de um número.
+  - 7.1 [`abs()`](https://docs.python.org/pt-br/3/library/functions.html#abs): Retorna o valor absoluto (módulo) de um número.
   
-  - 7.2 [`max()`](https://docs.python.org/pt-br/3.14/builtins/functions.html#max) e [`min()`](https://docs.python.org/pt-br/3.14/builtins/functions.html#min): Retornam o maior e o menor valor de uma sequência, respectivamente.
+  - 7.2 [`max()`](https://docs.python.org/pt-br/3/library/functions.html#max) e [`min()`](https://docs.python.org/pt-br/3/library/functions.html#min): Retornam o maior e o menor valor de uma sequência, respectivamente.
   
-  - 7.3 [`sum()`](https://docs.python.org/pt-br/3.14/builtins/functions.html#sum): Retorna a soma de todos os itens de uma sequência numérica.
+  - 7.3 [`sum()`](https://docs.python.org/pt-br/3/library/functions.html#sum): Retorna a soma de todos os itens de uma sequência numérica.
   
-  - 7.4 [`type()`](https://docs.python.org/pt-br/3.14/builtins/functions.html#type)(: Revela qual é o tipo de dado de uma variável (ex: `<class 'int'>`).
+  - 7.4 [`type()`](https://docs.python.org/pt-br/3/library/functions.html#type): Revela qual é o tipo de dado de uma variável (ex: `<class 'int'>`).
 
 ---
 
@@ -122,12 +122,17 @@ Uma coleção ordenada e mutável de itens. Permitem guardar múltiplos valores 
 ### 11. COLEÇÕES (str, lst, tuple, dict, set)
 Uma visão geral das principais estruturas para agrupar dados:
   
-  - **11.1 [str (String)](https://docs.python.org/pt-br/3/builtins/stdtypes.html#str)**: Sequência imutável de caracteres (textos).
+  - **11.1 [str (String)](https://docs.python.org/pt-br/3/library/stdtypes.html#str)**: Sequência imutável de caracteres (textos).
   
-  - **11.2 [lst (List / Lista)](https://docs.python.org/pt-br/3/builtins/stdtypes.html#lists)**: Sequência ordenada e mutável (permite alterar, adicionar e remover itens).
+  - **11.2 [lst (List / Lista)](https://docs.python.org/pt-br/3/library/stdtypes.html#lists)**: Sequência ordenada e mutável (permite alterar, adicionar e remover itens).
   
-  - **11.3 [tuple (Tupla)](https://docs.python.org/pt-br/3/builtins/stdtypes.html#tuples)**: Semelhante à lista, mas é **imutável** (não pode ser alterada após a criação). Usa parênteses `()`. Ótima para dados que não devem mudar.
+  - **11.3 [tuple (Tupla)](https://docs.python.org/pt-br/3/library/stdtypes.html#tuples)**: Semelhante à lista, mas é **imutável** (não pode ser alterada após a criação). Usa parênteses `()`. Ótima para dados que não devem mudar.
   
   - **11.4 [dict (Dicionário)](https://docs.python.org/pt-br/3/tutorial/datastructures.html#dictionaries)**: Coleção de pares **Chave-Valor** (ex: `{"nome": "Ana", "idade": 20}`). A busca é feita pela chave, não por índice. É a base para entender Objetos no futuro.
   
   - **11.5 [set (Conjunto)](https://docs.python.org/pt-br/3/tutorial/datastructures.html#sets)**: Coleção **não ordenada** e que **não permite elementos duplicados**. Excelente para remover duplicatas de uma lista ou fazer operações matemáticas de conjuntos (união, interseção).
+
+---
+
+### 🚀 Próximos Passos
+Agora que você revisou os conceitos teóricos, é hora de praticar! Acesse a pasta de Notebooks do Google Colab neste repositório e comece pelo **Módulo 0**. Boa jornada!
