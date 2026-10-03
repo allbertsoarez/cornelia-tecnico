@@ -26,29 +26,4 @@ Neste módulo, aprendemos a "limpar" e transformar textos, e a dominar as opera�
   - **Lógica**: `and` (ambos verdadeiros), `or` (pelo menos um verdadeiro), `not` (inverte o valor).
 
 ---
-´´´´
-flowchart TD
-    subgraph Entrada [Entrada]
-        A["Texto Bruto (ex: input)"]
-    end
 
-    subgraph Tratamento [Tratamento de Strings]
-        A --> B["Limpeza: strip()"]
-        B --> C["Padronizacao: lower() ou upper()"]
-        C --> D["Texto Formatado e Seguro"]
-    end
-
-    subgraph Logica [Logica e Comparacao]
-        D --> E{"Condicao Verdadeira?"}
-        E -->|Sim (True)| F["Executa Acao"]
-        E -->|Nao (False)| G["Ignora ou Trata Erro"]
-    end
-
-    subgraph Matematica [Operacoes Matematicas]
-        H["Valores Numericos"] --> I["Basico: +, -, *, /"]
-        I --> J["Avancado: ** (potencia), // (inteira), % (resto)"]
-        J --> K["Resultado Numerico"]
-    end
-    
-    F -.-> K
-    ´´´
