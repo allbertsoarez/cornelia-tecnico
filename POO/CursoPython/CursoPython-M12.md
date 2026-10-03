@@ -12,3 +12,25 @@ Neste módulo, saímos da memória volátil e aprendemos a interagir com o siste
   - **Os blocos auxiliares**: 
     - [`else`](https://docs.python.org/pt-br/3/tutorial/errors.html#handling-exceptions): Executado apenas se **nenhum** erro ocorrer no `try`.
     - [`finally`](https://docs.python.org/pt-br/3/tutorial/errors.html#defining-clean-up-actions): Executado **sempre**, independentemente de sucesso ou falha (ideal para limpezas de memória, fechar arquivos e encerramentos).
+
+---
+
+````mermaid
+flowchart TD
+    subgraph Arquivos ["Manipulação de Arquivos"]
+        A["Bloco with open\nModos: r, w, a\nCodificação: utf-8"] --> B["Gerenciador de Contexto\nGarante fechamento automatico"]
+    end
+
+    subgraph Tratamento ["Tratamento de Exceções"]
+        C["Bloco try\nTenta executar o codigo"] --> D{"Ocorreu algum erro?"}
+        
+        D -->|Sim, erro especifico| E["except ValueError ou FileNotFoundError\nTratamento direcionado e seguro"]
+        D -->|Sim, erro inesperado| F["except Exception\nRede de seguranca final"]
+        D -->|Nao, tudo certo| G["Bloco else\nExecuta apenas sem erros"]
+        
+        E --> H["Bloco finally\nExecuta SEMPRE\nIdeal para limpeza e fechamento"]
+        F --> H
+        G --> H
+    end
+
+    B -.-> C
