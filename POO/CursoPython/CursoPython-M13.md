@@ -16,5 +16,3 @@ Neste módulo, aprendemos a trabalhar com o formato de dados mais popular da int
   - Como salvar listas de dicionários (a estrutura básica de bancos de dados NoSQL e APIs modernas).
   - Como carregar dados ao iniciar um programa para restaurar o estado anterior (ex: configurações do usuário, histórico, etc).
   - O padrão "carregar-modificar-salvar" para sistemas com estado persistente, unindo tudo o que aprendemos sobre arquivos e dicionários.
-
-cisar de ajuda para criar exercícios práticos, projetos finais para amarrar os conceitos, ou revisar qualquer outro material, é só chamar. Muito sucesso com as suas aulas, professor! 🚀🐍📚
