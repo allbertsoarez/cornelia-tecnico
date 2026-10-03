@@ -26,27 +26,27 @@ Neste módulo, aprendemos como o computador armazena, classifica e recebe dados.
 
 ```mermaid
 flowchart TD
-    subgraph Entrada [Entrada]
+    subgraph Entrada ["Entrada"]
         A["input()"] -->|Retorna sempre| B["Texto (str)"]
     end
 
-    subgraph Processamento [Processamento]
+    subgraph Processamento ["Processamento"]
         B --> C{"Precisa fazer contas?"}
         C -->|Sim| D["Casting: int() ou float()"]
-        C -->|Nao| E["Manipulacao de texto"]
+        C -->|Não| E["Manipulação de texto"]
         
-        D --> F["Dado Numerico"]
+        D --> F["Dado Numérico"]
         E --> G["Dado Textual"]
         
-        H["Atribuicao (=)"] -.-> F
+        H["Atribuição (=)"] -.-> F
         H -.-> G
         
         I["type()"] -.-> F
         I -.-> G
     end
 
-    subgraph Saida [Saida]
+    subgraph Saida ["Saída"]
         F --> J["print() / f-strings"]
         G --> J
-        J --> K["Exibicao na tela"]
+        J --> K["Exibição na tela"]
     end
