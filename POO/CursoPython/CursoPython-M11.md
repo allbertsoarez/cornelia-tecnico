@@ -18,3 +18,32 @@ Neste módulo, elevamos a Programação Orientada a Objetos a um nível profissi
 - **[11.4 MÉTODOS MÁGICOS (DUNDER METHODS)](https://docs.python.org/pt-br/3/reference/datamodel.html#special-method-names)**: 
   - Métodos especiais delimitados por duplo underline (ex: [`__str__`](https://docs.python.org/pt-br/3/reference/datamodel.html#object.__str__), [`__repr__`](https://docs.python.org/pt-br/3/reference/datamodel.html#object.__repr__)).
   - O método `__str__(self)`: Define como o objeto será representado em texto quando usamos a função `print()` nele, substituindo aquela mensagem genérica de "endereço de memória do objeto" (ex: `<__main__.Objeto object at 0x...>`) por algo legível e útil.
+
+---
+
+````mermaid
+flowchart TD
+    subgraph Heranca ["Herança e Reutilização"]
+        A["Classe Pai (Base)"] -->|Herda tudo| B["Classe Filha (Derivada)"]
+        B --> C["Uso de super()\nInicializa a parte da Classe Pai"]
+    end
+
+    subgraph Polimorfismo ["Polimorfismo e Sobrescrita"]
+        D["Mesmo Nome de Método"] --> E["Comportamento Padrão na Classe Pai"]
+        D --> F["Comportamento Especializado na Classe Filha"]
+    end
+
+    subgraph Encapsulamento ["Encapsulamento e Proteção"]
+        G["Atributo Público"] --> H["Acesso livre por qualquer código"]
+        I["Atributo Protegido _nome"] --> J["Convenção de uso interno"]
+        K["Atributo Privado __nome"] --> L["Name Mangling com proteção forte"]
+        M["Decorador @property"] --> N["Getters e Setters elegantes\ncom validação de dados"]
+    end
+
+    subgraph Representacao ["Métodos Mágicos ou Dunder"]
+        O["Objeto na Memória"] -->|Chamada por print| P["Método __str__"]
+        P --> Q["Texto legível e amigável\nao invés de endereço de memória"]
+    end
+
+
+
