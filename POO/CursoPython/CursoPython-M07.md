@@ -17,3 +17,33 @@ Neste módulo, saímos das sequências ordenadas (listas) e entramos no mundo do
   - Coleções **não ordenadas** que **não permitem elementos duplicados**.
   - **A "Mágica" dos Sets**: A forma mais rápida e elegante de remover duplicatas de uma lista (`lista_sem_duplicatas = list(set(lista))`).
   - **Operações Matemáticas**: [União (`|`)](https://docs.python.org/pt-br/3/library/stdtypes.html#set-types-set-frozenset), [Interseção (`&`)](https://docs.python.org/pt-br/3/library/stdtypes.html#set-types-set-frozenset) e [Diferença (`-`)](https://docs.python.org/pt-br/3/library/stdtypes.html#set-types-set-frozenset), aplicando a Teoria dos Conjuntos diretamente no código.
+
+---
+
+````mermaid
+flowchart TD
+    subgraph Dicionarios ["Dicionários: Mapeamento"]
+        A["Chave (Domínio)"] -->|Mapeia para| B["Valor (Imagem)"]
+        C["Métodos de Acesso"] -.-> D["keys()"]
+        C -.-> E["values()"]
+        C -.-> F["items() para loops"]
+    end
+
+    subgraph Sets ["Sets: Teoria dos Conjuntos"]
+        G["Coleção não ordenada\nSem itens duplicados"] --> H["Elimina duplicatas de listas"]
+        
+        I["Conjunto A"] -->|União| J["A | B (Todos os elementos)"]
+        I -->|Interseção| K["A & B (Elementos comuns)"]
+        I -->|Diferença| L["A - B (Apenas em A)"]
+        
+        M["Conjunto B"] -.-> J
+        M -.-> K
+        M -.-> L
+    end
+
+    subgraph Estruturas ["Aninhamento de Dados"]
+        N["Dicionários dentro de Listas"]
+        O["Listas dentro de Dicionários"]
+        N -.-> P["Estrutura base de APIs e JSON"]
+        O -.-> P
+    end
