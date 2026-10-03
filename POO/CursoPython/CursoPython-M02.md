@@ -1,4 +1,4 @@
-## [A FUNDAÇÃO (LÓGICA E SINTAXE BÁSICA)](https://docs.python.org/pt-br/3/tutorial/index.html)
+## [LÓGICA E SINTAXE BÁSICA](https://docs.python.org/pt-br/3/tutorial/index.html)
 
 ### 2. [VARIÁVEIS, TIPOS E O "INPUT/OUTPUT"](https://docs.python.org/pt-br/3/tutorial/introduction.html)
 Neste módulo, aprendemos como o computador armazena, classifica e recebe dados. É a base de qualquer interação entre o humano e a máquina.
