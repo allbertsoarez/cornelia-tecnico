@@ -18,3 +18,29 @@ Neste módulo, damos o salto quântico da programação procedural para a Progra
   - Funções que pertencem à classe e podem acessar/modificar os atributos do objeto.
   - O primeiro parâmetro de qualquer método de instância é sempre `self`.
   - Permitem que o objeto "faça coisas" com seus próprios dados, encapsulando a lógica interna.
+ 
+---
+
+````mermaid
+flowchart TD
+    subgraph Molde ["A Classe (O Molde)"]
+        A["Estrutura e Comportamentos\nDefinidos com def"]
+        B["Método Construtor __init__\nOnde os atributos nascem"]
+    end
+
+    subgraph Criacao ["A Instanciação (A Fábrica)"]
+        C["Chamada: objeto = Classe()"]
+        C --> D["Executa __init__ automaticamente"]
+    end
+
+    subgraph Objeto ["O Objeto (A Entidade Concreta)"]
+        E["A referência SELF\naponta para este objeto específico"]
+        F["Atributos de Instância\nself.atributo = valor"]
+        G["Métodos de Instância\nAcessam e modificam SELF"]
+    end
+
+    A --> C
+    B --> D
+    D --> E
+    E --> F
+    E --> G
