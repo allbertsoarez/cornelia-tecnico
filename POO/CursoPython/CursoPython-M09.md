@@ -20,3 +20,31 @@ Neste módulo, elevamos o nível das nossas funções, tornando-as extremamente 
 - **[9.4 DOCSTRINGS PROFISSIONAIS](https://docs.python.org/pt-br/3/tutorial/controlflow.html#tut-docstrings)**: 
   - A prática de documentar funções usando strings triple-quoted (`""" ... """`) logo após o `def`.
   - O que incluir: descrição, parâmetros (Args), retorno (Returns) e exemplos (ótimo gancho para introduzir as boas práticas da [PEP 257](https://peps.python.org/pep-0257/)!).
+
+---
+
+````mermaid
+flowchart TD
+    subgraph Args ["Argumentos Arbitrários"]
+        A["Múltiplos Argumentos na Chamada"] --> B{"Tipo do Argumento?"}
+        B -->|Posicional| C["*args"]
+        C --> D["Empacotado em Tupla"]
+        B -->|Nomeado| E["**kwargs"]
+        E --> F["Empacotado em Dicionário"]
+    end
+
+    subgraph Lambda ["Funções Anônimas"]
+        G["Operação Rápida e Descartável"] --> H["Sintaxe: lambda arg: expressao"]
+        H --> I["Aplicada em map, filter ou sorted"]
+    end
+
+    subgraph Modulos ["Estratégias de Importação"]
+        J["Arquivo Python .py"] --> K["import modulo\nAcesso: modulo.funcao"]
+        J --> L["from modulo import funcao\nAcesso direto: funcao"]
+        J --> M["import modulo as apelido\nAcesso: apelido.funcao"]
+    end
+
+    subgraph Documentacao ["Boas Práticas"]
+        N["Docstrings"] --> O["Triple aspas logo apos o def"]
+        O --> P["Descreve Args, Returns e Exemplos\nPadrao PEP 257"]
+    end
