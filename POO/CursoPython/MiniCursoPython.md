@@ -48,7 +48,7 @@ Utilizados para realizar operações matemáticas:
 
 ---
 
-### 5. [OPERADORES LÓGICOS (AND, OR, NOT)](https://docs.python.org/pt-br/3/library/stdtypes.html#boolean-operations-and-or-not)
+### 5. [OPERADORES LÓGICOS](https://docs.python.org/pt-br/3/library/stdtypes.html#boolean-operations-and-or-not)
 Usados para combinar múltiplas condições booleanas:
   
 - **5.1 `and`**: Retorna `True` apenas se **todas** as condições forem verdadeiras.
