@@ -23,3 +23,29 @@ Neste módulo, o programa ganha "inteligência". Aprendemos a fazer o código ex
 - **[5.4 O OPERADOR `IN` (TESTES DE PERTINÊNCIA)](https://docs.python.org/pt-br/3/reference/expressions.html#membership-test-operations)**: 
   Verifica se um valor existe dentro de uma sequência (lista, string, tupla). Ex: `"a" in "banana"` retorna `True`.
   - **Listas vazias**: Uma lista vazia `[]` é avaliada como `False` em contextos booleanos (é considerada "falsy"). Isso permite verificar se uma lista tem itens de forma pythonica, com um simples `if minha_lista:`.
+
+---
+
+````mermaid
+flowchart TD
+    subgraph Entrada ["Avaliação Inicial"]
+        A["Variável ou Expressão\n(ex: nota, 'a' in texto, minha_lista)"]
+    end
+
+    subgraph Condicional ["Estrutura de Decisão"]
+        A --> B{"Condição 1 é verdadeira?\n(ex: nota >= 7)"}
+        
+        B -->|Sim| C["Executa Bloco IF\n(Indentação de 4 espaços obrigatória)"]
+        B -->|Não| D{"Condição 2 é verdadeira?\n(ex: elif nota >= 5)"}
+        
+        D -->|Sim| E["Executa Bloco ELIF\n(Pode haver vários blocos elif)"]
+        D -->|Não| F["Executa Bloco ELSE\n(Caminho padrão, opcional)"]
+    end
+
+    subgraph Conclusao ["Continuação do Programa"]
+        C --> G["Fim da Estrutura Condicional"]
+        E --> G
+        F --> G
+        G --> H["Próximas linhas de código executadas"]
+    end
+
