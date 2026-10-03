@@ -27,3 +27,28 @@ Neste mÃ³dulo, aprendemos a "limpar" e transformar textos, e a dominar as operaÃ
 
 ---
 
+````mermaid
+flowchart TD
+    subgraph Entrada ["Entrada"]
+        A["Texto Bruto"]
+    end
+
+    subgraph Tratamento ["Tratamento de Strings"]
+        A --> B["Limpeza: strip()"]
+        B --> C["Padronizacao: lower() ou upper()"]
+        C --> D["Texto Formatado e Seguro"]
+    end
+
+    subgraph Logica ["Logica e Comparacao"]
+        D --> E{"Condicao Verdadeira?"}
+        E -->|Sim| F["Executa Acao"]
+        E -->|Nao| G["Ignora ou Trata Erro"]
+    end
+
+    subgraph Matematica ["Operacoes Matematicas"]
+        H["Valores Numericos"] --> I["Basico: soma, subtracao, etc"]
+        I --> J["Avancado: potencia, divisao inteira, resto"]
+        J --> K["Resultado Numerico"]
+    end
+    
+    F -.-> K
