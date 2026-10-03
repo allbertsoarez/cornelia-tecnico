@@ -35,21 +35,20 @@ flowchart TD
 
     subgraph Tratamento ["Tratamento de Strings"]
         A --> B["Limpeza: strip()"]
-        B --> C["Padronizacao: lower() ou upper()"]
+        B --> C["Padronização: lower() ou upper()"]
         C --> D["Texto Formatado e Seguro"]
     end
 
-    subgraph Logica ["Logica e Comparacao"]
-        D --> E{"Condicao Verdadeira?"}
-        E -->|Sim| F["Executa Acao"]
-        E -->|Nao| G["Ignora ou Trata Erro"]
+    subgraph Logica ["Lógica e Comparação"]
+        D --> E{"Condição Verdadeira?"}
+        E -->|Sim| F["Executa Ação"]
+        E -->|Não| G["Ignora ou Trata Erro"]
     end
 
-    subgraph Matematica ["Operacoes Matematicas"]
-        H["Valores Numericos"] --> I["Basico: soma, subtracao, etc"]
-        I --> J["Avancado: potencia, divisao inteira, resto"]
-        J --> K["Resultado Numerico"]
+    subgraph Matematica ["Operações Matemáticas"]
+        H["Valores Numéricos"] --> I["Básico: soma, subtração, etc"]
+        I --> J["Avançado: potência, divisão inteira, resto"]
+        J --> K["Resultado Numérico"]
     end
     
     F -.-> K
-```
