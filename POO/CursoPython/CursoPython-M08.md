@@ -13,3 +13,28 @@ Neste módulo, damos o salto da programação procedural para a criação de fer
   - **Argumentos**: Os valores reais passados para a função quando a chamamos.
   - **[Parâmetros com Valor Padrão](https://docs.python.org/pt-br/3/tutorial/controlflow.html#default-argument-values)**: Permitem que a função seja chamada sem fornecer todos os argumentos, usando um valor "default" se nenhum for especificado.
   - **[Argumentos Nomeados (Keyword Arguments)](https://docs.python.org/pt-br/3/tutorial/controlflow.html#keyword-arguments)**: Permitem passar os argumentos fora de ordem, especificando o nome do parâmetro (ex: `calcular(preco=100, desconto=0.1)`).
+
+---
+
+````mermaid
+flowchart TD
+    subgraph Definicao ["Definição da Função"]
+        A["def nome(parametro, padrao=valor)"]
+        A --> B["Lógica centralizada\nPrincípio DRY"]
+    end
+
+    subgraph Chamada ["Chamada da Função"]
+        C["nome_da_funcao()"]
+        C -->|Posicionais| D["A ordem dos argumentos importa"]
+        C -->|Nomeados| E["A ordem não importa\nEx: parametro=valor"]
+    end
+
+    subgraph Execucao ["Execução e Resultado"]
+        B -.-> F["Processa os dados de entrada"]
+        D --> F
+        E --> F
+        
+        F --> G{"Como a função termina?"}
+        G -->|print| H["Apenas exibe na tela\nO programa não recebe o valor de volta"]
+        G -->|return| I["Devolve o valor ao programa\nPode ser salvo em uma variável"]
+    end
