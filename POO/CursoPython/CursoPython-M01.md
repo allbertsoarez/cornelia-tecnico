@@ -1,4 +1,4 @@
-## 🟢 [A FUNDAÇÃO](https://docs.python.org/pt-br/3/)
+## [A FUNDAÇÃO](https://docs.python.org/pt-br/3/)
 
 ### 1. [O UNIVERSO PYTHON (HISTÓRIA, FILOSOFIA E CULTURA)](https://docs.python.org/pt-br/3/faq/general.html)
 Antes de escrevermos a primeira linha de código, precisamos entender de onde veio essa linguagem, por que ela domina o mundo hoje e qual é a "alma" (a filosofia) que dita como os programadores Python pensam e escrevem software.
