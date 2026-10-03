@@ -21,3 +21,29 @@ Neste módulo, aprendemos a agrupar múltiplos valores em uma única variável, 
   - Semelhantes às listas, mas delimitadas por parênteses `()`.
   - **A grande diferença**: São **imutáveis** (não podem ser alteradas após a criação).
   - **Quando usar**: Para dados que representam "registros" fixos, como dias da semana, coordenadas geográficas (ótimo gancho para suas aulas de matemática!) ou configurações que não devem mudar acidentalmente.
+
+ ---
+
+````mermaid
+flowchart TD
+    subgraph Criacao ["Criação de Sequências"]
+        A["Lista: delimitada por colchetes []"]
+        B["Tupla: delimitada por parênteses ()"]
+    end
+
+    subgraph Mutabilidade ["Mutabilidade e Métodos"]
+        A -->|É mutável| C["Permite: append, remove, sort, pop"]
+        B -->|É imutável| D["Dados fixos, apenas leitura"]
+    end
+
+    subgraph Acesso ["Acesso e Fatiamento"]
+        C --> E["Índices: começa no zero, menos um é o último"]
+        D --> E
+        E --> F["Fatiamento: extrair sublistas com inicio:fim"]
+    end
+
+    subgraph Copia ["O Perigo da Cópia"]
+        G["Atribuição com igual: lista_b = lista_a"] -->|Gera referência| H["Alterar uma, altera a outra!"]
+        I["Cópia real: lista_a.copy() ou lista_a[:]"] -->|Gera novo objeto| J["Listas independentes na memória"]
+    end
+
