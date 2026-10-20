@@ -10,7 +10,7 @@ Dominar essa estrutura é o divisor de águas entre criar scripts soltos e desen
 
 # ⚙️ Estruturando o Projeto na Prática
 
-## 1. O Ambiente Virtual (venv)
+## 1. [O Ambiente Virtual (venv)](https://docs.python.org/pt-br/3/library/venv.html)
 O primeiro passo é a criação de um ambiente virtual. Imagine-o como uma caixa isolada onde seu projeto vive, garantindo que as bibliotecas instaladas não interfiram em outros projetos.
 
 > ⚠️ **Ponto de atenção:** A pasta do ambiente virtual (`venv/`) **nunca** deve ser enviada para repositórios de código (como o GitHub). Ela deve ser recriada por cada desenvolvedor localmente.
