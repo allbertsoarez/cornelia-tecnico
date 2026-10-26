@@ -47,3 +47,9 @@ flowchart TD
         N -.-> P["Estrutura base de APIs e JSON"]
         O -.-> P
     end
+````
+
+---
+
+## Aula prática no Google Colab
+- [ Dicionários e Sets](https://colab.research.google.com/drive/1UvObAtQAJXQ4gcn2W5srzfrSuWCXOBmB)
