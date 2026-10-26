@@ -46,4 +46,11 @@ flowchart TD
         G["Atribuição com igual: lista_b = lista_a"] -->|Gera referência| H["Alterar uma, altera a outra!"]
         I["Cópia real: lista_a.copy() ou lista_a[:]"] -->|Gera novo objeto| J["Listas independentes na memória"]
     end
+````
+
+---
+
+## Aula prática no Google Colab
+- []()
+
 
