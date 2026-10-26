@@ -42,3 +42,5 @@ flowchart TD
     end
 ````
 
+## Aula prática no Google Colab
+- [Repetição (Loops)](https://colab.research.google.com/drive/1be4P-6L8hokKTHWKVTRgEwUdPQg9CEMC)
