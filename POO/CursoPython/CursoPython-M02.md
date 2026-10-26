@@ -22,7 +22,9 @@ Neste módulo, aprendemos como o computador armazena, classifica e recebe dados.
 - **[2.4 CONVERSÃO DE TIPOS (CASTING)](https://docs.python.org/pt-br/3/library/functions.html)**: 
   A "pegadinha" clássica do Python: a função `input()` **sempre** retorna um texto (`str`), mesmo que você digite um número. Para fazer matemática com esses dados, é obrigatório usar as funções de conversão `int()` (para inteiros) ou `float()` (para decimais), que são funções embutidas (*built-in*) da linguagem.
 
-```mermaid
+---
+
+````mermaid
 flowchart TD
     subgraph Entrada ["Entrada"]
         A["input()"] -->|Retorna sempre| B["Texto (str)"]
@@ -48,6 +50,7 @@ flowchart TD
         G --> J
         J --> K["Exibição na tela"]
     end
+```
 
 ## Aula prática no Google Colab
 - [O Universo Python](https://colab.research.google.com/drive/1NbcVmrJ02KiGtaxlTVUtwfJJ7kOKVdb4?usp=sharing)
