@@ -1,4 +1,4 @@
-### 6. [A ARTE DA REPETIÇÃO (LOOPS)](https://docs.python.org/pt-br/3/tutorial/controlflow.html#more-on-loops)
+### 6. [REPETIÇÃO (LOOPS)](https://docs.python.org/pt-br/3/tutorial/controlflow.html#more-on-loops)
 Neste módulo, automatizamos tarefas repetitivas. Em vez de escrever o mesmo código 100 vezes, ensinamos o computador a repetir um bloco de instruções de forma inteligente e controlada.
 
 - **[6.1 LOOP WHILE](https://docs.python.org/pt-br/3/reference/compound_stmts.html#the-while-statement)**: 
