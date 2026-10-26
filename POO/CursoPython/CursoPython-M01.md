@@ -30,3 +30,7 @@ Antes de escrevermos a primeira linha de código, precisamos entender de onde ve
     - *Futuro (Avançado)*: "Python Fluente" (Luciano Ramalho) - A "bíblia" do programador Python sênior.
   - **Documentários e Vídeos**: A história do Guido van Rossum, palestras clássicas da PyCon.
   - **Comunidade**: Fóruns, StackOverflow e a cultura de "ajudar quem está começando".
+
+## Google Colab
+- [O Universo Python](https://colab.research.google.com/drive/1NbcVmrJ02KiGtaxlTVUtwfJJ7kOKVdb4?usp=sharing)
+- [O Despertar e o Ambiente](https://colab.research.google.com/drive/1BEwuHwI2lspPipQAc7FFcPUOqMEF_K8D)
