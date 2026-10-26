@@ -51,6 +51,4 @@ flowchart TD
 ---
 
 ## Aula prática no Google Colab
-- []()
-
-
+- [Listas e Tuplas](https://colab.research.google.com/drive/1FVgaqDbVY6M_g_tDam1TI7xfozAaDBz8)
