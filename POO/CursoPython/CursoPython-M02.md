@@ -54,5 +54,4 @@ flowchart TD
 ````
 
 ## Aula prática no Google Colab
-- [O Universo Python](https://colab.research.google.com/drive/1NbcVmrJ02KiGtaxlTVUtwfJJ7kOKVdb4?usp=sharing)
-- [O Despertar e o Ambiente](https://colab.research.google.com/drive/1BEwuHwI2lspPipQAc7FFcPUOqMEF_K8D)
+- [Variáveis, Tipos e Interação](https://colab.research.google.com/drive/1tPrZLBMbz7uQzj9W8pQ7e3F76znXAR0h)
