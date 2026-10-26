@@ -38,3 +38,10 @@ flowchart TD
         G -->|print| H["Apenas exibe na tela\nO programa não recebe o valor de volta"]
         G -->|return| I["Devolve o valor ao programa\nPode ser salvo em uma variável"]
     end
+
+````
+
+---
+
+## Aula prática no Google Colab
+- []()
