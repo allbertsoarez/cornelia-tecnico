@@ -48,4 +48,9 @@ flowchart TD
         F --> G
         G --> H["Próximas linhas de código executadas"]
     end
+````
 
+---
+
+## Aula prática no Google Colab
+- [Tomando Decisões](https://colab.research.google.com/drive/134LeFCkFpfa3UaSzZGBr616mZ6KAilTp)
