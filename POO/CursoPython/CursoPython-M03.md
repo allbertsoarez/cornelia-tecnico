@@ -52,3 +52,8 @@ flowchart TD
     end
     
     F -.-> K
+````
+---
+
+## Aula prática no Google Colab
+- [Variáveis, Tipos e Interação](https://colab.research.google.com/drive/1tPrZLBMbz7uQzj9W8pQ7e3F76znXAR0h)
