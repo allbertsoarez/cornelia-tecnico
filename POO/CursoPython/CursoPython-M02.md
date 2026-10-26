@@ -50,7 +50,8 @@ flowchart TD
         G --> J
         J --> K["Exibição na tela"]
     end
-```
+
+````
 
 ## Aula prática no Google Colab
 - [O Universo Python](https://colab.research.google.com/drive/1NbcVmrJ02KiGtaxlTVUtwfJJ7kOKVdb4?usp=sharing)
