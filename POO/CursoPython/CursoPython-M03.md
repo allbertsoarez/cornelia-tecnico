@@ -56,4 +56,4 @@ flowchart TD
 ---
 
 ## Aula prática no Google Colab
-- [Variáveis, Tipos e Interação](https://colab.research.google.com/drive/1tPrZLBMbz7uQzj9W8pQ7e3F76znXAR0h)
+- [Manipulando Textos e Números](https://colab.research.google.com/drive/1ZQocr6azLgJSTUSvbV9gD-gG4e3Pl8Fo?usp=sharing)
