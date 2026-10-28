@@ -22,9 +22,9 @@ O processo de inserção envolve três etapas claras:
 
 ### 📊 Diagrama do Ecossistema de um Cluster
 
-````mermaid
+```mermaid
 graph TD
-    subgraph Ecossistema do Cluster
+    subgraph Cluster [Ecossistema do Cluster]
         A[Empresas Principais]
         B[Fornecedores Especializados]
         C[Prestadores de Serviços]
@@ -35,8 +35,8 @@ graph TD
     A <--> D
     B <--> C
     C <--> D
-    Ecossistema do Cluster --> E((Mercado Consumidor))
-````
+    Cluster --> E((Mercado Consumidor))
+```
 
 ---
 
