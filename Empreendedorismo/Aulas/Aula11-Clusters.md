@@ -6,7 +6,7 @@ Um cluster, ou aglomeração produtiva, é uma concentração geográfica de emp
 
 Para o empreendedor iniciante, compreender esse fenômeno é um pilar fundamental. Um novo negócio não nasce no vácuo. Ele se insere em um ecossistema que pode facilitar ou dificultar sua trajetória. Ao se estabelecer em um cluster, o empreendedor ganha acesso a uma cadeia de valor já estruturada, encontrando mão de obra qualificada, insumos com menor custo logístico e conhecimento tácito (aquele absorvido pela convivência diária, não por manuais).
 
-## ⚙️ Desenvolvimento: Elementos e Passo a Passo
+## ⚙️ Elementos e Passo a Passo
 
 Para aproveitar os benefícios de um cluster, é necessário entender seus três elementos constitutivos:
 1. **Proximidade geográfica:** Reduz custos de transporte e logística.
