@@ -18,6 +18,8 @@ O processo de inserção envolve três etapas claras:
 - **Etapa 2: Identificação de necessidades compartilhadas.** Descubra problemas comuns, como falta de escoamento ou necessidade de capacitação.
 - **Etapa 3: Ação colaborativa.** Negocie condições coletivas, crie marcas conjuntas ou compartilhe tecnologias.
 
+---
+
 ### 📊 Diagrama do Ecossistema de um Cluster
 
 ```mermaid
@@ -35,6 +37,8 @@ graph TD
     C <--> D
     Ecossistema do Cluster --> E((Mercado Consumidor))
 ```
+
+---
 
 ### 🪑 Exemplo Prático: Polo Moveleiro Regional
 Imagine uma pequena fábrica de móveis artesanais instalada em uma cidade com tradição em marcenaria. 
