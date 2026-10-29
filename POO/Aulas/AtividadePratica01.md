@@ -1,4 +1,4 @@
-### 📝 Atividade Prática: Criando um Cartão de Visitas em Python
+### 📝 ATIVIDADE: CRIAR UM CARTÃO DE VISITAS EM PYTHON
 
 **Contexto:**
 Você foi contratado como programador para desenvolver um pequeno sistema que gera cartões de visitas personalizados. O seu primeiro desafio é criar um programa em Python que, ao ser executado, exiba na tela um cartão com os seus dados.
