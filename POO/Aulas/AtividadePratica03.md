@@ -1,4 +1,4 @@
-### 📝 Atividade: Explorando Tipos de Dados com `type()`
+### 📝 ATIVIDADE: VERIFICANDO TIPOS DE DADOS COM `type()`
 
 **Contexto:**
 Você precisa criar um programa no Google Colab que declare diferentes tipos de variáveis e exiba na tela o tipo de cada uma usando a função `type()`.
