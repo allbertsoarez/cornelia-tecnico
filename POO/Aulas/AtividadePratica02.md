@@ -1,4 +1,4 @@
-### 📝 Atividade Prática: Calculando o Triplo de um número
+### 📝 ATIVIDADE: CALCULAR O TRIPLO DE UM NÚMERO
 
 **Contexto:**
 Você precisa criar um programa no Google Colab que calcule e exiba o **triplo** de um número. O programa deve ser escrito em uma **única célula**, e a ordem das linhas de código importa.
