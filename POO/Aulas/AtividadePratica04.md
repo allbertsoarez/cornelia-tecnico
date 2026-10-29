@@ -1,4 +1,4 @@
-### 📝 Atividade: Coletando Dados com `input()`
+### 📝 ATIVIDADE: COLETANDO DADOS COM `input()`
 
 **Contexto:**
 Você precisa criar um programa no Google Colab que peça informações ao usuário e exiba uma mensagem personalizada. Porém, há um detalhe importante: o `input()` sempre retorna texto, mesmo quando o usuário digita números!
@@ -60,21 +60,3 @@ No seu arquivo do Colab, você deve ter:
 ### 🌟 Desafio Bônus (+2,0 pontos)
 
 Modifique o programa para pedir também o ano atual e calcular em quantos anos o usuário fará 100 anos (em vez de mostrar o ano). Use `input()` para o ano atual também.
-
----
-
-### 🗝️ Gabarito (para o professor)
-
-**Célula 1 (solução esperada):**
-```python
-nome = input("Qual é o seu nome? ")
-idade = int(input("Qual é a sua idade? "))
-ano_atual = 2026
-anos_para_100 = 100 - idade
-ano_100 = ano_atual + anos_para_100
-
-print(f"{nome}, você fará 100 anos em {ano_100}!")
-```
-
-**Célula 2 (explicação esperada):**
-O aluno deve explicar que o `input()` sempre retorna uma string (texto), mesmo quando o usuário digita um número. Se tentarmos fazer cálculos matemáticos diretamente com o resultado do `input()`, o Python dá erro ou concatena textos em vez de somar números. Para resolver isso, precisamos converter a string para número usando `int()` (para inteiros) ou `float()` (para decimais).
