@@ -1,4 +1,4 @@
-# 🌍 Introdução: O Novo Cenário do Trabalho
+# 🌍 INTRODUÇÃO: O NOVO CENÁRIO DO TRABALHO
 
 O mundo do trabalho passou por transformações profundas e aceleradas nas últimas décadas. O modelo tradicional de carreira, baseado em empregos de longa duração e estruturas hierárquicas rígidas, deu lugar a um ambiente dinâmico e flexível. Avanços tecnológicos e mudanças nas expectativas profissionais redefiniram as relações de trabalho. 
 
