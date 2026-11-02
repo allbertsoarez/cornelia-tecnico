@@ -1,5 +1,5 @@
 # 📘 ATIVIDADE PRÁTICA — FASE 1
-## Projeto: Editora "Páginas & Tramas"
+## Projeto: Editora "Páginas & Dramas"
 
 ### 🎯 Contexto
 
@@ -17,4 +17,3 @@ Realizar o **Levantamento de Requisitos** junto ao cliente:
 1. Quais são as **entidades** do negócio (os "objetos" ou "conceitos" principais sobre os quais a editora precisa guardar informações).
 
 2. Quais são os **atributos** de cada entidade (as informações específicas que precisam ser armazenadas sobre cada uma delas).
-
