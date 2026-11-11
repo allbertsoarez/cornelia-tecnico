@@ -42,8 +42,8 @@
 # SEMANA 5
 
 #### 📖 ATIVIDADES
-- [Lista de exercícios - Conceitos básicos de MER](https://docs.google.com/forms/d/e/1FAIpQLSdtdmXiXLtirErXzyu9P9iwVeOKgkvesJ-i8zZCmERaBl43dw/viewform?usp=sharing&ouid=102080311911607392388)
-- [Lista de exercícios2](https://docs.google.com/forms/d/e/1FAIpQLSftTsDlDN72ISrESkiHGhll_cv41ES-dboznaXI6P0Di8s3Iw/viewform?usp=dialog)
+- [Lista de exercícios 1 - Conceitos básicos de MER](https://docs.google.com/forms/d/e/1FAIpQLSdtdmXiXLtirErXzyu9P9iwVeOKgkvesJ-i8zZCmERaBl43dw/viewform?usp=sharing&ouid=102080311911607392388)
+- [Lista de exercícios 2  - Conceitos básicos de MER](https://docs.google.com/forms/d/e/1FAIpQLSftTsDlDN72ISrESkiHGhll_cv41ES-dboznaXI6P0Di8s3Iw/viewform?usp=dialog)
 - [Lista de exercícios - Editora](https://docs.google.com/forms/d/e/1FAIpQLScjRZUxT_XSG9PMkyuAqI6Hh83P6qxbbj-OxwdlKU_52z9BKA/viewform?usp=header)
 
 ---
