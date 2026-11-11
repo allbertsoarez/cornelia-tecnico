@@ -49,6 +49,28 @@
 - [Lista de exercícios - Os Pilares da Inovação](https://docs.google.com/forms/d/e/1FAIpQLSeheJWdDJ3kvKPvLKCM6oA_U6QZ7AIjb3jcp-TJq2Dh5aX7Eg/viewform?usp=header)
 ---
 
+# 📖 SEMANA 6
+#### ATIVIDADES
+
+- [Lista de exercícios - Fundamentos da identificação de oportunidades](https://docs.google.com/forms/d/e/1FAIpQLScJEuUoo0w8k_R-ZFwz1upxiWjZa263_AEp4GL4EFtrXVjmxQ/viewform?usp=dialog)
+
+---
+
+# 📖 SEMANA 7
+#### ATIVIDADES
+
+- [Lista de exercícios - Formas Jurídicas](https://docs.google.com/forms/d/e/1FAIpQLScBe4hddP3dRUcFRbWpf4Crcgh2o22rCfg_qB0C4GZTH5UP5Q/viewform?usp=header)
+
+
+---
+
+# 📖 SEMANA 8
+#### ATIVIDADES
+
+- [Lista de exercícios - Qualidade & Produtividade](https://docs.google.com/forms/d/e/1FAIpQLSe8g4m6KM5jHDa0wh4RElCez0ZVg9GDYnzv6GN_ApEQ-lzufA/viewform?usp=header)
+
+---
+
 # RECOMENDAÇÕES
 
 #### PALESTRAS
