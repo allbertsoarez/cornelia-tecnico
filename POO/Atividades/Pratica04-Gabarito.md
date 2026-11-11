@@ -1,4 +1,4 @@
-### 🗝️ Gabarito - Atividade Pratica 04
+### 🗝️ Gabarito - Atividade Pratica 4
 
 **Célula 1 (solução esperada):**
 ```python
