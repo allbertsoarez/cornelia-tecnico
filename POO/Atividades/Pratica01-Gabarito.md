@@ -1,4 +1,4 @@
-# 🗝️ Gabarito - Pratica 1
+# 🗝️ Gabarito - Atividade Pratica 1
 ```python
 print("====================================")
 print("Nome: Seu nome")
