@@ -12,4 +12,6 @@ print(f"{nome}, você fará 100 anos em {ano_100}!")
 ```
 
 **Célula 2 (explicação esperada):**
-O aluno deve explicar que o `input()` sempre retorna uma string (texto), mesmo quando o usuário digita um número. Se tentarmos fazer cálculos matemáticos diretamente com o resultado do `input()`, o Python dá erro ou concatena textos em vez de somar números. Para resolver isso, precisamos converter a string para número usando `int()` (para inteiros) ou `float()` (para decimais).
+- O aluno deve explicar que o `input()` sempre retorna uma string (texto), mesmo quando o usuário digita um número.
+- Se tentarmos fazer cálculos matemáticos diretamente com o resultado do `input()`, o Python dá erro ou concatena textos em vez de somar números.
+- Para resolver isso, precisamos converter a string para número usando `int()` (para inteiros) ou `float()` (para decimais).
