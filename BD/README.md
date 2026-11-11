@@ -48,6 +48,15 @@
 
 ---
 
+# SEMANA 6
+
+#### 📖 ATIVIDADES
+- [Lista de exercícios 1 - Mapeamento de Restriçõe](https://docs.google.com/forms/d/e/1FAIpQLSfJW8MyzaWRvrkA2IfPAoscw9i9jCdGgnYKiuClDMhvDdSebA/viewform?usp=dialog)
+- [Lista de exercícios 2 - Mapeamento de Restriçõe](https://docs.google.com/forms/d/e/1FAIpQLSffnxMzdWpjg6-u_c_n_D_KyTWf4xxkp1gZTgesAfZK04jZlA/viewform?usp=sharing&ouid=102080311911607392388)
+
+
+---
+
 # RECOMENDAÇÕES
 
 #### SOFTWARES
