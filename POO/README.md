@@ -91,6 +91,13 @@ Criar uma estrutura de classes para modelar jogos de loteria (Quina e Mega-Sena)
 
 ---
 
+# SEMANA 8
+
+#### 📖 ATIVIDADES
+- Atividade prática de programação no laboratório 
+
+---
+
 # RECOMENDAÇÕES
 
 #### SOFTWARES
