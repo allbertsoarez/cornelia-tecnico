@@ -2,20 +2,20 @@
 
 ```mermaid
 mindmap
-  root((Herança e Encapsulamento))
+  raiz((Heranca e Encapsulamento))
     Conceitos
-      Definição
+      Definicao
       Finalidade
-    Herança
+    Heranca
       Classe Pai
       Classe Filha
-      "super()"
+      Funcao super
     Encapsulamento
       Atributo Protegido
       Atributo Privado
-      Métodos de Acesso
-    Exemplo Prático
+      Metodos de Acesso
+    Exemplo Pratico
       ContaBancaria
       ContaPoupanca
-      "_saldo"
+      saldo protegido
 ```
