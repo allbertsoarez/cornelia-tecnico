@@ -1,4 +1,4 @@
-## ENTREGÁVEL 4 — MAPA MENTAL (MERMAID)
+# MAPA MENTAL
 
 ```mermaid
 mindmap
@@ -9,7 +9,7 @@ mindmap
     Herança
       Classe Pai
       Classe Filha
-      super()
+      "super()"
     Encapsulamento
       Atributo Protegido
       Atributo Privado
@@ -17,5 +17,7 @@ mindmap
     Exemplo Prático
       ContaBancaria
       ContaPoupanca
-      _saldo
+      "_saldo"
 ```
+
+Basta substituir o bloco anterior por este que o diagrama será renderizado corretamente.
