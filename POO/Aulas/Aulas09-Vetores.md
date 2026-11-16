@@ -1,6 +1,6 @@
 # 📦 Vetores e Coleções em Python
 
-### 🎯 Introdução
+## 🎯 Introdução
 O desenvolvimento de software exige o armazenamento de múltiplos valores. Variáveis isoladas tornam o código inviável para grandes volumes de dados. Coleções resolvem este problema. Uma coleção agrupa múltiplos itens em uma única unidade. 
 
 Python oferece quatro coleções nativas principais:
@@ -11,7 +11,7 @@ Python oferece quatro coleções nativas principais:
 
 Este material foca na aplicação prática de listas e dicionários em um sistema de cadastro de produtos.
 
-### 🛠️ Desenvolvimento e Sintaxe
+## 🛠️ Desenvolvimento e Sintaxe
 
 A lista utiliza colchetes `[]`. O índice do primeiro elemento é zero. O método `append()` adiciona itens ao final.
 
@@ -21,7 +21,7 @@ O dicionário utiliza chaves `{}`. Ele armazena dados no formato `chave: valor`.
 
 > ⚠️ **Erro comum de sintaxe:** Tentar acessar uma chave inexistente com colchetes `dict["chave"]` gera um `KeyError`. Use `dict.get("chave")` para retornar `None` com segurança.
 
-#### Diagrama de Classes: Sistema de Produtos
+### Diagrama de Classes: Sistema de Produtos
 ```mermaid
 classDiagram
     class SistemaDeProdutos {
@@ -39,7 +39,7 @@ classDiagram
     SistemaDeProdutos "1" *-- "0..*" ProdutoDict : armazena em lista
 ```
 
-#### Exemplo Prático
+### Exemplo Prático
 O código abaixo modela o `SistemaDeProdutos`. A classe inicializa uma lista vazia. O método de adição valida os dados, cria um dicionário e o insere na lista.
 
 ```python
@@ -64,5 +64,5 @@ class SistemaDeProdutos:
             print(f"Nome: {item['nome']} | Preço: {item['preco']}")
 ```
 
-### 🏁 Conclusão
+## 🏁 Conclusão
 Listas fornecem flexibilidade para sequências dinâmicas. Dicionários oferecem mapeamento rápido. A combinação de ambos é um padrão robusto. Evite o `IndexError` verificando o tamanho da lista. Escolha a estrutura de dados correta para garantir a integridade do sistema.
