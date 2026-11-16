@@ -19,5 +19,3 @@ mindmap
       ContaPoupanca
       "_saldo"
 ```
-
-Basta substituir o bloco anterior por este que o diagrama será renderizado corretamente.
