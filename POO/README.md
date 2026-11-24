@@ -1,6 +1,6 @@
 # SEMANA 1
 #### 📖 ATIVIDADES
-- [Lista de Exercícios - Aula 1](https://docs.google.com/forms/d/e/1FAIpQLSdnFpzgdQIs1de1Br8LQutuQHC0UzoGdfS0RhM8h7Yw_SND6g/viewform?usp=dialog)
+- Lista de Exercícios - Aula 1
 #### SLIDES
 - [Slide 1 - Introdução a POO](https://docs.google.com/presentation/d/1olzUcprzTvNhBGMIrnUIdwRL0bk03WytnBVvl3Epwrg/edit?usp=sharing)
 - [Slide 2 - Programação Orientada à Objetos](https://docs.google.com/presentation/d/1LQMvN5KJPGPLnSVE2OyQxPt1vITSEeSP_--s9cUT3qg/edit?usp=sharing)
@@ -11,9 +11,10 @@
 ---
 # SEMANA 2
 #### 📖 ATIVIDADES
-- [Lista de Exercícios 1 - Aula 2](https://docs.google.com/forms/d/e/1FAIpQLSd9-XONQHVRIORF6YT_cwqYzUeNnhO_nQKmaikV7uGH14wB0g/viewform?usp=header)
-- [Lista de Exercícios 2 - Aula 2](https://docs.google.com/forms/d/e/1FAIpQLSefDvfYOyZ7Xd8JpGFvVDVqTlO9STVPzhx0p1nx7dyLRiJQDg/viewform?usp=header)
-- [Lista de Exercícios 3 - Aula 2](https://docs.google.com/forms/d/e/1FAIpQLSdbgIBz8yiqJPtNEboa96wfgFxulws-gHmQCgrR_dhl-djQKQ/viewform?usp=header)
+- Lista de Exercícios 1 - Aula 2
+- Lista de Exercícios 2 - Aula 2
+- Lista de Exercícios 3 - Aula 2
+- 
 #### SLIDES
 - [Do molde a realidade](https://docs.google.com/presentation/d/1iySks-yJcqlp1LRaVJw-mC-scWtp_3pqAxzQMkO7E3s/edit?usp=sharing)
 - [A lógica da percepção humana](https://docs.google.com/presentation/d/1rrToEkZPlR6S8dOVDi-iCrG04ZgZoX2_Z5VaPPao-Vw/edit?usp=sharing)
@@ -30,7 +31,8 @@
 # SEMANA 3
 
 #### 📖 ATIVIDADES
-- [Lista de Exercício - Classes, Instanciação e Classes Abstratas](https://docs.google.com/forms/d/e/1FAIpQLScawne-GUR4msesxzHxzxB3RPO2wfkeDkwyXd6bZpHIRyRSbA/viewform?usp=header)
+- Lista de Exercício - Classes, Instanciação e Classes Abstratas
+  
 - [**Atividade em sala - Projeto: Modelagem de Jogos de Loteria**](https://colab.research.google.com/drive/1Zya_2KQQv6gdWVQEY1fichW7McLL-5wR?usp=sharing)<br>
 Criar uma estrutura de classes para modelar jogos de loteria (Quina e Mega-Sena), utilizando herança e instanciação de objetos
 
@@ -66,14 +68,14 @@ Criar uma estrutura de classes para modelar jogos de loteria (Quina e Mega-Sena)
 # SEMANA 4
 
 #### 📖 ATIVIDADES
-- [Lista de Exercício - REVISÂO - Modelando Classe Loterias](https://docs.google.com/forms/d/e/1FAIpQLSc_ja5kAtUq5I7itneY-Ipj8PhI-u2nttW0Nvm434BksLvToQ/viewform?usp=header)
-
+- Lista de Exercício - REVISÂO - Modelando Classe Loterias
+  
 ---
 
 # SEMANA 5
 
 #### 📖 ATIVIDADES
-- [Lista de Exercício - Criação de Projeto em Python](https://docs.google.com/forms/d/e/1FAIpQLSfaLCUr0fA8wFLUNpVX333l_rKRVbKFWlX7NfYge-LFUgoRyQ/viewform?usp=header)
+- Lista de Exercício - Criação de Projeto em Python
 
 ---
 
