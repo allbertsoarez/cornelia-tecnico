@@ -1,7 +1,7 @@
 # SEMANA 1
 #### 📖 ATIVIDADES
 - Lista de exercícios 1
-- 
+ 
 #### SLIDES
 
 - [Slide 1 - Arquitetura dos Dados](https://docs.google.com/presentation/d/1fe0oqdrmQL1pyZj6TiM41cK1737g_UP_ZzLY0c92wcA/edit?usp=sharing)
