@@ -37,7 +37,7 @@
 #### ATIVIDADES
 - Lista de exercícios 1 - Ser Empreendedor
 - Lista de exercícios 2 - Perfil do Empreendedor
-- 
+
 #### SLIDES
 - [Slide 1 - Blueprint da Inovação](https://docs.google.com/presentation/d/1Ec0Doi0Smq09ZIBFbHh3_4E-I-oWaL6uxbCIaILFsxI/edit?usp=sharing)
 - [Slide 2 - A Arquitetura Empreendedora](https://docs.google.com/presentation/d/1UsSDWUG0aTesbOCTmx0VZiAe81MrYdJuweSJsEmwnpo/edit?usp=sharing)
