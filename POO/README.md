@@ -14,7 +14,7 @@
 - Lista de Exercícios 1 - Aula 2
 - Lista de Exercícios 2 - Aula 2
 - Lista de Exercícios 3 - Aula 2
-- 
+
 #### SLIDES
 - [Do molde a realidade](https://docs.google.com/presentation/d/1iySks-yJcqlp1LRaVJw-mC-scWtp_3pqAxzQMkO7E3s/edit?usp=sharing)
 - [A lógica da percepção humana](https://docs.google.com/presentation/d/1rrToEkZPlR6S8dOVDi-iCrG04ZgZoX2_Z5VaPPao-Vw/edit?usp=sharing)
