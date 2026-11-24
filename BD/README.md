@@ -1,7 +1,7 @@
 # SEMANA 1
 #### 📖 ATIVIDADES
-- [Lista de exercícios 1](https://docs.google.com/forms/d/e/1FAIpQLSeh2a4mv3JIobtMe5v3irgLGZJJ7xXJGlSQuwG7q3pdlylzaw/viewform?usp=dialog)
-
+- Lista de exercícios 1
+- 
 #### SLIDES
 
 - [Slide 1 - Arquitetura dos Dados](https://docs.google.com/presentation/d/1fe0oqdrmQL1pyZj6TiM41cK1737g_UP_ZzLY0c92wcA/edit?usp=sharing)
@@ -14,8 +14,8 @@
 
 #### 📖 ATIVIDADES
 
-- [Lista de exercícios 1](https://docs.google.com/forms/d/e/1FAIpQLSf3dFlgWxlF5PbEnSZvxbxfwNjUNOKfnch_8p2IwwfUaWXQ1g/viewform?usp=dialog)
-- [Lista de exercícios 2](https://docs.google.com/forms/d/e/1FAIpQLSdvdzj5U0qhbvTbqqhze2vyDbWtCeHzXVrFxH0dM6_AqPh0MA/viewform?usp=header)
+- Lista de exercícios 1
+- Lista de exercícios 2
   
 #### SLIDES
 
@@ -28,31 +28,31 @@
 # SEMANA 3
 
 #### 📖 ATIVIDADES
-- [Lista de exercícios - Ciclo de Vida e Fases de um Projeto de Banco de Dados](https://docs.google.com/forms/d/e/1FAIpQLSeDdolSsV8LSagjzPi3ktRQBKbRvCsqvjMcY7usIFumzjZ_vQ/viewform?usp=header)
-- [Lista de exercícios - 5 componentes fundamentais de um Sistema de Banco de Dados](https://docs.google.com/forms/d/e/1FAIpQLSfflwCr7HidDh01464Tw0TBfCcU_Oe0L1-OSbbOfzUFCdnR-Q/viewform?usp=header)
-- [Lista de exercícios - Anatomia de um colapso](https://docs.google.com/forms/d/e/1FAIpQLSef0SVCqyXXE51NL1eDkSFVGbgboen8qPvll70CfoXdRtw9Hg/viewform?usp=header)
+- Lista de exercícios - Ciclo de Vida e Fases de um Projeto de Banco de Dados
+- Lista de exercícios - 5 componentes fundamentais de um Sistema de Banco de Dados
+- Lista de exercícios - Anatomia de um colapso
 
 ---
 # SEMANA 4
 
 #### 📖 ATIVIDADES
-- [Lista de exercícios - Modelo Entidade-Relacionamento](https://docs.google.com/forms/d/1d0ztOBcPVqLjKs20Nqbtpiqtps4qLZ8dIiaKdTNvCWc/edit)
+- Lista de exercícios - Modelo Entidade-Relacionamento
+
 ---
 
 # SEMANA 5
 
 #### 📖 ATIVIDADES
-- [Lista de exercícios 1 - Conceitos básicos de MER](https://docs.google.com/forms/d/e/1FAIpQLSdtdmXiXLtirErXzyu9P9iwVeOKgkvesJ-i8zZCmERaBl43dw/viewform?usp=sharing&ouid=102080311911607392388)
-- [Lista de exercícios 2  - Conceitos básicos de MER](https://docs.google.com/forms/d/e/1FAIpQLSftTsDlDN72ISrESkiHGhll_cv41ES-dboznaXI6P0Di8s3Iw/viewform?usp=dialog)
-- [Lista de exercícios - Editora](https://docs.google.com/forms/d/e/1FAIpQLScjRZUxT_XSG9PMkyuAqI6Hh83P6qxbbj-OxwdlKU_52z9BKA/viewform?usp=header)
+- Lista de exercícios 1 - Conceitos básicos de MER
+- Lista de exercícios 2 - Conceitos básicos de MER
+- Lista de exercícios - Editora
 
 ---
 
 # SEMANA 6
 
 #### 📖 ATIVIDADES
-- [Lista de exercícios 1 - Mapeamento de Restriçõe](https://docs.google.com/forms/d/e/1FAIpQLSffnxMzdWpjg6-u_c_n_D_KyTWf4xxkp1gZTgesAfZK04jZlA/viewform?usp=dialog)
-
+- Lista de exercícios 1 - Mapeamento de Restriçõe
 
 ---
 
@@ -64,7 +64,5 @@
 - [SQLite](https://www.sqlite.org/)
 - [SQL Online](https://sqliteonline.com/)
 - [XAMPP](https://www.apachefriends.org/pt_br/index.html)
-
-
 
 
