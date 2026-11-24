@@ -2,7 +2,7 @@
 
 #### ATIVIDADES
 
-- [Lista de exercícios 1 - INTRODUÇÃO](https://docs.google.com/forms/d/e/1FAIpQLSfe-WfvtwMNwMrPPcMNgfHti0a_k9CRR4vSHwwCoqEA9zl4jw/viewform?usp=dialog)
+- Lista de exercícios 1 - INTRODUÇÃO
 
 #### SLIDES
 
@@ -14,19 +14,19 @@
 
 #### ATIVIDADES
 
-- [Lista de exercícios 1 - COMO TRANSFORMAR UM CONSUMIDOR EM CLIENTE](https://docs.google.com/forms/d/e/1FAIpQLSezv-_f2xcRXoQFJsEnYblzUpnb7PmaCPjXs2sD8A4jpfGRwA/viewform?usp=header)
-- [Lista de exercícios 2 - PROCESSO DE DECISÃO DE COMPRA](https://docs.google.com/forms/d/e/1FAIpQLSf9-Eyl14wFJQKUW4mnxSZJ3g9xgtI1C4w799xK3iIeCqUhEA/viewform?usp=header)
-- [Lista de exercícios 3 - Palestra David Pontes](https://docs.google.com/forms/d/e/1FAIpQLSeISHbMQpkWHnqVag7gSCq9D6kOVeoRQCHmPcizPoeRjTG0tQ/viewform?usp=dialog)
-- [Lista de exercícios 4 - BÔNUS](https://docs.google.com/forms/d/e/1FAIpQLScJjAwmDJ6mi1KY7h_B4LaEp-4em82xuuyhPW15mnZ4Las9WQ/viewform?usp=header) 
+- Lista de exercícios 1 - COMO TRANSFORMAR UM CONSUMIDOR EM CLIENTE
+- Lista de exercícios 2 - PROCESSO DE DECISÃO DE COMPRA
+- Lista de exercícios 3 - Palestra David Pontes
+- Lista de exercícios 4 - BÔNUS
 
 ---
 
 # 📖 SEMANA 3
 
 #### ATIVIDADES
-- [Lista de exercícios 1 - PERFIL PROFISSIONAL DO EMPREENDEDOR](https://docs.google.com/forms/d/e/1FAIpQLSf25JiRiPnF0PCoCSRvzOg9xYF3aaf7TFdtC5BN8x21bPeY8g/viewform?usp=header)
-- [Lista de exercícios 2 - A IMPORTÂNCIA DA QUALIDADE](https://docs.google.com/forms/d/e/1FAIpQLScrrrxtqqxF-VE8wfLCkLSlg5E6xL8HZVZaiiw2qKRv40h3ow/viewform?usp=header)
-
+- Lista de exercícios 1 - PERFIL PROFISSIONAL DO EMPREENDEDOR
+- Lista de exercícios 2 - A IMPORTÂNCIA DA QUALIDADE
+- 
 #### SLIDES
 - [Slide 1 - A CIÊNCIA CONTRA O MITO DO DOM](https://docs.google.com/presentation/d/1LPe71X8bH74Xoy-MWs38BuXDRGxfsdr_ijPIhB5xheM/edit?usp=sharing)   
 - [Slide 2 - A ARQUITETURA DA QUALIDADE](https://docs.google.com/presentation/d/1ZOTITm900Yqw6N7er8t_JQHHH-GV1ml4-bcUDQA4gDw/edit?usp=sharing)
@@ -35,9 +35,9 @@
 
 # 📖 SEMANA 4
 #### ATIVIDADES
-- [Lista de exercícios 1 - Ser Empreendedor](https://docs.google.com/forms/d/e/1FAIpQLSeMiS80TY2ECiGAF7p7uVf9-x-l9sUVZx-5rJg1gt24OWbrIA/viewform?usp=header)
-- [Lista de exercícios 2 - Perfil do Empreendedor](https://docs.google.com/forms/d/e/1FAIpQLScVZGSVhFvRP2zldUwNcXGQcW4zVOqe9jvm64UD9ZDTdSExGw/viewform?usp=header)
-
+- Lista de exercícios 1 - Ser Empreendedor
+- Lista de exercícios 2 - Perfil do Empreendedor
+- 
 #### SLIDES
 - [Slide 1 - Blueprint da Inovação](https://docs.google.com/presentation/d/1Ec0Doi0Smq09ZIBFbHh3_4E-I-oWaL6uxbCIaILFsxI/edit?usp=sharing)
 - [Slide 2 - A Arquitetura Empreendedora](https://docs.google.com/presentation/d/1UsSDWUG0aTesbOCTmx0VZiAe81MrYdJuweSJsEmwnpo/edit?usp=sharing)
@@ -46,28 +46,28 @@
 # 📖 SEMANA 5
 #### ATIVIDADES
 
-- [Lista de exercícios - Os Pilares da Inovação](https://docs.google.com/forms/d/e/1FAIpQLSeheJWdDJ3kvKPvLKCM6oA_U6QZ7AIjb3jcp-TJq2Dh5aX7Eg/viewform?usp=header)
+- Lista de exercícios - Os Pilares da Inovação
+  
 ---
 
 # 📖 SEMANA 6
 #### ATIVIDADES
 
-- [Lista de exercícios - Fundamentos da identificação de oportunidades](https://docs.google.com/forms/d/e/1FAIpQLScJEuUoo0w8k_R-ZFwz1upxiWjZa263_AEp4GL4EFtrXVjmxQ/viewform?usp=dialog)
+- Lista de exercícios - Fundamentos da identificação de oportunidades
 
 ---
 
 # 📖 SEMANA 7
 #### ATIVIDADES
 
-- [Lista de exercícios - Formas Jurídicas](https://docs.google.com/forms/d/e/1FAIpQLScBe4hddP3dRUcFRbWpf4Crcgh2o22rCfg_qB0C4GZTH5UP5Q/viewform?usp=header)
-
+- Lista de exercícios - Formas Jurídicas
 
 ---
 
 # 📖 SEMANA 8
 #### ATIVIDADES
 
-- [Lista de exercícios - Qualidade & Produtividade](https://docs.google.com/forms/d/e/1FAIpQLSe8g4m6KM5jHDa0wh4RElCez0ZVg9GDYnzv6GN_ApEQ-lzufA/viewform?usp=header)
+- Lista de exercícios - Qualidade & Produtividade
 
 ---
 
